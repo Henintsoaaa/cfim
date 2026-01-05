@@ -1,0 +1,1408 @@
+date,zone,vent,etat_mer,temps
+06/09/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20/25 kt au nord d'Antalaha,agitée à forte,Pluies faible a modérée
+06/09/2019,MAHANORO AU CAP SAINTE MARIE,05/10 kt devenant progressivement secteur sud 20/25kt localement 30kt vers midi,agitée à forte,pluies
+06/09/2019,CAP D'AMBRE A BESALAMPY,"15/20 kt localement 20 kt au sud de Majunga, variable 05/10kt ailleurs",Non spécifié,Temps sec
+06/09/2019,BESALAMPY A MOROMBE,15/20 kt,"agitée a forte, très forte près Morombe dans la deuxième partie de période",Temps sec
+06/09/2019,MOROMBE A CAP SAINTE MARIE,20/25 kt atteignant 30/35 kt entre Morombe et,Non spécifié,Temps partiellement nuageux
+07/09/2019,CAP D'AMBRE A BESALAMPY,DE SUD-EST 15/20 KT ATTEIGNANT 30 KT LE MATIN ENTRE BESALAMPY ET ANALALAVA. VENT DE SECTEUR NORD 10/15 KT L'APRES-MIDI,PEU AGITÉ,Non spécifié
+07/09/2019,BESALAMPY A MOROMBE,"DE SECTEUR SUD 20/25 KT. LOCALEMENT 30 KT AU COURS DE L'APRES-MIDI, S'AFFAIBLISSANT SUD-",AGITÉ,SEC
+07/09/2019,MOROMBE AU CAP SAINTE MARIE,DE SUD-EST 20/25 KT TOURNANT SECTEUR EST TEMPORAIRE 27/33 KT ENTRE MOROMBE ET AMBOVOMBE,F,PARTIELLEMENT NUAGEUX
+07/09/2019,MAHANORO AU CAP SAINTE MARIE,DE SUD-EST 20/25 KT ATTEIGNANT LOCALEMENT 30KT,"AGITÉE À FORTE, TRES FORTE PAR",Non spécifié
+07/09/2019,CAP D'AMBRE A MAHANORO,DE SUD-EST 15/20 KT ATTEIGNANT 25/30 KT AU NORD D'ANTALAHA,AGITÉE À FORTE. HAUTEUR DE VAGUE 2.8/3.2M,Non spécifié
+09/09/2019,CAP D'AMBRE A MAHANORO,"DE SUD-EST 05/10 KT LOCALEMENT 15 KT AU SUD D'ANTALAHA; AILLEURS, SUD-EST 15/20 KT LOCALEMENT 25 KT ATTEIGNANT 30 KTR VERS CAP D'AMBRE",FORTE. HAUTEUR DE VAGUE 2/3.5M,Non spécifié
+09/09/2019,MAHANORO AU CAP SAINTE MARIE,DE D'EST À NORD-EST 05/10 KT LOCALEMENT 15/20 KT DEVENANT NORD-EST 20/25 KT LOCALEMENT 30 KT AU SUD DE VANGAINDRANO,FORTE S'AFFAIBLISSANT LE JOUR SUIVANT. HAUTEUR DE VAGUE 2/2.5M LOCALEMENT 3M,Non spécifié
+09/09/2019,CAP D'AMBRE A BESALAMPY,DE SUD-EST 10/15 KT LOCALEMENT 20 KT TOURNANT SUD-OUEST 10/15 KT L'APRES- MIDI,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5/1M,Non spécifié
+09/09/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10/15 KT DEVENANT VARIABLE 05 KT AU SUD DE MORONDAVA,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1/1.5 M,Non spécifié
+09/09/2019,MOROMBE AU CAP SAINTE MARIE,DE NORD-EST 15/20 KT LOCALEMENT 25/30 KT,FORTE À TRES FORTE. HAUTEUR DE VAGUE 2.5/3 M ATTEIGNANT 2.5M PAR,Non spécifié
+10/09/2019,CAP D'AMBRE A MAHANORO,"DE SUD-EST 20/25KT ENTRE CAP D'AMBRE ET ANTALAHA LOCALEMENT 30KT SUR LA POINTE NORD, 05/10 KT LOCALEMENT 15 KT","AGITÉE À FORTE, S'AFFAIBLISSANT LE JOUR SUIVANT. HAUTEUR DE VAGUE 2/3.5M",Non spécifié
+10/09/2019,MAHANORO AU CAP SAINTE MARIE,DE NORD-EST 05/10 KT ATTEIGNANT 15/25 KT SUR LA MOITIÉE SUD DE ZONE,AGITÉE . HAUTEUR DE VAGUE 1.5/2M,Non spécifié
+10/09/2019,CAP D'AMBRE A BESALAMPY,DE SUD-EST 10/15 KT LOCALEMENT 20 KT TOURNANT SUD-OUEST 10/15 KT L'APRES-MIDI,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5/1.5M,Non spécifié
+10/09/2019,BESALAMPY A MOROMBE,DE SECTEUR NORD 10/15 KT DEVENANT VARIABLE 05 KT EN FIN PÉRIODE,PEU AGITÉE. HAUTEUR DE VAGUE 1/1.5 M,SEC
+10/09/2019,MOROMBE AU CAP SAINTE MARIE,DE NORD-EST 10/15 KT DEVENANT VARIABLE 05/10KT DANS LA DEUXIÈME,AGITÉE. HAUTEUR DE VAGUE 1.5/2M,Non spécifié
+13/09/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A TOAMASINA","10/15 kt, 20/25 kt au Nord d'Antalaha",peu agitée à agitée,Pluies faibles
+13/09/2019,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,peu agitée,Temps sec
+13/09/2019,CAP D'AMBRE A BESALAMPY,"05/10 kt localement 15 kt le matin, tournant Nord-ouest 10/15 kt l'après-mdi",belle à peu agitée,Temps peu nuageux
+13/09/2019,MOROMBE AU CAP SAINTE MARIE,05/10 kt atteignant 15kt en fin période,peu agitée à agitée,Temps sec
+13/09/2019,CAP D'AMBRE A TOAMASINA,"DE SUD-EST 10/15 KT, 20/25 KT AU NORD D'ANTALAHA",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M ATTEIGNANT 2.5M PRES CAP D'AMBRE,Non spécifié
+13/09/2019,TOAMASINA AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt entre Taolagnaro et Cap,Non spécifié,nuageux
+14/09/2019,CAP D'AMBRE A TOAMASINA,05/10 kt atteignant 15/20 kt au Nord de Sambava et 20/25 kt pres Cap d'Ambre,"peu agitée à agitée, forte pres Cap d'Ambre",Pluies faibles
+14/09/2019,TOAMASINA A TAOLAGNARO,10/15 kt temporairement 20/25 kt entre Mananjary et,Non spécifié,Non spécifié
+14/09/2019,BESALAMPY A MOROMBE,10/15 kt et atteignant 20/25 kt pres Morombe vers fin periode,peu agitée a agitee,Temps sec
+14/09/2019,MOROMBE A TAOLAGNARO,10/15 kt entre cap Ste Marie et Taolagnaro et 15/20 kt entre Morombe et Cap Ste Marie vers fin periode,peu agitée à agitée,Temps sec
+14/09/2019,CAP D'AMBRE A BESALAMPY,"10/15 kt pres de Besalampy, vent de Sud-est 15/20 kt entre",Non spécifié,Temps peu nuageux
+16/09/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A TOAMASINA",05/10 kt localement 15 kt atteignant 20/25 kt au Nord d'Antalaha,Non spécifié,Non spécifié
+16/09/2019,TOAMASINA A TAOLAGNARO,"05/10 kt avant front, sud-est 10/15kt à l'arriere front",peu agitée à agitée,Non spécifié
+16/09/2019,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15kt,belle,Temps peu nuageux
+16/09/2019,BESALAMPY A MOROMBE,10/15 kt localement 20 kt,peu agitée à agitée,Temps sec
+16/09/2019,MOROMBE A TAOLAGNARO,10/15 kt atteignant localement 20/25 kt en vers l'apres-midi,agitée à forte Hauteur de vague 1,Temps sec
+16/09/2019,CAP D'AMBRE A TOAMASINA,05/10 kt localement 15 kt atteignant 20/25 kt au Nord d'Antalaha,Non spécifié,Non spécifié
+17/09/2019,BESALAMPY A MOROMBE,VARIABLE 05 KT PUIS SECTEUR SUD 10/15 KT LOCALEMENT 20 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M LOCALEMENT 2M,SEC
+17/09/2019,CAP D'AMBRE A BESALAMPY,DE BRISE COTIERE 05/10 KT LOCALEMENT 15KT,BELLE. HAUTEUR DE VAGUE 05M/1M,PEU NUAGEUX
+17/09/2019,MOROMBE A TAOLAGNARO,DE SUD-EST 10/15 KT ATTEIGNANT LOCALEMENT 20/25 KT,AGITÉE À LOCALEMENT FORTE. HAUTEUR DE VAGUE 1.5M/2M LOCALEMENT 2.3M. 4. MAFOR : 06780 16415 06798 16315,SEC
+19/09/2019,MOROMBE AU CAP SAINTE MARIE,15/25 kt,agitée à forte,Temps sec
+19/09/2019,BESALAMPY A MOROMBE,10/15 kt,peu agitée à agitée,Temps sec
+19/09/2019,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15kt,belle,Temps peu nuageux
+19/09/2019,TOAMASINA AU CAP SAINTE MARIE,10/15 kt localement 20kt,peu agitée à agitée,Non spécifié
+19/09/2019,CAP D'AMBRE A TOAMASINA,10/20 kt localement 25kt,agitée,Pluies faibles
+20/09/2019,MAHANORO AU CAP SAINTE MARIE,10/15 kt tournant Nord-est 15/20 kt près Taolagnaro vers fin période,agitée à forte par houle modérée du Sud,Non spécifié
+20/09/2019,CAP D'AMBRE A MAHANORO,10/15kt atteignant 20/25kt entre Vohemar et Antalaha et 30 kt près,Non spécifié,Pluies faibles
+20/09/2019,CAP D'AMBRE A BESALAMPY,"10/15 kt le matin, variable 05 kt a Nord-ouest 10 kt l'après- midi",belle a peu agitée,Temps peu nuageux
+20/09/2019,BESALAMPY A MOROMBE,10/15 kt,peu agitée à agitée,Temps sec
+20/09/2019,MOROMBE AU CAP SAINTE MARIE,15/20 kt,agitée à forte,Temps sec
+22/09/2019,"AVIS
+GRAND FRAIS AU VOISINAGE DU CAP D'AMBRE",Non spécifié,Non spécifié,Non spécifié
+22/09/2019,CAP D'AMBRE A MAHANORO,10/20kt atteignant 25/30 kt au Nord d'Antalaha,agitée à forte,Pluies
+22/09/2019,MAHANORO AU CAP SAINTE MARIE,"10/15 kt au Nord de Mananjary, Est 15/25kt ailleurs",agitée à forte,Pluies faibles et averses isolées
+22/09/2019,CAP D'AMBRE A BESALAMPY,"15/20 kt le matin sur la cote de Sofia, Nord-est 05/10kt ailleurs",belle a peu agitée,Temps peu nuageux
+22/09/2019,BESALAMPY A MOROMBE,10/15 kt,peu agitée à agitée,Temps sec
+22/09/2019,MOROMBE AU CAP SAINTE MARIE,15/20 kt tournant Nord-est progressive 20/25 kt localement 30 kt,agitée à forte,Temps sec
+22/09/2019,GRAND FRAIS AU VOISINAGE DU CAP D'AMBRE,Non spécifié,Non spécifié,Non spécifié
+23/09/2019,MOROMBE AU CAP SAINTE MARIE,10/15 kt tournant Ouest à Secteur Sud progressive 15/20 kt localement 25 kt,agitée à forte,Temps sec
+23/09/2019,MAHANORO AU CAP SAINTE MARIE,10/15 kt tournant Nord-est 15/20kt et atteignant 25 kt près,Non spécifié,Non spécifié
+23/09/2019,CAP D'AMBRE A BESALAMPY,"15/20 kt le matin sur la cote de Sofia, Sud-est 05/10kt ailleurs",belle a peu agitée,Temps peu nuageux
+23/09/2019,GRAND FRAIS AU VOISINAGE DU CAP D'AMBRE,Non spécifié,Non spécifié,Non spécifié
+23/09/2019,BESALAMPY A MOROMBE,05/10 kt devenant secteur Sud 15/20 kt le jour suivant et atteignant 25 kt vers fin periode,peu agitée à agitée,Temps sec
+23/09/2019,CAP D'AMBRE A MAHANORO,10/20kt atteignant 25/30 kt au Nord d'Antalaha,agitée à forte,Pluies intermittentes
+25/09/2019,ANTALAHA AU CAP SAINTE MARIE,05/15 kt,agitée à forte par houle modérée de Sud-est,Non spécifié
+25/09/2019,CAP D'AMBRE A BESALAMPY,15/20 kt le matin sur la cote de,Non spécifié,temps peu nuageux ailleurs
+25/09/2019,BESALAMPY A MOROMBE,15/20kt,agitée à forte,Temps partiellement nuageux
+25/09/2019,MOROMBE AU CAP SAINTE MARIE,15/25kt,forte à très forte,Non spécifié
+25/09/2019,CAP D'AMBRE A ANTALAHA,10/20kt atteignant 25 kt sur la partie Nord,agitée à forte,Temps partiellement nuageux
+25/09/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",10/20kt atteignant 25 kt sur la partie Nord,agitée à forte,Temps partiellement nuageux
+27/09/2019,CAP D'AMBRE A TOAMASINA,DE SUD-EST 10/15 KT ATTEIGNANT 20/25 KT AU NORD D'ANTALAHA,AGITÉE À FORTE PAR,Non spécifié
+27/09/2019,TOAMASINA AU CAP SAINTE MARIE,D'EST À NORD -EST 10/15 KT ATTEIGNANT LOCALEMENT 20/30 KT AU SUD DE FARAFANGANA,AGITÉE À FORTE PAR,Non spécifié
+27/09/2019,CAP D'AMBRE A BESALAMPY,DE SECTEUR SUD 15/20 KT,B,PEU NUAGEUX AILLEURS
+27/09/2019,BESALAMPY A MOROMBE,"DE SECTEUR OUEST 10/15 KT AU DEBUT DE L'ECHEANCE, DEVENANT SECTEUR SUD 15/20KT, LOCALEMENT 25 KT LE JOUR SUIVANT",AGITÉE À FORTE PAR,Non spécifié
+27/09/2019,MOROMBE AU CAP SAINTE MARIE,D'EST À SUD-EST 20/25KT LOCALEMENT 30 KT,FORTE À TRÈS FORTE PAR,Non spécifié
+28/09/2019,BESALAMPY A MOROMBE,VARIABLE 05/10 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5/2M,Non spécifié
+28/09/2019,MOROMBE AU CAP SAINTE MARIE,DE SECTEUR OUEST 05/10 KT DOMINANT,AGITÉE LOCALEMENT FORTE PAR,Non spécifié
+28/09/2019,CAP D'AMBRE A BESALAMPY,DE SECTEUR SUD 10/15 KT,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M/1.2M,PEU NUAGEUX
+29/09/2019,MOROMBE AU CAP SAINTE MARIE,DE SECTEUR NORD 05/10 KT LOCALEMENT 15 KT,"AGITÉE, FORTE ENTRE FAUX CAP ET TAOLAGNARO PAR",Non spécifié
+29/09/2019,BESALAMPY A MOROMBE,VARIABLE 05 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M,SEC
+29/09/2019,CAP D'AMBRE A BESALAMPY,DE BRISE CÔTIÈRE 05/10 KT,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M/1M,Non spécifié
+29/09/2019,CAP D'AMBRE A ANTALAHA,DE SUD-EST 05/10 KT LOCALEMENT 15 KT VERS ATTEIGNANT LOCALEMENT 20/25 KT VERS CAP D'AMBRE,AGITÉE. HAUTEUR DE VAGUE 1.5/2M,PEU NUAGEUX
+30/09/2019,MOROMBE AU CAP SAINTE MARIE,"DE SECTEUR NORD 05/10 KT LOCALEMENT 15 KT, DEVENANT SECTEUR SUD 10/20 KT VERS FIN PERIODE",AGITÉE. HAUTEUR DE VAGUE 1.5/2M,PARTIELLEMENT NUAGEUX
+30/09/2019,CAP D'AMBRE A BESALAMPY,DE BRISE CÔTIÈRE 05/10 KT,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M/1M,Non spécifié
+30/09/2019,BESALAMPY A MOROMBE,VARIABLE 05/10 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M,SEC
+30/09/2019,CAP D'AMBRE A ANTALAHA,DE SUD-EST 10/15 KT ATTEIGNANT LOCALEMENT 20 KT,AGITÉE. HAUTEUR DE VAGUE 1.5/2M,Non spécifié
+01/10/2019,MOROMBE A TAOLAGNARO,15/20 kt atteignant localement 25 kt l'après-midi,Non spécifié,Temps partiellement nuageux
+01/10/2019,BESALAMPY A MOROMBE,05/10 kt devenant secteur Sud à partir du soir,peu agitée à agitée,Temps sec
+01/10/2019,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Temps sec
+01/10/2019,TOAMASINA A TAOLAGNARO,05/10 kt localement 15 kt tournant Nord-ouest 10/15 kt localement 20 kt près de Taolagnaro,agitée à forte,Non spécifié
+01/10/2019,CAP D'AMBRE A TOAMASINA,05/10 kt localement 15 kt,agitée,Temps peu nuageux
+02/10/2019,CAP D'AMBRE A TOAMASINA,05/15 kt atteignant localement 20kt sur la partie Nord,Non spécifié,Temps peu nuageux
+02/10/2019,TOAMASINA A TAOLAGNARO,05/10 kt localement 15 kt,agitée,Non spécifié
+02/10/2019,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+02/10/2019,BESALAMPY A MOROMBE,Non spécifié,agitée,Temps partiellement nuageux
+02/10/2019,MOROMBE A TAOLAGNARO,15/20 kt atteignant localement 25 kt,agitée à forte,Non spécifié
+04/10/2019,MOROMBE A TAOLAGNARO,"DE SUD-EST 10/15 KT ENTRE CAP STE MARIE ET MOROMBE, NORD-EST 15/20 KT ENTRE CAP STE MARIE ET TAOLAGNARO",AGITÉE À FORTE PAR,Non spécifié
+04/10/2019,CAP D'AMBRE A BESALAMPY,DE BRISE CÔTIÈRE 05/10 KT,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5/1M,PARTIELLEMENT NUAGEUX
+04/10/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10 /15 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M/2M,PEU NUAGEUX
+04/10/2019,CAP D'AMBRE A MAHANORO,DE SUD-EST 05/10 KT ATTEIGNANT 20/25KT AU NORD D'ANTALAHA,AGITÉE À FORTE. HAUTEUR DE VAGUE 1.5M/2.3M,Non spécifié
+05/10/2019,CAP D'AMBRE A MAHANORO,DE SUD À SUD-EST 05/10 KT ATTEIGNANT 15/20 KT AU NORD D'ANTALAHA,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1/1.5M,Non spécifié
+05/10/2019,MAHANORO AU CAP SAINTE MARIE,DE NORD À NORD-EST 10/15 KT ATTEIGNANT 20 KT AU SUD DE FARAFANGANA,"AGITÉE, FORTE AU SUD DE TAOLAGNARO PAR",Non spécifié
+05/10/2019,CAP D'AMBRE A BESALAMPY,DE SECTEUR SUD 05/10 KT,BELLE. HAUTEUR DE VAGUE 0.5/0.8M,Non spécifié
+05/10/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10 /15 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1/1.5M,PEU NUAGEUX
+05/10/2019,MOROMBE AU CAP SAINTE MARIE,DE SUD-EST 10/15 KT LOCALEMENT 20 KT,AGITÉE À FORTE PAR,PEU NUAGEUX
+07/10/2019,MOROMBE A TAOLAGNARO,D'EST À NORD-EST 10/15 KT,AGITÉE À FORTE PAR,PEU NUAGEUX
+07/10/2019,CAP D'AMBRE A MAHANORO,DE SUD-EST 10/15 KT ATTEIGNANT LOCALEMENT 20 KT AU NORD D'ANTALAHA ET 25 KT PRÈS DU CAP D'AMBRE,AGITÉE À FORTE. HAUTEUR DE VAGUE 1.5M/2.5M,Non spécifié
+07/10/2019,CAP D'AMBRE A BESALAMPY,DE SUD-EST 05/10 KT . VENT DU NORD-OUEST 05/10 KT L'APRÈS-MIDI,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M/1.3M,Non spécifié
+07/10/2019,BESALAMPY A MOROMBE,VARIABLE 05 /10 KT,AGITÉE PAR,Non spécifié
+08/10/2019,CAP D'AMBRE A BESALAMPY,DE SUD-EST 05/10 KT . VENT DU NORD-OUEST 05/10 KT L'APRÈS-MIDI,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M/1.3M,SEC. LE MATIN
+08/10/2019,BESALAMPY A MOROMBE,VARIABLE 05 /10 KT,AGITÉE PAR,SEC
+08/10/2019,MOROMBE A TAOLAGNARO,NORD-EST 10/15 KT,AGITÉE À FORTE. HAUTEUR DE VAGUE 1.5/2.5M ATTEIGNANT 3M SUR L'EXTREME SUD PAR,PEU NUAGEUX
+08/10/2019,CAP D'AMBRE A MAHANORO,DE SUD-EST 10/15 KT ATTEIGNANT LOCALEMENT 20/25KT AU NORD D'ANTALAHA,AGITÉE À FORTE. HAUTEUR DE VAGUE 1.5/2.5M ATTEIGNANT 3M SUR L'EXTREME NORD PAR,Non spécifié
+10/10/2019,CAP D'AMBRE A TOAMASINA,D'EST À SUD-EST 10/15 KT ATTEIGNANT 20/25KT AU NORD D'ANTALAHA TEMPORAIREMENT 30 KT PRÈS CAP D'AMBRE,AGITÉE À FORTE. HAUTEUR DE VAGUE 1.5M/2.5M ATTEIGNANT 3M SUR L'EXTREME NORD PAR,Non spécifié
+10/10/2019,MOROMBE A TAOLAGNARO,"DE SECTEUR SUD 10/15 KT ATTEIGNANT 20/25 KT, NORD-EST 15/20 KT ENTRE CAP STE MARIE ET TAOLAGNARO",AGITÉE À FORTE PAR,PEU NUAGEUX
+10/10/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10 /15 KT LOCALEMENT 20KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M/1.8M,SEC
+10/10/2019,TOAMASINA A TAOLAGNARO,"D'EST À NORD-EST 10/15 KT LOCALEMENT 20/25 KT AU SUD DE MANAKARA, ATTEIGNANT 30 KT AU VOISINAGE TAOLAGNARO","PEU AGITÉE À AGITÉE, FORTE PRÈS TAOLAGNARO PAR",PARTIELLEMENT NUAGEUX
+10/10/2019,CAP D'AMBRE A BESALAMPY,DE SUD-SUD-EST 10/15 KT TEMPORAIREMENT 20/25KT ENTRE ANALALAVA ET MAHAJANGA AINSI QUE PRÈS CAP D'AMBRE. VENT DU NORD- OUEST 10/15 KT L'APRÈS-MIDI,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.8M/1.3M,SEC MAIS RARES AVERSES VERS FIN PÉRIODE. LE MATIN
+11/10/2019,MOROMBE A TAOLAGNARO,10/20 kt localement 25 kt,agitée à forte,Non spécifié
+11/10/2019,BESALAMPY A MOROMBE,05/10kt devenant secteur Sud 10 /15 kt localement 20kt vers mi-période,Non spécifié,Temps sec
+11/10/2019,CAP D'AMBRE A BESALAMPY,05/15kt,belle à peu agitée,Non spécifié
+11/10/2019,SAINTE MARIE A TAOLAGNARO,Non spécifié,Non spécifié,temps partiellement nuageux ailleur
+11/10/2019,CAP D'AMBRE A SAINTE MARIE,10/15 kt atteignant 20/25kt sur la partie nord,agitée à forte,Non spécifié
+12/10/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10 /15 KT LOCALEMENT 20KT,AGITÉE À FORTE. HAUTEUR DE VAGUE 1.5/2.5M,PARTIELLEMENT NUAGEUX EN GENERAL
+12/10/2019,MOROMBE A TAOLAGNARO,DE SECTEUR 10/20 KT LOCALEMENT 25 KT,AGITÉE À FORTE. HAUTEUR DE VAGUE 2/2.5M ATTEIGNANT 3M ENTRE TOLIARA ET TAOLAGNARO PAR,PARTIELLEMENT NUAGEUX AILLEURS
+12/10/2019,CAP D'AMBRE A BESALAMPY,DE BRISE 05/15KT,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5/1M,AVERSES
+13/10/2019,CAP D'AMBRE A BESALAMPY,DESUD-OUEST 05/10KT LOCALEMENT 15 KT SECTEUR SUD 05 KT LE MATIN,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5/0.8M,Non spécifié
+13/10/2019,MOROMBE A TAOLAGNARO,"DE SUD-EST 10/15 ENTRE MOROMBE ET CAP STE MARIE, TEMPORAIREMENT VARIABLE 05 KT À EST À NORD-EST 15/20 KT ATTEIGNANT 25 KT ENTRE CAP STE MARIE ET TAOLAGNARO",AGITÉE À FORTE PAR,Non spécifié
+13/10/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10 /15 KT LOCALEMENT 20KT,AGITÉE À FORTE PAR,PEU NUAGEUX
+14/10/2019,MOROMBE A TAOLAGNARO,25/30 kt au Sud de,Non spécifié,Non spécifié
+14/10/2019,CAP D'AMBRE A BESALAMPY,05/10kt localement 15 kt secteur Sud 05 kt le matin,belle à peu agitée,Non spécifié
+14/10/2019,SAINTE MARIE A TAOLAGNARO,05/10 kt atteignant 15/25 kt au Sud de,Non spécifié,Non spécifié
+14/10/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A SAINTE MARIE",05/10 kt atteignant 15/25 kt sur la partie Nord,peu agitée à agitée,Non spécifié
+14/10/2019,BESALAMPY A MOROMBE,Non spécifié,agitée à forte par houle de secteur Sud,Temps peu nuageux
+15/10/2019,MOROMBE A TAOLAGNARO,10/20 kt se renforçant 25/30 kt entre Toliara et Ambovombe,Non spécifié,Temps peu nuageux
+15/10/2019,CAP D'AMBRE A SAINTE MARIE,05/10 kt atteignant 15/20 kt au Nord d'Antalaha,peu agitée à agitée,Non spécifié
+15/10/2019,SAINTE MARIE A TAOLAGNARO,05/10 kt tournant Sud-est progressive 10/15 kt localement 20 kt,"peu agitée à agitée, forte près Taolagnaro par houle de Secteur Sud",Non spécifié
+15/10/2019,CAP D'AMBRE A BESALAMPY,05/10kt localement 15 kt secteur Sud 05 kt le matin,Non spécifié,Non spécifié
+15/10/2019,BESALAMPY A MOROMBE,Non spécifié,peu agitée à agitée,Temps peu nuageux
+16/10/2019,CAP D'AMBRE A BESALAMPY,"DU SUD À SUD-EST 05/10KT LOCALEMENT 15 KT LE MATIN, VENT DE NORD-OUEST 10/15 KT VERS L'APRES-MIDI",BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5/1M,Non spécifié
+16/10/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10 /15 KT LOCALEMENT 20KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M/1.8M,Non spécifié
+16/10/2019,MOROMBE A TAOLAGNARO,D'EST À SUD-EST 15/20 KT SE RENFORÇANT 25/33 KT ENTRE TOLIARA ET TAOLAGNARO,AGITÉE À FORTE,PEU NUAGEUX
+16/10/2019,CAP D'AMBRE A MAHANORO,DE SUD-EST 10/15 KT ATTEIGNANT 20/25 KT AU NORD D'ANTALAHA,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.5M/2M,Non spécifié
+17/10/2019,BESALAMPY A MOROMBE,15/20kt principalement le matin,peu agitée à agitée,Non spécifié
+17/10/2019,MAHANORO A TAOLAGNARO,10/15 kt tournant Nord-est 15/25 kt près côte Taolagnaro,agitée à forte,"Pluies faibles sur la partie Nord, temps sec ailleurs"
+17/10/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",15/20 kt atteignant 25 kt vers Cap d'Ambre,agitée à forte,Pluies faibles
+17/10/2019,MOROMBE A TAOLAGNARO,15/25 kt atteignant localement 30 kt près Cap d'Ambre,agitée à forte,Temps peu nuageux
+17/10/2019,CAP D'AMBRE A BESALAMPY,"05/10kt localement 15 kt le matin, Nord-ouest 10/15 kt vers l'apres-midi",belle à peu agitée,Non spécifié
+17/10/2019,CAP D'AMBRE A MAHANORO,DE SUD-EST 15/20 KT ATTEIGNANT 25 KT VERS CAP D'AMBRE,AGITÉE À FORTE. HAUTEUR DE VAGUE 2/2.5M,SEC AILLEURS
+18/10/2019,MOROMBE A TAOLAGNARO,05/10 kt entre Morombe et Cap Ste Marie,agitée à forte,Temps peu nuageux
+18/10/2019,BESALAMPY A MOROMBE,10/15kt principalement le matin,peu agitée à agitée,Temps peu nuageux
+18/10/2019,CAP D'AMBRE A BESALAMPY,15/20kt entre Analalava et Mitsinjo principalement le matin,belle à peu agitée,Non spécifié
+18/10/2019,MAHANORO A TAOLAGNARO,05/10 kt tournant Nord-est 10/15 kt atteignant 25/30 kt près,Non spécifié,Temps peu nuageux
+18/10/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20/25 kt au Nord d'Antalaha et 30 kt pres Cap d'Ambre,agitée à forte,Pluies faibles
+19/10/2019,MOROMBE A TAOLAGNARO,"05/10 kt entre Morombe et Cap Ste Marie, Nord-est 25/30 kt entre Cap Ste Marie et Taolagnaro",agitée à forte,Temps peu nuageux
+19/10/2019,BESALAMPY A MOROMBE,Non spécifié,peu agitée à agitée,Non spécifié
+19/10/2019,CAP D'AMBRE A BESALAMPY,15/20kt entre Analalava et Mitsinjo principalement le matin,belle à peu agitée,Non spécifié
+19/10/2019,MAHANORO A TAOLAGNARO,05/10 kt tournant Nord-est 10/15 kt atteignant 25/30 kt près,Non spécifié,Temps peu nuageux
+19/10/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant 20/25 kt au Nord d'Antalaha et 30 kt pres Cap d'Ambre,agitée à forte,Pluies faibles
+19/10/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20/25 kt au Nord d'Antalaha et 30 kt pres Cap d'Ambre,agitée à forte,Pluies faibles
+21/10/2019,BESALAMPY A MOROMBE,15/20 kt vers fin periode,peu agitée à agitée,Temps peu nuageux
+21/10/2019,CAP D'AMBRE A SAINTE MARIE,10/15 kt atteignant 20/25 kt au Nord d'Antalaha,agitée à forte,Temps peu nuageux
+21/10/2019,SAINTE MARIE A TAOLAGNARO,10/15 kt atteignant 20/25 kt près Taolagnaro,agitée à forte,Temps partiellement nuageux
+21/10/2019,CAP D'AMBRE A BESALAMPY,10/15kt entre,Non spécifié,temps partiellement nuageux ailleurs
+21/10/2019,MOROMBE A TAOLAGNARO,05/10 kt atteignant secteur Sud 15/20 kt localement 25 kt vers fin periode,"peu agitée à agitée, forte vers fin periode",Temps peu nuageux
+22/10/2019,BESALAMPY A MOROMBE,Non spécifié,"peu agitée à agitée, localement forte près Morombe par houle modérée de secteur Sud",Temps peu nuageux
+22/10/2019,CAP D'AMBRE A MANANJARY,Non spécifié,peu à agitée,Pluies intermittentes
+22/10/2019,MANANJARY A TAOLAGNARO,Non spécifié,Non spécifié,Non spécifié
+22/10/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,belle,temps partiellement nuageux ailleurs
+22/10/2019,MOROMBE A TAOLAGNARO,Non spécifié,"agitée à forte, localement très forte le jour suivant",Temps peu nuageux
+24/10/2019,BESALAMPY A MOROMBE,Non spécifié,peu agitée temporairement agitée par houle de secteur Sud,temps peu nuageux ailleurs
+24/10/2019,CAP D'AMBRE A TOAMASINA,"15/20kt au Nord d'Antalaha, variable 05/10kt ailleurs",peu agitée à agitée,Temps peu nuageux
+24/10/2019,TOAMASINA A TAOLAGNARO,05/10kt tournant Nord-est 15/20 kt près Taolagnaro,"peu agitée à agitée, temporairement forte par houle de Sud-ouest",Non spécifié
+24/10/2019,CAP D'AMBRE A BESALAMPY,05/10kt,belle,Non spécifié
+24/10/2019,MOROMBE A TAOLAGNARO,"15/20 kt entre Taolagnaro et Cap Ste Marie, Ouest à",Non spécifié,Temps peu nuageux
+25/10/2019,MOROMBE A TAOLAGNARO,D'EST À SUD-EST 10/15KT ATTEIGNANT LOCALEMENT 20KT ENTRE MOROMBE ET AMPANIHY,"PEU AGITÉE À AGITÉE, PETITE",SEC
+25/10/2019,CAP D'AMBRE A TOAMASINA,"DE SUD-EST 05/15KT, LOCALEMENT 20/25KT PRÈS CAP D'AMBRE TOURNANT NORD-EST 05/15KT AU SUD D'ANTALAHA",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.2M À 2M,PEU NUAGEUX
+25/10/2019,TOAMASINA A TAOLAGNARO,"DE SECTEUR NORD 15/20KT , TEMPORAIREMENT VENT VARIABLE 05KT ENTRE VANGAINDRANO ET TAOLAGNARO VERS MI-PÉRIODE",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1..2M À 2M,PEU NUAGEUX
+25/10/2019,BESALAMPY A MOROMBE,DE SUD DE SECTEUR OUEST 10/15 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.2M À 1.8M,PARTIELLEMENT NUAGEUX
+25/10/2019,CAP D'AMBRE A BESALAMPY,DE BRISE 05/10KT LOCALEMENT 15KT,BELLE. HAUTEUR DE VAGUE 0.5M À 1M,Non spécifié
+26/10/2019,CAP D'AMBRE A BESALAMPY,05/10kt localement 15kt l'après-midi,belle,Non spécifié
+26/10/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A SAINTE MARIE","05/15kt, localement 20/25kt près Cap d'Ambre",agitée,Temps peu nuageux
+26/10/2019,SAINTE MARIE A TAOLAGNARO,05/10kt localement 15kt,peu agitée à agitée,Temps peu nuageux
+26/10/2019,CAP D'AMBRE A SAINTE MARIE,"05/15kt, localement 20/25kt près Cap d'Ambre",agitée,Temps peu nuageux
+26/10/2019,MOROMBE A TAOLAGNARO,05/15kt atteignant 20/25kt dans la deuxième partie de la période,Non spécifié,Temps sec
+26/10/2019,BESALAMPY A MOROMBE,05/10 kt localement 15kt,peu agitée,Temps sec
+28/10/2019,CAP D'AMBRE A TOAMASINA,"DE SUD-EST 05/10KT, LOCALEMENT 15 KT PRÈS CAP D'AMBRE, TOURNANT NORD- EST 10/15 KT AU SUD D'ANTALAHA","PEU AGITÉE, LOCALEMENT AGITÉE. HAUTEUR DE VAGUE 1.3M/1.8M",PEU NUAGEUX
+28/10/2019,TOAMASINA A TAOLAGNARO,DE SECTEUR NORD 10/15 KT LOCALEMENT 20/25 KT AU SUD DE MANANJARY,"PEU AGITÉE, LOCALEMENT AGITÉE. HAUTEUR DE VAGUE 1.3M À 1.8M",PEU NUAGEUX
+28/10/2019,MOROMBE A TAOLAGNARO,"DE SECTEUR NORD 15/20 KT ENTRE MOROMBE ET CAP SAINTE MARIE, NORD-EST 10/15 KT DEVENANT VARIABLE 05 KT VERS FIN PÉRIODE",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1.3M À 1.8M. 4. MAFOR : 06780 1611/ 06790 1612/,SEC
+28/10/2019,BESALAMPY A MOROMBE,SECTEUR NORD 05/10 KT ATTEIGNANT 15/20 KT LE JOUR SUIVANT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUE 1M À 1.5M,SEC
+28/10/2019,CAP D'AMBRE A BESALAMPY,DU NORD À NORD-OUEST 10/15KT,BELLE. HAUTEUR DE VAGUE 0.5M,Non spécifié
+29/10/2019,CAP D'AMBRE A ANTALAHA,"05/10kt, localement 15/20kt près Cap d'Ambre","peu agitée, localement agitée",Temps peu nuageux
+29/10/2019,MOROMBE A TAOLAGNARO,05/15 kt devenant sud-est 15/25kt vers mi-période,peu agitée à agitée,Non spécifié
+29/10/2019,BESALAMPY A MOROMBE,10/20 kt diminuant 05/10kt dans la deuxième partie de la période,Non spécifié,Temps sec
+29/10/2019,CAP D'AMBRE A BESALAMPY,"05/15kt, devenant variable 05kt en fin période",belle,Non spécifié
+29/10/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA","05/10kt, localement 15/20kt près Cap d'Ambre","peu agitée, localement agitée",Temps peu nuageux
+29/10/2019,ANTALAHA A TAOLAGNARO,10/15 kt localement 20 kt diminuant 05/10kt en fin période,peu agitée à agitée,Non spécifié
+30/10/2019,CAP D'AMBRE A ANTALAHA,"05/10kt, atteignant 20/25kt vers fin periode","peu agitée à agitée, forte vers fin periode",Pluies faibles
+30/10/2019,ANTALAHA A TAOLAGNARO,05/10 kt localement 15 kt devenant Sud-est progressive 15/20 kt,peu agitée à agitée progressivement forte,Non spécifié
+30/10/2019,CAP D'AMBRE A BESALAMPY,05/10 kt puis secteur ouest 05/10 kt l'après-midi,belle,Non spécifié
+30/10/2019,BESALAMPY A MOROMBE,05/10 kt tournant Sud-ouest à ouest 10/15 kt l'après-midi,agitée à forte par houle de secteur Sud,Temps sec
+30/10/2019,MOROMBE A TAOLAGNARO,"15/20kt entre Cap Ste Marie et Taolagnaro, atteignant progressivement 25/30 kt entre Cap Ste Marie et Morombe",agitée à forte,Non spécifié
+31/10/2019,MOROMBE A TAOLAGNARO,DE SUD À SUD-EST 15/20KT ATTEIGNANT 25/30KT ENTRE MOROMBE ET AMPANIHY,AGITÉE À FORTE. HAUTEUR DE VAGUE 2.5M/3..8M PAR,Non spécifié
+31/10/2019,CAP D'AMBRE A ANTALAHA,DE SUD-EST 15/20KT LOCALEMENT 25KT,"PEU AGITÉE À AGITÉE, LOCALEMENT FORTE PRES CAP D'AMBRE. HAUTEUR DE VAGUE 1M/1.5M ATTEIGNANT 2.6M PRES CAP D'AMBRE",Non spécifié
+31/10/2019,BESALAMPY A MOROMBE,"SECTEUR SUD 10/15 ATTEIGNANT 20 KT PRES MOROMBE, TOURNANT CIRCULATION DÉPRESSIONNAIRE 05/10 KT LE JOUR SUIVANT",AGITÉE À FORTE PAR,Non spécifié
+31/10/2019,CAP D'AMBRE A BESALAMPY,"DE SUD À SUD-EST 10/15 KT ATTEIGNANT 20/25 KT ENTRE ANALALAVA ET MAHAJANGA PRINCIPALEMENT LE MATIN, TOURNANT OUEST À NORD-OUEST 10/15 KT VERS L'APRÈS-MIDI",BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M À 1.2M,Non spécifié
+03/11/2019,MOROMBE A TAOLAGNARO,05/15kt devenant sud-est 05/10kt en fin période,peu agitée à agitée,Temps sec
+03/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",05/10kt atteignant 20/25 kt sur la partie nord,agitée,Pluies faible à modérée
+03/11/2019,MAHANORO A CAP SAINTE MARIE,15/20kt atteignant 25/30 kt entre Taolagnaro et Cap Sainte Marie,Non spécifié,Non spécifié
+03/11/2019,CAP D'AMBRE A BESALAMPY,"15/20 kt entre Analalava et Mahajanga principalement le matin ailleurs 05/10 kt, tournant secteur ouest 05/10 kt vers l'après-midi",belle à peu agitée,Non spécifié
+03/11/2019,BESALAMPY A MOROMBE,05/15 kt,peu agitée à agitée,Non spécifié
+03/11/2019,CAP D'AMBRE A MAHANORO,05/10kt atteignant 20/25 kt sur la partie nord,agitée,Pluies faible à modérée
+05/11/2019,MAHANORO A TAOLAGNARO,"05/10kt temporairement 15kt vers midi, devenant Est près côte Taolgnaro en fin période",agitée à forte,temps partiellement nuageux ailleurs
+05/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",05/15 kt atteignant 20t au nord d'Antalaha fraîchissant 25kt près Cap d'Ambre en fin période,peu agitée à agitée,Pluies faible localement modérée
+05/11/2019,CAP D'AMBRE A MAHANORO,05/15 kt atteignant 20t au nord d'Antalaha fraîchissant 25kt près Cap d'Ambre en fin période,peu agitée à agitée,Pluies faible localement modérée
+05/11/2019,BESALAMPY A MOROMBE,05/15 kt,peu agitée à agitée,Non spécifié
+05/11/2019,CAP D'AMBRE A BESALAMPY,15/20 kt entre Analalava et Mahajanga principalement le matin ailleurs 05/10 kt,belle à peu agitée,Non spécifié
+05/11/2019,MOROMBE A TAOLAGNARO,15/25kt temporairement 30 kt près côte Toliara vers midi,forte à très forte,Temps sec
+06/11/2019,CAP D'AMBRE A MAHANORO,05/15 kt atteignant 20t au nord d'Antalaha fraîchissant 25kt près Cap d'Ambre en fin période,peu agitée à agitée,Pluies faible localement modérée
+06/11/2019,MAHANORO A TAOLAGNARO,"05/10kt temporairement 15kt vers midi, devenant Est près côte Taolgnaro en fin période",agitée à forte,temps partiellement nuageux ailleurs
+06/11/2019,CAP D'AMBRE A BESALAMPY,15/20 kt entre Analalava et Mahajanga principalement le matin ailleurs 05/10 kt,belle à peu agitée,Non spécifié
+06/11/2019,BESALAMPY A MOROMBE,05/15 kt,peu agitée à agitée,Non spécifié
+06/11/2019,MOROMBE A TAOLAGNARO,15/25kt temporairement 30 kt près côte Toliara vers midi,forte à très forte,Temps sec
+07/11/2019,CAP D'AMBRE A MAHANORO,05/10 kt au Sud d'Antalaha,"agitée, localement forte au Nord d'Antalaha",Non spécifié
+07/11/2019,MAHANORO AU CAP SAINTE MARIE,15/20 kt atteignant localement 25/30 kt au voisinage de,Non spécifié,Non spécifié
+07/11/2019,CAP D'AMBRE A BESALAMPY,10/15 kt,belle à peu agitée,Non spécifié
+07/11/2019,BESALAMPY A MOROMBE,05/10 kt,agitée,Non spécifié
+07/11/2019,MOROMBE AU CAP SAINTE MARIE,"10/15 kt, puis variable 05 kt",agitée à forte,Temps sec
+07/11/2019,GRAND FRAIS AU VOISINAGE DE TAOLAGNARO,Non spécifié,Non spécifié,Non spécifié
+08/11/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 10/15 KT ATTEIGNANT 20/25 KT PRÈS MOROMBE,AGITÉE LOCALEMENT FORTE AU VOISINAGE DE MOROMBE PAR,SEC
+08/11/2019,CAP D'AMBRE A BESALAMPY,DE BRISE COTIÈRE 10/15 KT,BELLE À PEU AGITÉE. HAUTEUR DE VAGUE 0.5M À 1M,Non spécifié
+08/11/2019,CAP D'AMBRE A TOAMASINA,"D'EST À SUD-EST 10/15 KT ATTEIGNANT 20/25 KT VERS CAP D'AMBRE, TOURNANT NORD-EST 05/15 KT AU SUD D'ANTALAHA LE JOUR SUIVANT","AGITÉE, LOCALEMENT FORTE AU NORD D'ANTALAHA. HAUTEUR DE VAGUE 1.3M À 1.5M ATTEIGNANT 2.4M AU NORD D'ANTALAHA. TOAMASINA AU TAOLAGNARO AVERSES FRONTALES",Non spécifié
+09/11/2019,CAP D'AMBRE A BESALAMPY,05/15 kt,belle à peu agitée,Non spécifié
+09/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",05/10 kt atteignant 15/20 kt vers Cap d'Ambre,peu agitée à agitée,Non spécifié
+09/11/2019,TOAMASINA AU TAOLAGNARO,05/10 kt atteignant localement 15 kt au sud de,Non spécifié,Non spécifié
+09/11/2019,BESALAMPY A MOROMBE,05/10 kt atteignant localement 15kt,peu agitée à agitée,temps sec ailleurs
+09/11/2019,MOROMBE AU TAOLAGNARO,10/15 kt fraîchissant 20/25 kt entre Morombe et Cap Sainte Marie vers midi,agitée à forte,Temps sec
+09/11/2019,CAP D'AMBRE A ANTALAHA,05/10 kt atteignant 15/20 kt vers Cap d'Ambre,peu agitée à agitée,Non spécifié
+10/11/2019,BESALAMPY A MOROMBE,05/10 kt atteignant localement 15kt,peu agitée à agitée,Non spécifié
+10/11/2019,MOROMBE AU TAOLAGNARO,10/15 kt localement 20 kt atteignant 25 kt entre Morombe et Cap,Non spécifié,Temps sec
+10/11/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,belle à peu agitée,Non spécifié
+10/11/2019,TOAMASINA AU TAOLAGNARO,05/10 kt en avant front; vent du Sud à Sud-est 10/15 kt en arriere front,agitée,Non spécifié
+10/11/2019,CAP D'AMBRE A ANTALAHA,10/15 kt localement 20 kt atteignant 25 kt vers Cap d'Ambre,Non spécifié,Temps peu nuageux
+12/11/2019,ANTALAHA A TOAMASINA,Non spécifié,peu agitée à agitée par houle de secteur Sud,Non spécifié
+12/11/2019,TOAMASINA A TAOLAGNARO,Non spécifié,agitée à forte,Non spécifié
+12/11/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,belle à peu agitée,Non spécifié
+12/11/2019,BESALAMPY A MOROMBE,Non spécifié,peu agitée à agitée,Non spécifié
+12/11/2019,CAP D'AMBRE A ANTALAHA,Non spécifié,peu agitée à agitee,Temps peu nuageux
+12/11/2019,MOROMBE AU TAOLAGNARO,Non spécifié,Non spécifié,Temps sec
+13/11/2019,MAHANORO A TAOLAGNARO,05/10 kt atteignant 15/25 kt près Taolagnaro,agitée à forte,Non spécifié
+13/11/2019,CAP D'AMBRE A MAHANORO,05/10 kt atteignant 15kt sur la pointe nord,peu agitée à agitée,Non spécifié
+13/11/2019,BESALAMPY A MOROMBE,05/10 kt,peu agitée à agitée,Temps sec
+13/11/2019,MOROMBE AU TAOLAGNARO,05/10kt sur la moitié nord de zone et sud-est 15/20kt atteignant localement 25/30kt,agitée à forte,temps sec ailleurs
+13/11/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,belle à peu agitée,Non spécifié
+14/11/2019,"AVIS
+GRAND FRAIS AU VOISINAGE DU CAP STE MARIE",Non spécifié,Non spécifié,Non spécifié
+14/11/2019,CAP D'AMBRE A BESALAMPY,05/10 kt atteignant 25/30 kt sous grains,"belle à peu agitée, forte sous grains",Non spécifié
+14/11/2019,BESALAMPY A MOROMBE,10/15 kt atteignant 20/25 kt près Morombe,"peu agitée à agitée, forte près Morombe",Non spécifié
+14/11/2019,MOROMBE AU TAOLAGNARO,15/20 kt entre,Non spécifié,Pluies et averses orageuses avec grains locaux
+14/11/2019,GRAND FRAIS AU VOISINAGE DU CAP STE MARIE,Non spécifié,Non spécifié,Non spécifié
+14/11/2019,ANTALAHA A TAOLAGNARO,05/10 kt atteignant 20/25 kt au,Non spécifié,Pluies et averses orageuses avec grains locaux
+15/11/2019,CAP D'AMBRE A BESALAMPY,DE SECTEUR NORD 10/15 KT ATTEIGNANT 25/30 KT SOUS GRAINS,"BELLE À PEU AGITÉE, FORTE SOUS GRAINS. HAUTEUR DES VAGUES 0.5M À 0.8M",Non spécifié
+15/11/2019,BESALAMPY A MOROMBE,DE SECTEUR NORD 15/20 KT ATTEIGNANT 25/30 KT SOUS GRAINS,"PEU AGITÉE À AGITÉE, FORTE PRÈS MOROMBE. HAUTEUR DES VAGUES 1M À 1.5M ATTEIGNANT 2.5M/3M PRÈS DE MOROMBE. MOROMBE AU TAOLAGNARO PLUIES ET AVERSES ORAGEUSES AVEC GRAINS LOCAUX",Non spécifié
+16/11/2019,ANTALAHA A TAOLAGNARO,"15/20 kt atteignant localement 25 kt, atteignant 30/33 kt sous grains",agitée à forte,Pluies et averses orageuses avec grains locaux
+16/11/2019,CAP D'AMBRE A BESALAMPY,10/15 kt atteignant 20/25 kt près de Besalampy,belle à peu agitée,Non spécifié
+16/11/2019,BESALAMPY A MOROMBE,15/20 kt atteignant 25/30 kt sous grains,Non spécifié,Non spécifié
+16/11/2019,MOROMBE AU TAOLAGNARO,15/20 kt atteignant 25/30kt sous grains,"agitée à forte, très forte sous grains",Non spécifié
+17/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE ANTALAHA",05/10 kt atteignant 15kt sur la pointe nord,peu agitée à agitée,Non spécifié
+17/11/2019,ANTALAHA A TAOLAGNARO,"15/20 kt atteignant 25kt entre Toamasina et Mahanoro et 30kt sous orages, devenant variable 05/10kt au sud de Mananjary en fin période",agitée à forte,Non spécifié
+17/11/2019,CAP D'AMBRE A BESALAMPY,05/10kt kt atteignant 15 kt près de Besalampy et près Cap d'Ambre,belle à peu agitée,Non spécifié
+17/11/2019,BESALAMPY A MOROMBE,15/25 kt atteignant localement 30kt sous orages,agitée,Non spécifié
+17/11/2019,CAP D'AMBRE A ANTALAHA,05/10 kt atteignant 15kt sur la pointe nord,peu agitée à agitée,Non spécifié
+17/11/2019,MOROMBE AU TAOLAGNARO,15/20 kt devenant variable 05/10kt en fin période,agitée à forte,Non spécifié
+18/11/2019,CAP D'AMBRE A BESALAMPY,05/10kt kt atteignant 15 kt près de,Non spécifié,Non spécifié
+18/11/2019,CAP D'AMBRE A ANTALAHA,05/10 kt atteignant 15kt sur la pointe Nord,peu agitée à agitée,Non spécifié
+18/11/2019,ANTALAHA A TAOLAGNARO,Non spécifié,Non spécifié,Non spécifié
+18/11/2019,BESALAMPY A MOROMBE,10/15 kt vers fin periode,peu agitée à agitée,Non spécifié
+18/11/2019,MOROMBE AU TAOLAGNARO,10/15 kt atteignant Nord-est 15/20 kt vers fin periode,"peu agitée à agitée, forte par houle de Sud-ouest",Non spécifié
+19/11/2019,CAP D'AMBRE A ANTALAHA,05/10 kt localement 15 kt atteignant 20 kt au voisinage de la pointe Nord,peu agitée à agitée,Non spécifié
+19/11/2019,ANTALAHA AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt près de Taolagnaro,"peu agitée à agitée, forte au Sud de Taolagnaro vers fin période par houle de Sud-ouest","Temps sec au Sud de Taolagnaro, averses isolées orageuses ailleurs"
+19/11/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,belle,Non spécifié
+19/11/2019,BESALAMPY A MOROMBE,05/10 kt,peu agitée,Temps peu nuageux
+19/11/2019,MOROMBE AU TAOLAGNARO,Non spécifié,"peu agitée à agitée, forte vers fin de periode par houle de Sud-ouest",Temps sec
+20/11/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD DOMINANT 05/10 KT,PEU AGITÉE. HAUTEUR DES VAGUES 0.5/1M. MOROMBE AU TAOLAGNARO,PEU NUAGEUX
+20/11/2019,CAP D'AMBRE A BESALAMPY,VARIABLE 05/10 KT,BELLE. HAUTEUR DES VAGUES 0.2M À 0.5M,Non spécifié
+20/11/2019,CAP D'AMBRE A ANTALAHA,DE SUD-EST 10/15 KT ATTEIGNANT 20 KT PRÈS CAP D'AMBRE,PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1.2M À 1.5M,Non spécifié
+21/11/2019,CAP D'AMBRE A BESALAMPY,05/10 kt atteignant 15/20kt sous orages,belle,Non spécifié
+21/11/2019,CAP D'AMBRE A ANTALAHA,DE SUD-EST 10/15 KT ATTEIGNANT 20 KT PRÈS CAP D'AMBRE,PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1.2M À 1.5M,Non spécifié
+21/11/2019,BESALAMPY A MOROMBE,05/10 kt devenant variable 05kt en fin période,peu agitée,temps sec ailleurs
+21/11/2019,ANTALAHA A TAOLAGNARO,10/20 kt atteignant 25kt sous orages,peu agitée à agitée,nuageux ailleurs
+21/11/2019,MOROMBE AU TAOLAGNARO,10/15 kt0 devenant variable 05/10kt en fin période,peu agitée à agitée,Non spécifié
+21/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",10/15 kt atteignant 20 kt près Cap d'Ambre,peu agitée à agitée,Non spécifié
+22/11/2019,CAP D'AMBRE A ANTALAHA,05/10 kt atteignant Est 15 kt près Cap d'Ambre,peu agitée,Non spécifié
+22/11/2019,ANTALAHA A TAOLAGNARO,"15/20 kt devenant Sud progressive 10/15 kt , atteignant 25kt sous orages","peu agitée à agitée, forte sous orages",nuageux ailleurs
+22/11/2019,CAP D'AMBRE A BESALAMPY,"05/10 kt localement variable 05 kt , atteignant 15/20 kt sous orages","belle, agitée sous orages",Non spécifié
+22/11/2019,BESALAMPY A MOROMBE,05/10 kt devenant variable 05kt,"peu agitée à agitée, temporairemant forte par houle de Sud-ouest près Morombe",Non spécifié
+22/11/2019,MOROMBE AU TAOLAGNARO,10/15 kt atteignant 20/25 kt au Sud de Toliary vers fin periode,"peu agitée à agitée, forte par houle de Sud-ouest",Non spécifié
+23/11/2019,CAP D'AMBRE A BESALAMPY,"DE NORD-EST 05/10 KT AU DEBUT DE L'ÉCHEANCE, TOURNANT NORD-OUEST 05/10 KT VERS L'APRES-MIDI JUSQU'À FIN PERIODE ATTEIGNANT 15/20 KT SOUS ORAGES","BELLE, AGITÉE SOUS ORAGES. HAUTEUR DES VAGUES 0.5M À 1M",Non spécifié
+23/11/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 05/10 KT TEMPORAIREMENT VARIABLE 05KT,PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1M À 1.5M. MOROMBE AU TAOLAGNARO,PEU NUAGEUX
+23/11/2019,CAP D'AMBRE A ANTALAHA,"D'EST À SECTEUR NORD 10/15 KT ATTEIGNANT 20 KT PRÈS ANTALAHA, DEVENANT SUD-EST 05/15 KT VERS FIN PERIODE",PEU AGITÉE. HAUTEUR DES VAGUES 1M À 1.3M,Non spécifié
+24/11/2019,MAHANORO AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt au Sud de Vangaindrano,peu agitée,temps peu nuageux ailleurs
+24/11/2019,TOLIARY AU CAP SAINTE MARIE,15/20 kt localement 25 kt,"peu agitée à agitée, localement forte par houle de Sud-ouest",Temps peu nuageux
+24/11/2019,BESALAMPY A TOLIARY,05/10 kt,peu agitée à agitée,Non spécifié
+24/11/2019,CAP D'AMBRE A ANTALAHA,05/10 kt localemement 15 kt vers cap d'Ambre,peu agitée,Non spécifié
+24/11/2019,ANTALAHA A MAHANORO,10/15 kt localement 20 kt près des côtes,Non spécifié,Non spécifié
+24/11/2019,CAP D'AMBRE A BESALAMPY,05/10 kt devenant secteur Est en fin de période,belle,Non spécifié
+25/11/2019,CAP D'AMBRE A MAHANORO,05/10 kt atteignant 15/20 kt près cap d'Ambre et devenant circulation dépressionnaire 05/15kt localement 20kt sur la partie sud,peu agitée à agitée,Non spécifié
+25/11/2019,TOLIARY AU CAP SAINTE MARIE,15/20 kt à la première partie de la période devenant variable à la deuxième partie,peu agitée à agitéet,Temps peu nuageux
+25/11/2019,BESALAMPY A TOLIARY,05/10 kt,peu agitée,Non spécifié
+25/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",05/10 kt atteignant 15/20 kt près cap d'Ambre et devenant circulation dépressionnaire 05/15kt localement 20kt sur la partie sud,peu agitée à agitée,Non spécifié
+25/11/2019,MAHANORO AU CAP SAINTE MARIE,05/10 kt fraichissant 15/25 kt sur la partie Sud,peu agitée à agitée,temps sec ailleurs
+25/11/2019,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15kt,belle,Non spécifié
+26/11/2019,BESALAMPY A TOLIARY,05/10 kt,peu agitée,Non spécifié
+26/11/2019,CAP D'AMBRE A BESALAMPY,"05/10 kt atteignant 20 kt sous grains Mer belle à peu agitée, agitée sous grains","belle à peu agitée, agitée sous grains",Non spécifié
+26/11/2019,TOLIARY AU CAP SAINTE MARIE,15/20 kt localement 25 kt,agitée à forte par houle de,Temps peu nuageux
+26/11/2019,CAP D'AMBRE A MANANJARY,"05/10 kt au Nord d'Antalaha atteignant 15 kt près cap d'Ambre, variable 05 kt devenant Nord-est 05/10 kt le jour suivant entre Ste Marie et Mananjary",Non spécifié,Non spécifié
+26/11/2019,MANANJARY AU CAP SAINTE MARIE,05/10 kt fraichissant 15/20 kt près Taolagnaro puis secteur Sud 10/15 kt localement 05 kt le jour suivant,agitée à forte par houle de Sud-ouest,Non spécifié
+28/11/2019,CAP D'AMBRE A TOAMASINA,Non spécifié,peu agitée à agitée,Pluies faibles
+28/11/2019,TOAMASINA A TAOLAGNARO,Non spécifié,Non spécifié,Non spécifié
+28/11/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,Non spécifié,Non spécifié
+28/11/2019,BESALAMPY A TOLIARA,Non spécifié,Non spécifié,Non spécifié
+28/11/2019,TOLIARA AU CAP SAINTE MARIE,Non spécifié,agitée à forte,Temps peu nuageux
+29/11/2019,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,peu agitée à agitée,temps sec ailleurs
+29/11/2019,MAHANORO A TAOLAGNARO,"05/10 kt , devenant de Sud-est 10/15 kt à partir de midi",agitée à forte,Non spécifié
+29/11/2019,CAP D'AMBRE A BESALAMPY,05/10 kt,belle,Non spécifié
+29/11/2019,MOROMBE A TAOLAGNARO,15/25 kt temporairement 30 kt près côte Toliary en soirée,agitée à forte,Temps sec
+29/11/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20 kt pres Cap d'Ambre,peu agitée à agitée,Pluies
+29/11/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant 20 kt pres Cap d'Ambre,peu agitée à agitée,Pluies
+30/11/2019,MOROMBE A TAOLAGNARO,05/10 kt entre Morombe et Cap Ste Marie Nord-est 20/25 kt temporairement 30 kt entre Cap Ste Marie et Taolagnaro,agitée à forte par houle modérée de,Temps sec
+30/11/2019,CAP D'AMBRE A BESALAMPY,05/10 kt atteignant Sud-est 15/20 kt le jour suivant principalement le matin et variable 05/10 kt l'après-midi,belle à peu agitée,Non spécifié
+30/11/2019,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,peu agitée à agitée par houle de secteur,Non spécifié
+30/11/2019,CAP D'AMBRE A MANANJARY,10/15 kt atteignant 20/25 au Nord d'Antalaha et 30 kt près,Non spécifié,Pluies intermittentes
+30/11/2019,MANANJARAY A TAOLAGNARO,05/10 kt atteignant 10/15 kt et 20/25 kt près Taolagnaro,"peu agitée à agitée, agitée à forte au Sud de Vangaindrano par houle de Sud-ouest",Non spécifié
+01/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt localement 20 kt et atteignant 25 kt vers cap d'Ambre,"peu agitée à agitée, localement forte près côtes Nord-est de l'Ile par houle de Sud-est",Pluies intermittentes
+01/12/2019,MAHANORO AU CAP SAINTE MARIE,10/15 kt localement 20 kt atteignant 25/30 kt au,Non spécifié,Temps partiellement nuageux
+01/12/2019,CAP D'AMBRE A BESALAMPY,"05/10 kt localement 15 kt près côtes Ambanja, Analalava",Non spécifié,Non spécifié
+01/12/2019,BESALAMPY A MOROMBE,05/10 kt,peu agitée à agitée par houle de secteur,Non spécifié
+01/12/2019,MOROMBE AU CAP SAINTE MARIE,05/10 kt localement 15 kt,"agitée, localement forte près de la pointe Nord",Temps sec
+01/12/2019,CAP D'AMBRE A MAHANORO,10/15 kt localement 20 kt et atteignant 25 kt vers cap d'Ambre,"peu agitée à agitée, localement forte près côtes Nord-est de l'Ile par houle de Sud-est",Pluies intermittentes
+02/12/2019,BESALAMPY A MOROMBE,05/10 kt devenant Sud- ouest 10/15 kt l'après-midi,peu agitée à agitée,"Nuageux sur Melaky, temps dégagé ailleurs"
+02/12/2019,CAP D'AMBRE A BESALAMPY,10/20 kt entre Besalampy et,Non spécifié,Non spécifié
+02/12/2019,MOROMBE AU CAP SAINTE MARIE,"10/20 kt localement 25 kt, mais Est à Sud-est 10/20 kt sur",Non spécifié,Temps dégagé
+02/12/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20/25 kt au nord de Sambava,peu agitée à agitée,Pluies intermittentes
+02/12/2019,MAHANORO AU CAP SAINTE MARIE,"05/10 kt au nord de Farafangana,15/25 kt ailleurs",agitée,Pluies faibles
+03/12/2019,TOAMASINA A TAOLAGNARO,Non spécifié,Non spécifié,Temps dégagé
+03/12/2019,CAP D'AMBRE A TOAMASINA,Non spécifié,agitée à forte,Non spécifié
+03/12/2019,CAP D'AMBRE A MAHANORO,"10/15 kt localement 20 kt au nord d'Antalaha, atteignant 25 kt vers Cap d'Ambre",agitée à forte par houle de,Pluies faibles localement modérées
+03/12/2019,MOROMBE AU CAP SAINTE MARIE,05/10 kt,agitée à forte,Temps dégagé
+03/12/2019,MOROMBE A TAOLAGNARO,"10/20 kt, localement 25/30 Kt en fin déchéance",agitée à forte,Temps dégagé
+03/12/2019,CAP D'AMBRE A BESALAMPY,10/15 kt,peu agitée,Non spécifié
+03/12/2019,MAHANORO AU CAP SAINTE MARIE,15/20 kt atteignant 25/30 kt au Sud de,Non spécifié,Temps partiellement nuageux
+03/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO","10/15 kt localement 20 kt au nord d'Antalaha, atteignant 25 kt vers Cap d'Ambre",agitée à forte par houle de,Pluies faibles localement modérées
+03/12/2019,BESALAMPY A MOROMBE,05/10 kt,agitée,Non spécifié
+04/12/2019,MAHANORO A TAOLAGNARO,10/15 kt atteignant 25 kt au Nord de,Non spécifié,Temps partiellement nuageux
+04/12/2019,CAP D'AMBRE A BESALAMPY,10/15 kt,agitée,Non spécifié
+04/12/2019,BESALAMPY A MOROMBE,05/10 kt,agitée,Temps partiellement nuageux
+04/12/2019,CAP D'AMBRE A TOAMASINA,Non spécifié,agitée à forte,Non spécifié
+04/12/2019,TOAMASINA A TAOLAGNARO,Non spécifié,Non spécifié,Temps dégagé
+04/12/2019,CAP D'AMBRE A MAHANORO,10/20 kt localement 25 kt presCap d'Ambre,agitée à forte,nuageux ailleurs
+04/12/2019,MOROMBE A TAOLAGNARO,10/20 kt atteignant 25 kt en fin déchéance,agitée localement forte en fin d'échéance,Temps dégagé
+05/12/2019,CAP D'AMBRE A SAINTE MARIE,10/15 kt atteignant 20/25 kt vers cap d'Ambre,"peu agitée à agitée, forte vers cap d'Ambre","Temps d'averses au Nord d'Antalaha, temps peu nuageux ailleurs"
+05/12/2019,SAINTE MARIE A TAOLAGNARO,15/20 kt en arrière front devenant variable 05/10 kt en avant front,"peu agitée à agitée, forte au Sud de",temps sec ailleurs
+05/12/2019,CAP D'AMBRE A BESALAMPY,05/10 kt le matin devenant Nord-ouest l'après-midi,Non spécifié,Non spécifié
+05/12/2019,BESALAMPY A MOROMBE,Non spécifié,"agitée, forte à partir du soir par une grande houle de Sud-ouest",temps peu nuageux ailleurs
+05/12/2019,MOROMBE A TAOLAGNARO,15/20 kt localement 25/30 Kt,forte à très forte,Temps dégagé
+06/12/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,Non spécifié,Non spécifié
+06/12/2019,BESALAMPY A MOROMBE,Non spécifié,agitée,Temps ensoleillé
+06/12/2019,TOAMASINA A TAOLAGNARO,"05/10 kt, devenant Vent de Nord-Est 10/20 Kt en deuxième partie de période","peu agitée à agitée, forte près de Taolagnaro",Pluies et averses au Sud de Mananjary
+06/12/2019,CAP D'AMBRE A TOAMASINA,10/20 kt atteignant 25 kt près de cap d'Ambre,peu agitée à agitée,Pluies faibles
+06/12/2019,MOROMBE A TAOLAGNARO,15/25 kt localement 30 Kt,forte,Temps globalement nuageux
+07/12/2019,BESALAMPY A MOROMBE,Non spécifié,agitée à forte,temps sec ailleurs
+07/12/2019,MOROMBE A TAOLAGNARO,10/15 kt localement 20 Kt,"agitée à forte, localement très forte près côtes Sud-est",temps peu nuageux ailleurs
+07/12/2019,CAP D'AMBRE A ANTALAHA,05/10 kt atteignant 20 kt vers cap d'Ambre,agitée à forte,Pluies faibles
+07/12/2019,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15 kt atteignant 20/25 kt vers la pointe Nord,"agitée à forte, très forte vers cap d'Ambre",Non spécifié
+07/12/2019,ANTALAHA A TAOLAGNARO,15/20 kt,agitée à forte,Pluies et averses au Sud zone
+08/12/2019,MOROMBE A TAOLAGNARO,10/15 kt localement 20 Kt,agitée à forte,Non spécifié
+08/12/2019,BESALAMPY A MOROMBE,DE SECTEUR SUD 05/10KT LOCALEMENT 15KT,PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1 À 1.5M,SEC AILLEURS
+08/12/2019,CAP D'AMBRE A ANTALAHA,05/10 kt atteignant 25 kt vers cap d'Ambre,agitée,Pluies
+08/12/2019,CAP D'AMBRE A BESALAMPY,"05/10 kt sur la partie sud, 20/25kt sur la partie nord fraîchissant 30/45kt à partir de la nuit vers la fin","forte à très forte, très forte à grosse en fin période",Temps à grains
+08/12/2019,ANTALAHA A TAOLAGNARO,10/20 kt,agitée,Pluies et averses au Sud zone
+08/12/2019,"BELNA'
+BESALAMPY A MOROMBE",Non spécifié,peu agitée à agitée,temps sec ailleurs
+09/12/2019,CAP D'AMBRE A MANANJARY,05/10 kt localement 15/20 kt,peu agitée à agitée,Pluies faibles
+09/12/2019,MANANJARY A TAOLAGNARO,10/15 kt localement 20 kt,"peu agitée à agitée, forte par houle de secteur Sud",Pluies et averses
+09/12/2019,CAP D'AMBRE A BESALAMPY,"15/20 kt au Nord de Nosy-Be, 20/30 kt entre Nosy-Be et Soalala, atteignant Sud-est 05/10 kt entre Soalala et Besalampy",Non spécifié,Temps à grains
+09/12/2019,BESALAMPY A MOROMBE,Non spécifié,Non spécifié,Non spécifié
+09/12/2019,MOROMBE A TAOLAGNARO,20/25 kt atteignant 30 Kt entre Toliary et Cap Sainte-Marie,agitée à forte,Non spécifié
+10/12/2019,MANANJARY A TAOLAGNARO,10/15 kt localement 20/25kt,peu agitée à agitée,Pluies et averses orageuses
+10/12/2019,BESALAMPY A MOROMBE,05/15 kt localement 20/30 kt sous grains,"agitée, forte sous grains",Temps à grains
+10/12/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,"peu agitée à agitée, fortes sous grains",Non spécifié
+10/12/2019,CAP D'AMBRE A MANANJARY,05/10 kt localement 15 kt,peu agitée,Pluies faibles
+10/12/2019,MOROMBE A TAOLAGNARO,20/25 kt atteignant localement 30Kt entre Toliary et Cap Sainte-,Non spécifié,Non spécifié
+11/12/2019,MAHANORO A TAOLAGNARO,Non spécifié,Non spécifié,Pluies et averses orageuses
+11/12/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,peu agitée à agitée,Non spécifié
+11/12/2019,BESALAMPY A MOROMBE,Non spécifié,Non spécifié,Temps à grains
+11/12/2019,MOROMBE A TAOLAGNARO,Non spécifié,agitée à forte,Temps d'averses
+11/12/2019,CAP D'AMBRE A MAHANORO,Non spécifié,peu agitée,Pluies faibles
+12/12/2019,MOROMBE A CAP SAINTE MARIE,10/15 kt localement 25/30kt sous grains,"agitée, forte sous grains et orages",Non spécifié
+12/12/2019,BESALAMPY A MOROMBE,10/15 kt localement 20/25 kt sous orages,"agitée, forte sous grains",Non spécifié
+12/12/2019,CAP D'AMBRE A BESALAMPY,05/10kt,peu agitée,Non spécifié
+12/12/2019,CAP D'AMBRE A MAHANORO,05/10 kt entre,Non spécifié,nuageux ailleurs
+12/12/2019,MAHANORO A CAP SAINTE MARIE,"15/25 kt atteignant localement 30 kt sous grains, devenant variable 05/15 kt sur la partie Sud en fin période","peu agitée à agitée, forte sous grains",Temps à grains
+13/12/2019,MOROMBE AU CAP SAINTE MARIE,VARIABLE 05/10 KT ATTEIGNANT 20/25 SOUS GRAINS,"AGITÉE, FORTE SOUS GRAINS. HAUTEUR DES VAGUES 2.3M À 2.8M, LOCALEMENT 3M PAR",Non spécifié
+13/12/2019,BESALAMPY A MOROMBE,DE SECTEUR NORD 05/10 KT ATTEIGNANT 15/20 KT SOUS GRAINS,"PEU AGITÉE, AGITÉE SOUS GRAINS. HAUTEUR DE VAGUES 1.3M À 1.8M",Non spécifié
+13/12/2019,CAP D'AMBRE A ANTALAHA,DU NORD 05/10 KT,PEU AGITÉE. HAUTEUR DES VAGUES 1M À 1.5M,PEU NUAGEUX
+13/12/2019,CAP D'AMBRE A BESALAMPY,DE NORD-OUEST 05/10KT TOURNANT PROGRESSIVEMENT SECTEUR OUEST 05/10 KT,PEU AGITÉE. HAUTEUR DES VAGUES 1M,Non spécifié
+14/12/2019,CAP D'AMBRE A BESALAMPY,D'OUEST À SUD-OUEST 05/10KT,BELLE À PEU AGITÉE. HAUTEUR DES VAGUES 0.3M/1M,Non spécifié
+14/12/2019,BESALAMPY A MOROMBE,DU NORD-OUEST À OUEST 05/10 KT ATTEIGNANT 15/20 KT SOUS GRAINS,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1.3M À 1.8M. MOROMBE AU TAOLAGNARO AVERSES ISOLÉES,Non spécifié
+14/12/2019,CAP D'AMBRE A ANTALAHA,DE SECTEUR NORD 05/10 KT LOCALEMENT 15 KT,PEU AGITÉE. HAUTEUR DES VAGUES 0.7M À 1.2M,PARTIELLEMENT NUAGEUX
+15/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",05/10 kt fraîchissant 15/20 kt au sud de Toamasina,peu agitée à agitée,Non spécifié
+15/12/2019,CAP D'AMBRE A BESALAMPY,05/10kt,belle à peu agitée,Non spécifié
+15/12/2019,BESALAMPY A MOROMBE,05/10 kt,peu agitée,Temps partiellement nuageux
+15/12/2019,MOROMBE AU TAOLAGNARO,"05/15 kt, devenant Sud 10/15kt en fin période",agitée à forte,Non spécifié
+15/12/2019,CAP D'AMBRE A MAHANORO,05/10 kt fraîchissant 15/20 kt au sud de Toamasina,peu agitée à agitée,Non spécifié
+15/12/2019,MAHANORO A TAOLAGNARO,"05/10kt atteignant 15kt près Mahanoro, devenant secteur Sud 10/15 kt sur l'ensemble de zone en fin période","peu agitée à agitée, forte près",Non spécifié
+16/12/2019,BESALAMPY A MOROMBE,Non spécifié,peu agitée à agitée,Non spécifié
+16/12/2019,CAP D'AMBRE A ANTALAHA,Non spécifié,peu agitée,Non spécifié
+16/12/2019,ANTALAHA A MAHANORO,Non spécifié,Non spécifié,Non spécifié
+16/12/2019,MAHANORO A TAOLAGNARO,Non spécifié,"agitée, forte par houle modérée de secteur",Non spécifié
+16/12/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,"peu agitée, agitée sous grains",Non spécifié
+16/12/2019,MOROMBE AU TAOLAGNARO,Non spécifié,agitée à forte,Non spécifié
+17/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A SAINTE MARIE","05/10 kt, localement 15 kt vers Sainte Marie",agitée,Non spécifié
+17/12/2019,CAP D'AMBRE A SAINTE MARIE,"05/10 kt, localement 15 kt vers Sainte Marie",agitée,Non spécifié
+17/12/2019,MOROMBE AU TAOLAGNARO,"15/20 kt localement 25 kt, atteignant 30 kt près de Toliary",Non spécifié,Temps peu nuageux
+17/12/2019,BESALAMPY A MOROMBE,"05/10 kt localement 15 kt, atteignant 20 kt près de",Non spécifié,Non spécifié
+17/12/2019,CAP D'AMBRE A BESALAMPY,05/10kt,belle,Non spécifié
+17/12/2019,SAINTE MARIE A TAOLAGNARO,"10/15 kt localement 20 kt, et 25 kt près de Taolagnaro","agitée, forte près de Taolagnaro",Non spécifié
+18/12/2019,CAP D'AMBRE A ANTALAHA,"DE SUD À SUD-EST 10/15 KT, ATTEIGNANT 20 KT AU LARGE D'ANTALAHA",PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1M À 1.5M,Non spécifié
+18/12/2019,MOROMBE AU CAP SAINTE MARIE,"D'EST À SUD-EST 15/20 KT LOCALEMENT 25 KT, DEVENANT VARIABLE 05/10KT VERS FIN PÉRIODE","AGITÉE À FORTE, S'AMORTISSANT PROGRESSIVEMENT VERS FIN PÉRIODE. HAUTEUR DES VAGUES 2M À 3M, S'AFFAIBLISSANT 1.5M À 2.5M VERS FIN PÉRIODE",PEU NUAGEUX
+18/12/2019,BESALAMPY A MOROMBE,VARIABLE 05 KT LOCALEMENT 10 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1.2M À 1.8M. PETITE,Non spécifié
+18/12/2019,CAP D'AMBRE A BESALAMPY,"VARIABLE 05KT AU DÉBUT DE L'ÉCHÉANCE, S'ÉTABLISSANT NORD À NORD-EST 05/10 KT VERS MI-PÉRIODE",BELLE À PEU AGITÉE. HAUTEUR DES VAGUES 0.3M À 1.2M,Non spécifié
+19/12/2019,BESALAMPY A MOROMBE,"VARIABLE 05/10 KT, ATTEIGNANT LOCALEMENT 15 KT EN FIN PÉRIODE",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1.2M À 1.5M,PARTIELLEMENT NUAGEUX
+19/12/2019,CAP D'AMBRE A BESALAMPY,VARIABLE 05/10 KT,BELLE. HAUTEUR DES VAGUES 0.4M,Non spécifié
+19/12/2019,CAP D'AMBRE A MAHANORO,DE SECTEUR SUD 15/20 KT,AGITÉE. HAUTEUR DES VAGUES 1.5 À 2M,Non spécifié
+19/12/2019,MOROMBE A TAOLAGNARO,"VARIABLE 05/15 KT, DEVENANT SECTEUR EST 20/25KT ENTRE CAP SAINTE MARIE ET TAOLAGNARO","AGITÉE À FORTE. HAUTEUR DES VAGUES 3M EN DÉBUT DE PÉRIODE, S'AMORTISSANT PROGRESSIVEMENT AU COURS DE LA JOURNÉE ET DEVENANT 2M À 2.5M",PEU NUAGEUX
+20/12/2019,CAP D'AMBRE A MAHANORO,DU SUD À SUD-EST 10/15 KT ATTEIGNANT 20 KT AU NORD DE SAINTE MARIE,PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1.4M À 1.8M,Non spécifié
+20/12/2019,MOROMBE AU CAP SAINTE MARIE,D'EST 20/25KT ENTRE CAP SAINTE MARIE ET TAOLAGNARO,AGITÉE À FORTE. HAUTEUR DE VAGUES 2.3M À 2.8M. 4. MAFOR : 06780 16316 06790 16225,Non spécifié
+20/12/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,"belle à peu agitée, agitée sous grains",Non spécifié
+20/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant 20 kt au nord de Sainte Marie,peu agitée à agitée,Pluies intermittentes
+20/12/2019,MAHANORO A TAOLAGNARO,"10/15 kt, tournant Nord-est 15/20 kt près Taolagnaro",agitée à forte par houle de secteur Sud,Non spécifié
+20/12/2019,BESALAMPY A MOROMBE,"05/10 kt, temporairement secteur Est 10/15 kt le jour suivant",peu agitée à agitée,Non spécifié
+20/12/2019,MOROMBE A TAOLAGNARO,"15/20 kt entre Morombe au Cap Sainte Marie, vent d'Est 20/25kt entre Cap Sainte Marie et Taolagnaro",agitée à forte,Temps peu nuageux
+21/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant 20 kt au nord d'Antalaha,peu agitée à agitée,Pluies intermittentes
+21/12/2019,MAHANORO AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt au Sud de Farafangana,"peu agitée à agitée, forte au Sud de farafangana","Temps peu nuageux au Sud de Taolagnaro, temps d'averses ailleurs"
+21/12/2019,CAP D'AMBRE A BESALAMPY,Non spécifié,belle à peu agitée,Non spécifié
+21/12/2019,BESALAMPY A TOLIARY,Non spécifié,peu agitée à agitée,Non spécifié
+21/12/2019,TOLIARY AU CAP SAINTE MARIE,15/20 kt localement 25 kt,agitée à forte par houle de,Temps peu nuageux
+21/12/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20 kt au nord d'Antalaha,peu agitée à agitée,Pluies intermittentes
+22/12/2019,MOROMBE AU CAP SAINTE MARIE,D'EST À SUD-EST 15/20 KT LOCALEMENT 25 KT ATTEIGNANT 30 KT AU VOISINAGE DE CAP SAINTE MARIE,AGITÉE À FORTE PAR,PEU NUAGEUX
+22/12/2019,BESALAMPY A MOROMBE,"VARIABLE 05/10 KT, S’ÉTABLISSANT VENT DE SECTEUR SUD 05/10 KT VERS FIN PÉRIODE",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1.2M À 2M,Non spécifié
+22/12/2019,CAP D'AMBRE A MAHANORO,DU SUD À SUD-EST 10/15 KT ATTEIGNANT 20/25 KT AU NORD D'ANTALAHA,"PEU AGITÉE À AGITÉE, LOCALEMENT FORTE PAR",Non spécifié
+22/12/2019,MAHANORO AU CAP SAINTE MARIE,D'EST À NORD-EST 10/15 KT ATTEIGNANT 20/25 KT AU SUD DE FARAFANGANA ET SE RENFORÇANT 30 KT ENTRE TAOLAGNARO ET CAP SAINTE MARIE,"PEU AGITÉE À AGITÉE, LOCALEMENT FORTE PAR","PEU NUAGEUX AU SUD DE TAOLAGNARO, TEMPS D'AVERSES AILLEURS"
+22/12/2019,CAP D'AMBRE A BESALAMPY,DE,BELLE À PEU AGITÉE. HAUTEUR DES VAGUES 0.3M/1M,Non spécifié
+23/12/2019,CAP D'AMBRE A MAHANORO,DU SUD À SUD-EST 15/25 KT ATTEIGNANT 30 KT SUR LA PARTIE NORD EN FIN PÉRIODE,AGITÉE À FORTE. HAUTEUR DES VAGUES 2M À 2.5M ATTEIGNANT LOCALEMENT 3MAU NORD D'ANTALAHA,Non spécifié
+23/12/2019,MAHANORO AU CAP SAINTE MARIE,"D'EST À SUD-EST 10/15 KT, TOURNANT NORD-EST 20/25 KT ENTRE TAOLAGNARO ET CAP SAINTE MARIE, ET ATTEIGNANT 30KT EN FIN PÉRIODE","AGITÉE, LOCALEMENT FORTE PAR",PARTIELLEMENT NUAGEUX AILLEURS
+23/12/2019,CAP D'AMBRE A BESALAMPY,"DE SUD-EST 15/20 KT PRÈS DES CÔTES BOENY LOCALEMENT LE MATIN, VARIABLE 05/10 AILLEURS",BELLE À PEU AGITÉE. HAUTEUR DES VAGUES 1M,Non spécifié
+23/12/2019,BESALAMPY A MOROMBE,DU SUD 05/15 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1 À 1.5M,Non spécifié
+23/12/2019,MOROMBE AU CAP SAINTE MARIE,"DE SUD-EST 05/10 KT, FRAÎCHISSANT 15/25KT SUR LA MOITIÉ SUD",AGITÉE À FORTE. HAUTEUR DE VAGUES 2M À 3M,PARTIELLEMENT NUAGEUX
+24/12/2019,CAP D'AMBRE A BESALAMPY,15/20 kt localement 10 kt devenant Nord- ouest 10/15 kt chaque après-midi,belle à peu agitée,Non spécifié
+24/12/2019,MOROMBE A TAOLAGNARO,"05/10 kt, entre Morombe et Cap Ste Marie secteur Est 25/30 kt entre Cap Ste Marie et Taolagnaro",agitée à forte,Temps partiellement nuageux
+24/12/2019,MAHANORO A TAOLAGNARO,10/15 kt tournant Nord-Est 20/25 kt près Taolagnaro,"peu agitée à agitée, forte par houle de secteur Est",Non spécifié
+24/12/2019,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20/25 kt sous orages,Non spécifié,Pluies orageuses modérées à fortes
+24/12/2019,BESALAMPY A MOROMBE,05/10 kt localement Est 15 kt,peu agitée à agitée,Temps peu nuageux
+26/12/2019,ANTALAHA A MANANJARY,15/20 kt tournant Sud progressive 20 kt puis secteur Est 10/15 kt fin periode,"agitée, forte sous grains",Pluies modérées à forte et grains locaux
+26/12/2019,MAHANORO AU CAP SAINTE MARIE,10/15 kt tournant Nord-Est 20/30 kt entre Taolagnaro et Cap Sainte Marie,agitée à forte,Pluies
+26/12/2019,CAP D'AMBRE A ANTALAHA,05/10 kt devenant Sud-ouest 10/15 kt et secteur Ouest 10/15 kt au niveau du Cap d'Ambre,"peu agitée, agitée sous grains",Non spécifié
+26/12/2019,CAP D'AMBRE A MAHANORO,10/20 kt atteignant 25/30 kt sous grains,agitée à forte,"Temps à grains entre Vohemar et Mananara Nord, pluies localement modérées ailleurs"
+26/12/2019,MOROMBE AU CAP SAINTE MARIE,05/10 kt atteignant 15kt à l’extrême Sud,agitée,Temps partiellement nuageux
+26/12/2019,BESALAMPY A MOROMBE,05/10 kt localement Est 15 kt,peu agitée à agitée,Temps peu nuageux
+26/12/2019,CAP D'AMBRE A BESALAMPY,"15/20 kt sur la partie Sud atteignant 25/30kt sous grains, variable 05/10kt ailleurs et devenant Nord-est 15/20kt en fin période",peu agitée à agitée,Pluies orageuses et grains locaux
+26/12/2019,MANANJARY A TAOLAGNARO,10/15 kt atteignant Nord-est 15/20 kt sur Sud de Vangaindrano et 25/30 kt près Taolagnaro,agitée à forte par houle de secteur Est,Non spécifié
+26/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/20 kt atteignant 25/30 kt sous grains,agitée à forte,"Temps à grains entre Vohemar et Mananara Nord, pluies localement modérées ailleurs"
+26/12/2019,MOROMBE A TAOLAGNARO,"05/10 kt entre Morombe et Cap Ste Marie, Sud-est progressive 10/15 kt vers fin periode",agitée à forte,Temps peu nuageux
+27/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",05/10 kt,"peu agitée, agitée sous grains",Pluies orageuses
+27/12/2019,MOROMBE AU CAP SAINTE MARIE,"05/10 kt en première partie de la période, devenant secteur Sud 15/20 kt en deuxième partie",agitée à forte,Temps sec
+27/12/2019,MANANJARY A CAP SAINTE MARIE,10/20 kt atteignant 25/30 kt sur l'extrême Sud,agitée à forte,Non spécifié
+27/12/2019,CAP D'AMBRE A BESALAMPY,05/10 kt atteignant 15/20 kt sous orages,"peu agitée, agitée sous grains",Non spécifié
+27/12/2019,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,peu agitée à agitée,Non spécifié
+27/12/2019,CAP D'AMBRE A ANTALAHA,05/10 kt,"peu agitée, agitée sous grains",Pluies orageuses
+27/12/2019,ANTALAHA A MANANJARY,"10/15 kt localement 20 kt, devenant Sud 10/15 kt fin période",agitée,"Pluies, localement orageuses sur la partie Nord"
+28/12/2019,MOROMBE AU CAP SAINTE MARIE,DE SECTEUR SUD 15/20 KT ATTEIGNANT 25 KT,AGITÉE À FORTE. HAUTEUR DE VAGUES 1.5M À 2.5M,SEC
+28/12/2019,BESALAMPY A MOROMBE,VARIABLE 05/10 KT LOCALEMENT 15 KT S’ÉTABLISSANT SECTEUR NORD 05/10 KT VERS FIN PÉRIODE,"PEU AGITÉE À AGITÉE, LOCALEMENT FORTE PRÈS MOROMBE PAR",Non spécifié
+28/12/2019,CAP D'AMBRE A BESALAMPY,VARIABLE 05/10 KT ATTEIGNANT 15/20 KT SOUS ORAGES,"PEU AGITÉE, AGITÉE SOUS GRAINS. HAUTEUR DES VAGUES 0.6M À 1M",Non spécifié
+28/12/2019,TOAMASINA AU CAP SAINTE MARIE,"D'EST À NORD-EST 10/15 KT LOCALEMENT 20/25 KT AU SUD DE VAINGAINDRANO, ATTEIGNANT 30 KT ENTRE TAOLAGNARO ET CAP SAINTE MARIE VERS FIN PÉRIODE","AGITÉE LOCALEMENT FORTE. HAUTEUR DE VAGUES 1.5M À 2M, ATTEIGNANT LOCALEMENT 2.5 M PAR",Non spécifié
+28/12/2019,CAP D'AMBRE A TOAMASINA,DU SUD À SUD-EST 05/15 KT DEVENANT SECTEUR OUEST 15/20 KT AU NORD DE VOHÉMAR VERS FIN PÉRIODE,"PEU AGITÉE, AGITÉE SOUS GRAINS. HAUTEUR DES VAGUES 1.5 À 2M",Non spécifié
+29/12/2019,BESALAMPY A MOROMBE,"05/10 kt, 15/20kt sous orages",peu agitée à agitée,Non spécifié
+29/12/2019,TOAMASINA AU CAP SAINTE MARIE,10/20 kt atteignant 25/30kt atteignant 30 kt entre Taolagnaro et Cap Sainte Marie,agitée à forte,Temps partiellement nuageux
+29/12/2019,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A TOAMASINA",05/15 kt localement 20kt,peu agitée à agitée,Non spécifié
+29/12/2019,MOROMBE AU CAP SAINTE MARIE,15/25 kt,agitée à forte,Temps sec
+29/12/2019,CAP D'AMBRE A BESALAMPY,05/10 kt atteignant 20/25kt kt sous orages,"peu agitée, agitée sous grains",Non spécifié
+29/12/2019,CAP D'AMBRE A TOAMASINA,05/15 kt localement 20kt,peu agitée à agitée,Non spécifié
+30/12/2019,BESALAMPY A MOROMBE,"DE SECTEUR NORD 05/10 KT, 15/20KT SOUS ORAGES",PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1M À 1.5M ATTEIGNANT LOCALEMENT 2M,Non spécifié
+30/12/2019,CAP D'AMBRE A MAHANORO,"DE SECTEUR SUD 05/15 KT LOCALEMENT 20KT, TOURNANT SECTEUR OUEST 10/15 KT AU NORD DE VOHEMAR",PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1.2 À 1.8M,Non spécifié
+30/12/2019,MAHANORO AU CAP SAINTE MARIE,"DE SUD-EST 10/15 KT, DEVENANT SECTEUR EST 20/25KT ATTEIGNANT 30 KT ENTRE TAOLAGNARO ET CAP SAINTE MARIE","AGITÉE À FORTE. HAUTEUR DE VAGUES 2M À 2.6M, ATTEIGNANT LOCALEMENT 3M PAR",PARTIELLEMENT NUAGEUX
+30/12/2019,CAP D'AMBRE A BESALAMPY,DE SECTEUR OUEST 05/15 KT ATTEIGNANT 20/25KT KT SOUS ORAGES,"PEU AGITÉE, AGITÉE SOUS GRAINS. HAUTEUR DES VAGUES 0.6M À 1M LOCALEMENT 1.5M",Non spécifié
+30/12/2019,MOROMBE AU CAP SAINTE MARIE,"DE SECTEUR OUEST 05/10 KT LOCALEMENT 15 KT ENTRE MOROMBE ET AMPANIHY, VENT DE SECTEUR EST 20/25 KT AILLEURS",AGITÉE À FORTE. HAUTEUR DE VAGUES 2 À 2.5M,Non spécifié
+31/12/2019,CAP D'AMBRE A ANTALAHA,05/10 kt localement 15kt pres du Cap d'Ambre,peu agitée à agitée,Non spécifié
+31/12/2019,MOROMBE A TAOLAGNARO,Non spécifié,Non spécifié,temps peu nuageux ailleurs
+31/12/2019,CAP D'AMBRE A BESALAMPY,10/15 kt,belle à peu agitée,Non spécifié
+31/12/2019,BESALAMPY A MOROMBE,"05/10 kt, localement 15kt",peu agitée à agitée,Non spécifié
+31/12/2019,ANTALAHA A TAOLAGNARO,"05/10 kt localement 15 kt, tournant Sud-ouest 10/15kt au nord",agitée à forte,Temps peu nuageux
+01/01/2020,CAP D'AMBRE A ANTALAHA,"05/10 kt localement 15 kt au Nord de Vohemar, variable 05/10 kt ailleurs",peu agitée,Non spécifié
+01/01/2020,ANTALAHA A TAOLAGNARO,05/10 kt localement variable 05 kt tournant Est progressive 05/10 kt et Nord-Est 15/20 kt près Taolagnaro,peu agitée à agitée,Non spécifié
+01/01/2020,CAP D'AMBRE A BESALAMPY,"10/15 kt au Nord d'Analalava, ailleurs vent de Nord-Ouest 15/20 kt principalement près Besalampy","belle à peu agitée, agitée sous grains",Non spécifié
+01/01/2020,BESALAMPY A MOROMBE,"05/10 kt, localement variable 05kt","peu agitée, agitée sous grains",Non spécifié
+01/01/2020,MOROMBE A TAOLAGNARO,15/20 kt localement 25 kt ailleurs,agitée à forte,Temps peu nuageux
+02/01/2020,MAHANORO A TAOLAGNARO,05/10 kt,peu agitée à agitée,Non spécifié
+02/01/2020,CAP D'AMBRE A MAHANORO,05/10 kt localement 15 kt sous orages,peu agitée à agitée,Non spécifié
+02/01/2020,CAP D'AMBRE A BESALAMPY,10/15 kt localement 20 kt sous grains,"belle à peu agitée, agitée sous grains",Non spécifié
+02/01/2020,BESALAMPY A MOROMBE,05/10 kt,peu agitée à agitée,Non spécifié
+02/01/2020,MOROMBE A TAOLAGNARO,15/20 kt localement 25 kt,agitée à forte,Temps peu nuageux
+03/01/2020,MAHANORO A TAOLAGNARO,10/15 kt atteignant 20kt vers fin période,peu agitée à agitée,Temps d'averses
+03/01/2020,ANTALAHA A MAHANORO,10/15 kt atteignant 20/25 kt sous orages,"peu agitée à agitée, localement forte sous orages",Non spécifié
+03/01/2020,MOROMBE A TAOLAGNARO,15/20 kt atteignant localement 25/30 kt,agitée à forte,Non spécifié
+03/01/2020,CAP D'AMBRE A BESALAMPY,10/15 kt localement 20/25 kt sous grains,"belle à peu agitée, agitée sous grains",Non spécifié
+03/01/2020,CAP D'AMBRE A ANTALAHA,"05/10 kt au début de l'échéance, s'établissant Ouest à Nord-ouest 10/15 kt atteignant 20 kt vers mi-période",peu agitée à agitée,Pluies faibles
+03/01/2020,BESALAMPY A MOROMBE,05/10 kt,peu agitée à agitée,Non spécifié
+04/01/2020,ANTALAHA A MAHANORO,10/15 kt atteignant localement 20 kt,peu agitée à agitée,Non spécifié
+04/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",Non spécifié,peu agitée,Pluies faibles
+04/01/2020,MAHANORO AU CAP SAINTE MARIE,05/10kt atteignant 15/20kt au Sud de Toliary,"peu agitée à agitée, forte au sud de Taolagnaro",Non spécifié
+04/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15/20 kt sous grains,"belle à peu agitée, agitée sous grains",Non spécifié
+04/01/2020,BESALAMPY A MOROMBE,Non spécifié,peu agitée à agitée,Non spécifié
+04/01/2020,MOROMBE AU CAP SAINTE MARIE,15/20 kt atteignant localement 25/28 kt,agitée à forte,Non spécifié
+04/01/2020,CAP D'AMBRE A ANTALAHA,Non spécifié,peu agitée,Pluies faibles
+05/01/2020,MOROMBE AU CAP SAINTE MARIE,05/10 kt atteignant secteur Est 15/20 kt au Sud de Toliary,Non spécifié,Temps peu nuageux
+05/01/2020,BESALAMPY A MOROMBE,Non spécifié,peu agitée,Non spécifié
+05/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt à localement variable 05 kt,"belle à peu agitée, agitée sous grains",Non spécifié
+05/01/2020,ANTALAHA A MANANJARY,10/15 kt atteignant localement 20 kt,peu agitée à agitée,Non spécifié
+05/01/2020,CAP D'AMBRE A ANTALAHA,Non spécifié,peu agitée,Pluies faibles
+05/01/2020,MANANJARY AU CAP SAINTE MARIE,10/15kt tournant secteur Est 15/20 kt près Cap Ste Marie,peu agitée à agitée,Non spécifié
+06/01/2020,BESALAMPY A TOLIARY,Non spécifié,peu agitée,Non spécifié
+06/01/2020,TOLIARY A TAOLAGNARO,15/20 kt,peu agitée à agitée,Temps sec
+06/01/2020,CAP D'AMBRE A ANTALAHA,05/10 kt,peu agitée,Pluies faibles
+06/01/2020,ANTALAHA A MANANJARY,10/15 kt temporairement Sud-est 05/10 kt l'après-midi,peu agitée,Non spécifié
+06/01/2020,MANANJARY A TAOLAGNARO,05/10kt tournant Nord- est vers la nuit,peu agitée à agitée,Non spécifié
+06/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt à localement variable 05 kt,belle à peu agitée,Non spécifié
+07/01/2020,CAP D'AMBRE A BESALAMPY,15/25kt sous orages,belle à peu agitée localement agitée,Non spécifié
+07/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A TOAMASINA",05/10 kt,peu agitée à agitée,Pluies faibles
+07/01/2020,TOAMASINA A TAOLAGNARO,05/10kt,peu agitée à agitée,Non spécifié
+07/01/2020,BESALAMPY A TOLIARY,Non spécifié,peu agitée,Non spécifié
+07/01/2020,TOLIARY AU CAP SAINTE MARIE,Non spécifié,agitée,Temps sec
+07/01/2020,CAP SAINTE MARIE A TAOLAGNARO,15/20 kt,agitée à forte,Non spécifié
+07/01/2020,CAP D'AMBRE A TOAMASINA,05/10 kt,peu agitée à agitée,Pluies faibles
+08/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",05/10 kt atteignant localement 15 kt au Nord de Sainte-,Non spécifié,Pluies faibles
+08/01/2020,CAP D'AMBRE A MAHANORO,05/10 kt atteignant localement 15 kt au Nord de Sainte-,Non spécifié,Pluies faibles
+08/01/2020,BESALAMPY A TOLIARY,Non spécifié,peu agitée à agitée,Non spécifié
+08/01/2020,TOLIARY AU CAP SAINTE MARIE,15/25 kt ailleurs,Non spécifié,Temps sec
+08/01/2020,MAHANORO A CAP SAINTE MARIE,05/10kt atteignant 15/25 kt au Sud de Farafangana localement 30 kt entre Taolagnaro et Cap Sainte Marie,peu agitée à agitée localement forte entre Taolagnaro et Cap Sainte Marie,Non spécifié
+08/01/2020,CAP D'AMBRE A BESALAMPY,15/25kt sous orages,belle à peu agitée localement agitée,Non spécifié
+09/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A TOAMASINA",10/15 kt,peu agitée à agitée,Non spécifié
+09/01/2020,TOAMASINA AU CAP SAINTE MARIE,05/10kt localement 15 kt atteignant 20/25 kt au sud de Taolagnaro,"peu agitee a agitee, forte pres cotes Sud-est",Non spécifié
+09/01/2020,CAP D'AMBRE A BESALAMPY,Non spécifié,belle à peu agitée,Non spécifié
+09/01/2020,BESALAMPY A TOLIARY,05/10 kt,peu agitée à agitée,Non spécifié
+09/01/2020,TOLIARY AU CAP SAINTE MARIE,"05/10kt près des cotes Sud-ouest, devenant nord-est 15/20 au voisinage de la pointe Sud",agitée à forte,nuageux
+09/01/2020,CAP D'AMBRE A TOAMASINA,10/15 kt,peu agitée à agitée,Non spécifié
+10/01/2020,TOLIARY AU CAP SAINTE MARIE,"05/10 kt en première partie de la période, s'établissant Sud-est 15/20 kt localement 25 kt vers la deuxième partie de la période",agitée à forte,Temps peu nuageux
+10/01/2020,CAP D'AMBRE A MANANJARY,10/15 kt atteignant 20 kt au Nord de,Non spécifié,Non spécifié
+10/01/2020,BESALAMPY A TOLIARY,05/10 kt,peu agitée à agitée,Non spécifié
+10/01/2020,MANANJARY AU CAP SAINTE MARIE,05/10 kt localement 15 kt atteignant 20/30 kt entre,Non spécifié,Non spécifié
+10/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MANANJARY",10/15 kt atteignant 20 kt au Nord de,Non spécifié,Non spécifié
+10/01/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt, temporairement variable 05 kt vers la nuit",belle à peu agitée,Non spécifié
+11/01/2020,CAP D'AMBRE A MANANJARY,10/15 kt atteignant 20 kt au Nord de Sainte Marie,peu agitée à agitée,Non spécifié
+11/01/2020,MANANJARY A TAOLAGNARO,05/10 kt tournant Nord-est 15/20 kt près Taolagnaro,peu agitee a agitée,Non spécifié
+11/01/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt, atteignant Sud-est 10/15 kt entre Mahajanga et",Non spécifié,Non spécifié
+11/01/2020,BESALAMPY A TOLIARY,05/10 kt,peu agitée,Non spécifié
+11/01/2020,TOLIARY A TAOLAGNARO,05/10 kt de Toliary à Androka,Non spécifié,Temps peu nuageux
+12/01/2020,MAHANORO A TAOLAGNARO,05/15 kt tournant Nord-est 15/20 kt près Taolagnaro,peu agitée a agitée,Non spécifié
+12/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO","10/20kt, 25kt sous orages",Non spécifié,temps sec ailleurs
+12/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt atteignant 15/25kt sous orages,belle à peu agitée localement agitée à forte,Non spécifié
+12/01/2020,BESALAMPY A MOROMBE,05/10 kt,peu agitée,Non spécifié
+12/01/2020,AMPANIHY A TAOLAGNARO,20/25 kt atteignant 30kt entre 12TU à 18TU,forte à très forte,Temps sec
+12/01/2020,CAP D'AMBRE A MAHANORO,"DU SUD À SUD-EST 10/20KT, 25KT SOUS ORAGES",PEU AGITÉE À AGITÉE LOCALEMENT FORTE. HAUTEUR DE VAGUES 1.5M À 2M LOCALEMENT 2.5M,SEC AILLEURS
+13/01/2020,BESALAMPY A TOLIARY,Non spécifié,peu agitée à agitée,Non spécifié
+13/01/2020,TOAMASINA AU CAP SAINTE MARIE,Non spécifié,"peu agitee a agitee, forte pres cotes Sud-est",Non spécifié
+13/01/2020,TOLIARY AU CAP SAINTE MARIE,Non spécifié,Non spécifié,nuageux
+13/01/2020,CAP D'AMBRE A TOAMASINA,Non spécifié,peu agitée à agitée,Non spécifié
+13/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MANANJARY","05/10 kt entre Cap d'Ambre et Antalaha, ailleurs Sud-ouest à Sud-est 05/10kt",peu agitée à agitée,"Pluies localement orageuses au Nord de Sambava, ailleurs pluies faibles"
+13/01/2020,MOROMBE AU CAP SAINTE MARIE,05/15 kt,peu agitée à agitée,Non spécifié
+13/01/2020,BESALAMPY A MOROMBE,05/10 kt,peu agitée,Non spécifié
+13/01/2020,CAP D'AMBRE A BESALAMPY,Non spécifié,belle à peu agitée localement agitée,Pluies orageuses
+13/01/2020,MANANJARY AU CAP SAINTE MARIE,05/10 kt atteignant 20/25 kt entre Taolagnaro et Cap Sainte Marie,peu agitée à agitée,Non spécifié
+13/01/2020,CAP D'AMBRE A MANANJARY,"05/10 kt entre Cap d'Ambre et Antalaha, ailleurs Sud-ouest à Sud-est 05/10kt",peu agitée à agitée,"Pluies localement orageuses au Nord de Sambava, ailleurs pluies faibles"
+14/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A TOAMASINA",05/10 kt localement 15 kt au Nord d'Antalaha,peu agitée à agitée,"Pluies localement orageuses au Nord d'Antalaha, ailleurs temps peu nuageux"
+14/01/2020,TOAMASINA AU CAP SAINTE MARIE,05/10 kt atteignant 20/25 kt entre Taolagnaro et Cap Sainte,Non spécifié,Non spécifié
+14/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,temps peu nuageux aillleurs
+14/01/2020,BESALAMPY A MOROMBE,Non spécifié,peu agitée,Non spécifié
+14/01/2020,MOROMBE AU CAP SAINTE MARIE,05/10 kt localement 15 kt,agitée à forte,Temps peu nuageux
+14/01/2020,CAP D'AMBRE A TOAMASINA,05/10 kt localement 15 kt au Nord d'Antalaha,peu agitée à agitée,"Pluies localement orageuses au Nord d'Antalaha, ailleurs temps peu nuageux"
+15/01/2020,CAP D'AMBRE A MAHANORO,05/10 kt localement 15/20 kt au Nord d'Antalaha,peu agitée à agitée,Pluies localement orageuses
+15/01/2020,BESALAMPY A MOROMBE,Non spécifié,peu agitée à agitée,Non spécifié
+15/01/2020,MOROMBE AU CAP SAINTE MARIE,"05/10 kt entre Morombe et Itampolo, ailleurs secteur",Non spécifié,Non spécifié
+15/01/2020,MAHANORO AU CAP SAINTE MARIE,05/10 kt localement 15 kt au Sud de Farafangana atteignant 20/25 kt entre Taolagnaro et Cap Sainte Marie,peu agitée à agitée,Non spécifié
+15/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",05/10 kt localement 15/20 kt au Nord d'Antalaha,peu agitée à agitée,Pluies localement orageuses
+15/01/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt, devenant secteur Est 15/20 kt près",Non spécifié,Non spécifié
+16/01/2020,CAP D'AMBRE A MAHANORO,"05/10 kt entre Ste Marie et Mahanoro, Sud-est 15/20 kt entre Ste Marie et Cap d'Ambre",peu agitée à agitée,Pluies localement orageuses
+16/01/2020,MAHANORO A TAOLAGNARO,10/15 kt atteignant 20 kt au Sud de Vangaindrano,Non spécifié,Non spécifié
+16/01/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt, devenant secteur Est 15/20 kt près",Non spécifié,Non spécifié
+16/01/2020,BESALAMPY A MOROMBE,05/10 kt,peu agitée,Non spécifié
+16/01/2020,MOROMBE A TAOLAGNARO,"05/10 kt entre Morombe et Cap Ste Marie, Est 15/20 kt entre Cap",Non spécifié,Non spécifié
+17/01/2020,CAP D'AMBRE A ANTALAHA,05/10 kt devenant Ouest 15/20 kt en fin de période,Non spécifié,Pluies localement orageuses
+17/01/2020,ANTALAHA A TAOLAGNARO,05/10 kt localement 15 kt,peu agitée à agitée,Pluies localement orageuses
+17/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15 kt,peu agitée à agitée,Non spécifié
+17/01/2020,BESALAMPY A MOROMBE,10/15 kt,peu agitée à agitée,Non spécifié
+17/01/2020,MOROMBE A TAOLAGNARO,10/20 kt,peu agitée à agitée,Non spécifié
+18/01/2020,TOLIARA A TAOLAGNARO,10/15 kt,peu agitée à agitée,Non spécifié
+18/01/2020,CAP D'AMBRE A ANTALAHA,10/15 kt atteignant 20 kt,peu agitée à agitée,Pluies localement orageuses
+18/01/2020,BESALAMPY A TOLIARA,05/10 kt atteignant 15/20 kt,"peu agitée à agitée, localement forte sous orages",Non spécifié
+18/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",10/15 kt atteignant 20 kt,peu agitée à agitée,Pluies localement orageuses
+18/01/2020,FARAFANGANA A TAOLAGNARO,"10/15 kt localement 20 kt, tournant progressivement secteur",Non spécifié,Pluies orageuses
+18/01/2020,ANTALAHA A FARAFANGANA,10/15 kt localement 20 kt,agitée,Pluies localement orageuses
+18/01/2020,CAP D'AMBRE A BESALAMPY,"10/15 kt localement 20 kt, atteignant 25 kt sous orages","peu agitée à agitée, localement forte près Besalampy",Non spécifié
+19/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",10/15 kt localement 20 kt,peu agitée à agitée,Pluies localement orageuses
+19/01/2020,ANTALAHA A TAOLAGNARO,"10/15 kt localement 20 kt, devenant",Non spécifié,Non spécifié
+19/01/2020,CAP D'AMBRE A BESALAMPY,"10/15 kt localement 20 kt, atteignant 25 kt sous orages","peu agitée à agitée, localement forte près Besalampy",Non spécifié
+19/01/2020,BESALAMPY A TOLIARA,10/15 kt atteignant 20/25 kt sous grains,"peu agitée à agitée, localement forte sous orages et grains",Non spécifié
+19/01/2020,TOLIARA A TAOLAGNARO,10/15 kt devenant Sud-ouest 10/15 kt à l'Est de la pointe,Non spécifié,Non spécifié
+19/01/2020,CAP D'AMBRE A ANTALAHA,DE NORD À NORD-OUEST 10/15 KT LOCALEMENT 20 KT,PEU AGITÉE À AGITÉE. HAUTEUR DE VAGUES 1M À 1.5M,Non spécifié
+20/01/2020,TOLIARA A TAOLAGNARO,15/25 kt atteignant 30kt entre Toliara et,Non spécifié,Temps partiellement nuageux à nuageux
+20/01/2020,CAP D'AMBRE A BESALAMPY,10/20 kt atteignant 25 kt sous orages,agitée à forte,Non spécifié
+20/01/2020,MAHANORO A TAOLAGNARO,15/25 kt,agitée à forte,nuageux ailleurs
+20/01/2020,CAP D'AMBRE A MAHANORO,"15/20 kt atteignant 25 kt près cote d'Antalaha et Mahanoro, devenant Sud 15/20kt au sud de Toamasina en fin période","peu agitée à agitée, forte sous orages",Pluies localement orageuses au Sud d'Antalaha
+20/01/2020,BESALAMPY A TOLIARA,"10/15 kt sur la moitié nord et Sud 10/15kt sur la moitié sud, atteignant 20/25 kt sous grains et orages",agitée à forte,Non spécifié
+21/01/2020,CAP D'AMBRE A SAINTE MARIE,15/20 kt localement 25 kt,agitée à forte,Pluies localement orageuses
+21/01/2020,SAINTE MARIE AU CAP SAINTE MARIE,15/20 kt entre Sainte Marie et Mahanoro ailleurs Sud-est 15/20 kt,forte,nuageux ailleurs
+21/01/2020,CAP D'AMBRE A MAINTIRANO,15/20 kt atteignant localement 25 kt,agitée à forte,Pluies orageuses
+21/01/2020,MAINTIRANO AU CAP SAINTE MARIE,15/25 kt localement 30kt,agitée à forte par houle modérée du sud,Pluies orageuses au Nord de Morombe ailleurs temps partiellement nuageux
+22/01/2020,TOLIARA AU CAP SAINTE MARIE,15/25 kt localement 30kt,agitée à forte par houle modérée du sud,Temps partiellement nuageux
+22/01/2020,BESALAMPY A TOLIARA,10/15 kt localement 20kt,"agitée, localement forte par houle modérée du sud",Pluies localement orageuses
+22/01/2020,CAP D'AMBRE A ANTALAHA,10/15 kt localement 20 kt devenant variable 10/15 kt au voisinage d'Antalaha,"agitée, localement forte",Pluies localement orageuses
+22/01/2020,MANANJARY AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt au Sud de Taolagnaro,agitée à forte,nuageux ailleurs
+22/01/2020,ANTALAHA A MANANJARY,15/20 kt,agitée à forte,Non spécifié
+22/01/2020,CAP D'AMBRE A BESALAMPY,"15/20 kt atteignant localement 25/30 kt, atteignant 33 kt sous grains",forte à très forte s'amortissant vers fin période,Pluies orageuses et grains
+23/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A SAINTE MARIE","15/20 kt localement 25 kt, localement 30/35 kt au voisinage de Sainte Marie","agitée, localement forte",Pluies localement orageuses
+23/01/2020,SAINTE MARIE A MANANJARY,15/25 kt atteignant 30/35 kt vers fin periode,Non spécifié,Pluies orageuses
+23/01/2020,MANANJARY AU CAP SAINTE MARIE,10/15 kt atteignant 20 kt au Sud de Taolagnaro,agitée à forte,nuageux ailleurs
+23/01/2020,CAP D'AMBRE A BESALAMPY,"15/20 kt atteignant localement 25/30 kt, atteignant 33 kt sous grains",forte à très forte s'amortissant vers fin période,Pluies orageuses et grains
+23/01/2020,BESALAMPY A MOROMBE,15/20 kt atteignant 25 kt pres Morombe,"agitée, localement forte par houle modérée du sud",Non spécifié
+23/01/2020,TOLIARA AU CAP SAINTE MARIE,15/25 kt localement 30kt,agitée à forte par houle modérée du sud,Temps partiellement nuageux
+23/01/2020,CAP D'AMBRE A SAINTE MARIE,"15/20 kt localement 25 kt, atteignant 30/35 kt au voisinage de Sainte Marie","agitée, localement forte",Pluies localement orageuses
+23/01/2020,MOROMBE AU CAP SAINTE MARIE,15/25 kt localement 30kt,agitée à forte par houle modérée du sud,Temps partiellement nuageux
+24/01/2020,CAP D'AMBRE A ANTALAHA,15/20 kt localement 25 kt devenant Sud-ouest à Sud 15/20kt le soir vers la fin période,agitée,Non spécifié
+24/01/2020,MOROMBE AU CAP SAINTE MARIE,15/25 kt atteignant 30kt sur la partie centrale l’après-midi vers la nuit,agitée à forte par houle modérée de sud-est,Temps partiellement nuageux
+24/01/2020,ANTALAHA A MAHANORO,15/25 kt atteignant 30kt sous grains,"agitée à forte, localement très forte",Pluies orageuses et grains locaux en début de période devenant progressivement sec l’après-midi vers la fin
+24/01/2020,CAP D'AMBRE A BESALAMPY,15/20 kt atteignant localement 25 kt sous orages,peu agitée à agitée,nuageux ailleurs
+24/01/2020,MAHANORO AU CAP SAINTE MARIE,10/20 kt,agitée à forte,Temps partiellement nuageux avec des faibles averses locaux
+24/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",15/20 kt localement 25 kt devenant Sud-ouest à Sud 15/20kt le soir vers la fin période,agitée,Non spécifié
+24/01/2020,BESALAMPY A MOROMBE,15/20 kt devenant circulation dépressionnaire 05/10kt près cote,Non spécifié,Non spécifié
+25/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt localement 20 kt,agitée à forte,nuageux ailleurs
+25/01/2020,MAHANORO A TAOLAGNARO,10/15 kt tournant Nord-est 10/15 kt vers la nuit entre,Non spécifié,nuageux
+25/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt ailleurs Nord-ouest à Ouest 05/10 kt,peu agitée,nuageux ailleurs
+25/01/2020,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,peu agitée,Non spécifié
+25/01/2020,MOROMBE AU CAP SAINTE MARIE,15/25 kt atteignant localement 30kt,agitée à forte par houle modérée de sud-est,Temps partiellement nuageux
+25/01/2020,CAP D'AMBRE A MAHANORO,10/15 kt localement 20 kt,agitée à forte,nuageux ailleurs
+26/01/2020,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,peu agitée,Non spécifié
+26/01/2020,MOROMBE AU CAP SAINTE MARIE,05/10 kt localement 15 kt devenant Est 10/15 kt vers la pointe Sud,agitée à forte par houle modérée de sud-est,Temps partiellement nuageux
+26/01/2020,MAHANORO AU CAP SAINTE MARIE,05/10 kt tournant Est à Nord-est 10/15 kt au Sud de,Non spécifié,nuageux
+26/01/2020,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20 kt au Nord d'Antalaha,agitée,Non spécifié
+26/01/2020,"AVIS
+LOCALEMENT GRAND FRAIS AU SUD DE TAOLAGNARO",Non spécifié,Non spécifié,Non spécifié
+26/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15 kt près de Boeny,belle à peu agitée,Non spécifié
+27/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant 20 kt au Nord d'Antalaha,agitée,Non spécifié
+27/01/2020,MAHANORO AU CAP SAINTE MARIE,05/15 kt atteignant 20/25 kt au Sud de Vangaindrano,Non spécifié,nuageux
+27/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+27/01/2020,BESALAMPY A MOROMBE,05/10 kt tournant progressivement Sud à Sud-Ouest 05/10 kt localement 15 kt vers la nuit,peu agitée,Non spécifié
+27/01/2020,MOROMBE AU CAP SAINTE MARIE,05/10 kt localement 15 kt se renforçant secteur Sud 20/25 kt vers fin periode,agitée à forte par houle modérée d'Est à secteru Sud,Temps partiellement nuageux
+27/01/2020,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20 kt au Nord d'Antalaha,agitée,Non spécifié
+29/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",05/10 kt devenant Sud-est en soirée,peu agitée à agitée,nuageux ailleurs
+29/01/2020,ANTALAHA A MAHANORO,05/10 kt,peu agitée à agitée,Temps partiellement nuageux
+29/01/2020,MAHANORO A TAOLAGNARO,10/15 kt devenant Sud-ouest près de Taolagnaro en fin de période,"agitée, localement forte par houle de Sud-est",temps partiellement nuageux ailleurs
+29/01/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+29/01/2020,BESALAMPY A MOROMBE,05/10 kt temporairement Ouest l'après-midi,peu agitée,temps ensoleillé ailleurs
+29/01/2020,MOROMBE A TAOLAGNARO,10/15 kt localement 20 kt,agitée à forte,Temps peu nuageux
+29/01/2020,CAP D'AMBRE A ANTALAHA,05/10 kt devenant Sud-est en soirée,peu agitée à agitée,nuageux ailleurs
+30/01/2020,BESALAMPY A MOROMBE,05/10 kt temporairement Ouest 05/10kt l'après-midi,peu agitée à agitée,temps ensoleillé ailleurs
+30/01/2020,MOROMBE A TAOLAGNARO,15/25 kt atteignant 30kt l’après-midi sur la partie centrale,Non spécifié,Temps peu nuageux
+30/01/2020,MAHANORO A TAOLAGNARO,10/15 kt devenant Sud-est 15kt près de Taolagnaro,agitée à forte,temps partiellement nuageux ailleurs
+30/01/2020,CAP D'AMBRE A BESALAMPY,05/15 kt,belle à peu agitée,Non spécifié
+30/01/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",10/15 kt,Non spécifié,nuageux ailleurs
+30/01/2020,ANTALAHA A MAHANORO,05/10 kt,agitée,Temps partiellement nuageux
+30/01/2020,CAP D'AMBRE A ANTALAHA,10/15 kt,Non spécifié,nuageux ailleurs
+31/01/2020,CAP D'AMBRE A ANTALAHA,15/20 kt,agitée,Non spécifié
+31/01/2020,ANTALAHA A MAHANORO,10/15 kt atteignant 20 kt,agitée,Non spécifié
+31/01/2020,MAHANORO A TAOLAGNARO,05/15 kt atteignant 20 kt près Taolagnaro,agitée à forte,Non spécifié
+31/01/2020,CAP D'AMBRE A BESALAMPY,05/15 kt atteignant localement 20/25 kt,"belle à peu agitée, localement agitée à forte sous orages",Non spécifié
+31/01/2020,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,Non spécifié,Non spécifié
+31/01/2020,MOROMBE A TAOLAGNARO,15/25 kt atteignant 30kt,agitée à forte,Temps peu nuageux
+01/02/2020,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20/25 kt au Nord d'Antalaha,agitée,Pluies
+01/02/2020,MOROMBE AU CAP SAINTE MARIE,"15/20 kt localement 25 kt au Sud de Toliary, secteur Sud 10/15 kt ailleurs",agitée à forte,Non spécifié
+01/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant 20/25 kt au Nord d'Antalaha,agitée,Pluies
+01/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt localement 15 kt,belle à peu agitée,Non spécifié
+01/02/2020,MAHANORO AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt au Sud de Taolagnaro,"agitée, forte près côtes Sud-est",Non spécifié
+01/02/2020,BESALAMPY A MOROMBE,Non spécifié,"peu agitée à agitée, localement forte vers Morombe",Non spécifié
+02/02/2020,CAP D'AMBRE A MAHANORO,10/20 kt atteignant localement 25 kt entre Cap d'Ambre et Antalaha surtout vers l'après-midi,peu agitée à agitée,Pluies
+02/02/2020,MOROMBE A TAOLAGNARO,10/15 kt atteignant 25/30kt entre Itampolo et Taolagnaro,agitée à forte,Temps sec
+02/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/20 kt atteignant localement 25 kt entre Cap d'Ambre et Antalaha surtout vers l'après-midi,peu agitée à agitée,Pluies
+02/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt ailleurs vent de Sud- est 10/15 kt atteignant localement 20 kt vers la fin période,belle à peu agitée,Non spécifié
+02/02/2020,MAHANORO A TAOLAGNARO,10/15 kt,peu agitée à agitée,Non spécifié
+02/02/2020,BESALAMPY A MOROMBE,05/10 kt,peu agitée,Non spécifié
+03/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/20 kt atteignant localement 25 kt entre Cap d'Ambre et Antalaha,Non spécifié,Pluies
+03/02/2020,MAHANORO A TAOLAGNARO,10/15 kt atteignant 20/25 kt près Taolagnaro,peu agitée à agitée,Non spécifié
+03/02/2020,CAP D'AMBRE A BESALAMPY,"10/15 kt localement 20/25 kt, ailleurs secteur Ouest 05/15 kt",belle à peu agitée,Non spécifié
+03/02/2020,BESALAMPY A MOROMBE,"05/10 kt, s'établissant secteur Sud 05/10 kt le jour suivant",peu agitée,Non spécifié
+03/02/2020,MOROMBE A TAOLAGNARO,10/20 kt atteignant localement 25/30kt entre Itampolo et,Non spécifié,Temps sec
+03/02/2020,CAP D'AMBRE A MAHANORO,10/20 kt atteignant localement 25 kt entre Cap d'Ambre et Antalaha,Non spécifié,Pluies
+04/02/2020,TOLIARY AU CAP SAINTE MARIE,10/15kt atteignant localement 20/25 kt devenant secteur Est au voisinage de Toliary,peu agitée à agitée,Temps sec
+04/02/2020,CAP D'AMBRE A MAHANORO,10/15 kt atteignant 20 kt près des côtes Nord-est,peu agitée à agitée,Pluies
+04/02/2020,BESALAMPY A TOLIARY,Non spécifié,peu agitée,Non spécifié
+04/02/2020,MAHANORO AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt au Sud de Taolagnaro,"agitée, localement forte au Sud de Taolagnaro vers fin période",Non spécifié
+04/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/20 kt atteignant 20 kt près des côtes Nord-est,peu agitée à agitée,Pluies
+04/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+05/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",15/20 kt atteignant 25 kt entre Cap d'Ambre et Antalaha,Non spécifié,Non spécifié
+05/02/2020,MAHANORO AU CAP SAINTE MARIE,"05/10kt au nord de Manakara, Nord-est 15/20 kt ailleurs et atteignant 25/30 kt au Sud de Taolagnaro dans la deuxième partie de la période",agitée à forte,Temps sec
+05/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+05/02/2020,BESALAMPY A TOLIARY,Non spécifié,peu agitée,Non spécifié
+05/02/2020,TOLIARY AU CAP SAINTE MARIE,05/10 kt,"peu agitée à agitée, localement forte vers pointe",Temps sec
+05/02/2020,CAP D'AMBRE A MAHANORO,15/20 kt atteignant 25 kt entre Cap d'Ambre et Antalaha,Non spécifié,Non spécifié
+06/02/2020,CAP D'AMBRE A MANANJARY,10/15 kt atteignant localement 20 kt au Nord d'Antalaha,"peu agitée, agitée au Nord d'Antalaha par houle de Sud-est","Pluies faibles près côtes Nord-est, temps peu nuageux ailleurs"
+06/02/2020,MANANJARY AU CAP SAINTE MARIE,10/15 kt localement 20 kt au voisinage de Taolagnaro et atteignant 25 kt vers cap Sainte Marie,"agitée, localement forte près côtes Sud-est",Non spécifié
+06/02/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt le matin, devenant Nord-ouest 05 kt l'après- midi",belle à peu agitée,Non spécifié
+06/02/2020,BESALAMPY A TOLIARY,Non spécifié,belle à peu agitée,Non spécifié
+06/02/2020,TOLIARY AU CAP SAINTE MARIE,05/10 kt au voisinage de Toliary,agitée,Temps sec
+07/02/2020,CAP D'AMBRE A MANANJARY,10/15 kt atteignant localement 20 kt près d'Antalaha entre,Non spécifié,Pluies faibles
+07/02/2020,MOROMBE AU CAP SAINTE MARIE,05/10 kt tournant Sud-ouest 05/10kt localement 15 kt vers midi,Non spécifié,Temps sec
+07/02/2020,BESALAMPY A MOROMBE,05/10 kt le matindevenant Sud-ouest l'après- midi,belle à peu agitée,Non spécifié
+07/02/2020,MANANJARY AU CAP SAINTE MARIE,"10/15 kt localement 20 kt entre Mananjary et Taolagnaro, ailleurs Nord-est 20/25 kt localement 30 kt","peu agitée à agitée, localement forte entre",Non spécifié
+07/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MANANJARY",10/15 kt atteignant localement 20 kt près d'Antalaha entre,Non spécifié,Pluies faibles
+07/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt le matin devenant Ouest à Nord-ouest l'après- midi,belle à peu agitée,Non spécifié
+08/02/2020,MOROMBE AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt entre Toliara et Cap Sainte Marie,"peu agitée à agitée, localement forte entra Toliara et Cap Sainte Marie",Temps sec
+08/02/2020,BESALAMPY A MOROMBE,05/10 kt devenant variable 05/10 kt le jour suivant,belle à peu agitée,Non spécifié
+08/02/2020,CAP D'AMBRE A MAHANORO,DE SUD À SUD-EST 10/15 KT ATTEIGNANT LOCALEMENT 20 KT ENTRE ANTALAHA ET CAP D'AMBRE,PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1/2M ATTEIGNANT TEMPORAIREMENT 2.5/3M AUX VOISINQGE DE SAMBAVA EN SOIRÉE,Non spécifié
+08/02/2020,MAHANORO AU CAP SAINTE MARIE,10/15 kt localement 20 kt entre Vangaindrano et,Non spécifié,Non spécifié
+08/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/15 kt atteignant localement 20 kt entre,Non spécifié,Pluies faibles intermittente
+08/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+09/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MAHANORO",10/20 kt,peu agitée à agitée,Pluies intermittente
+09/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+09/02/2020,BESALAMPY A MOROMBE,05/10 kt,belle à peu agitée,Non spécifié
+09/02/2020,MOROMBE AU CAP SAINTE MARIE,05/10kt atteignant 15/20 kt près Cap Sainte Marie,"peu agitée à agitée, localement forte au voisinage de Cap Sainte Marie",Temps sec
+09/02/2020,CAP D'AMBRE A MAHANORO,10/20 kt,peu agitée à agitée,Pluies intermittente
+09/02/2020,MAHANORO AU CAP SAINTE MARIE,"05/10kt sur la moitié nord, 15/25 kt sur la moitié sud atteignant 30 kt entre Taolagnaro et Cap Sainte Marie","agitée, forte entre Farafangana et Cap Sainte Marie",Temps sec
+12/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",10/15 kt tournant Nord-ouest 10/20 kt fraîchissant 25kt le jour suivant,agitée à forte,Pluies
+12/02/2020,ANTALAHA A MAHANORO,15/25 kt,agitée à forte,Pluies faibles à modérée
+12/02/2020,MAHANORO AU CAP SAINTE MARIE,"10/15 kt atteignant 20 kt au Nord de Vangaindrano, tournant Est à Nord-est 15/25 kt ailleurs s'établissant Est à Nord-Est 10/15 kt atteignant 20/30 kt près Taolagnaro","agitée, forte entre",temps partiellement nuageux ailleurs
+12/02/2020,BESALAMPY A TOLIARY,"05/10 kt, temporairement secteur Ouest 05/10 kt en soirée","peu agitée, agitée près Morombe",Non spécifié
+12/02/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt, atteignant 15/20 kt sous orages","belle à peu agitée, localement agitée",Non spécifié
+12/02/2020,TOLIARY AU CAP SAINTE MARIE,15/25 kt localement 30 kt entre Itampolo et Cap Sainte Marie,agitée à forte,Temps sec
+12/02/2020,CAP D'AMBRE A ANTALAHA,10/15 kt tournant Nord-ouest 10/20 kt fraîchissant 25kt le jour suivant,agitée à forte,Pluies
+13/02/2020,ANTALAHA A MANANJARY,15/20 kt atteignant 25/28 kt sous orages et grains,agitée à forte,Pluies orageuses et grains locaux
+13/02/2020,MANANJARY AU CAP SAINTE MARIE,10/15 kt localement 20 kt près de Mananjary tournant progressivement Est à Nord-est 10/15 kt vers Sud zone et atteignant 20/25 kt au Sud de Taolagnaro,agitée à forte,Non spécifié
+13/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+13/02/2020,BESALAMPY A TOLIARY,05/10 kt,"peu agitée, agitée de Morombe au Sud",temps peu nuageux ailleurs
+13/02/2020,TOLIARY AU CAP SAINTE MARIE,15/20 kt,agitée à forte,Temps sec
+13/02/2020,CAP D'AMBRE A ANTALAHA,10/15 kt localement 20 kt vers la pointe Nord,agitée,Pluies rares
+14/02/2020,"AVIS DE GRAND FRAIS ASSOCIE A LA DEPRESSION TROPICALE ENTRE TOAMASINA
+ET VATOMANDRY",Non spécifié,Non spécifié,Non spécifié
+14/02/2020,MOROMBE AU CAP SAINTE MARIE,10/15kt devenant Ouest en soirée et Sud-ouest 05/10kt localement 15 kt en fin de période,agitée à forte,Temps sec
+14/02/2020,BESALAMPY A MOROMBE,05/10 kt,"peu agitée, agitée de",Non spécifié
+14/02/2020,FARAFANGANA AU CAP SAINTE MARIE,15/20 kt localement 25 kt entre Taolagnaro et Cap,Non spécifié,Temps partiellement nuageux
+14/02/2020,SAINTE MARIE A MAHANORO,15/20 kt atteignant 25 kt sous orages et grains,agitée à forte,pluies orageuses et grains locaux
+14/02/2020,CAP D'AMBRE A SAINTE MARIE,05/10 kt localement 15 kt,peu agitée à agitée,Non spécifié
+14/02/2020,"AVIS
+AVIS DE GRAND FRAIS ASSOCIE A LA DEPRESSION TROPICALE ENTRE TOAMASINA
+ET VATOMANDRY",Non spécifié,Non spécifié,Non spécifié
+14/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt à Sud-ouest l'après-midi,belle à peu agitée,Non spécifié
+15/02/2020,MOROMBE AU CAP SAINTE MARIE,"15/20 kt atteignant 25 kt, localement 30 kt vers fin période",agitée à forte,Temps sec
+15/02/2020,AVIS DE GRAND FRAIS ASSOCIE A LA DEPRESSION TROPICALE ENTRE TOAMASINA,Non spécifié,Non spécifié,Non spécifié
+15/02/2020,BESALAMPY A MOROMBE,10/15 kt,"peu agitée, agitée de",Non spécifié
+15/02/2020,ANTALAHA A MANANJARY,10/20 kt atteignant 25/30 kt sous orages et grains,agitée à forte,pluies orageuses et grains locaux
+15/02/2020,MANANJARY AU CAP SAINTE MARIE,15/20 kt localement 25 kt entre Taolagnaro et,Non spécifié,Non spécifié
+15/02/2020,CAP D'AMBRE A ANTALAHA,05/10 kt localement 15 kt,peu agitée à agitée,Non spécifié
+15/02/2020,"AVIS
+AVIS DE GRAND FRAIS ASSOCIE A LA DEPRESSION TROPICALE ENTRE TOAMASINA",Non spécifié,Non spécifié,Non spécifié
+15/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+16/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA",05/10 kt,peu agitée à agitée,Non spécifié
+16/02/2020,ANTALAHA A MANANJARY,05/10 kt localement 15/20 kt sous grains et orages,agitée localement forte,Pluies orageuses et grains locaux
+16/02/2020,MANANJARY AU CAP SAINTE MARIE,10/15 kt localement 20 kt atteignant 25/30 kt entre,Non spécifié,Non spécifié
+16/02/2020,CAP D'AMBRE A BESALAMPY,05/10 kt,belle à peu agitée,Non spécifié
+16/02/2020,BESALAMPY A MOROMBE,05/10 kt localement 15 kt,"peu agitée, agitée de Morombe au Sud",Non spécifié
+16/02/2020,MOROMBE AU CAP SAINTE MARIE,15/20 kt atteignant 25 kt vers la pointe Sud,agitée à forte,Temps sec
+16/02/2020,CAP D'AMBRE A ANTALAHA,05/10 kt,peu agitée à agitée,Non spécifié
+17/02/2020,CAP D'AMBRE A MANANJARY,"05/15kt, 20kt sous orages",peu agitée à agitée,Pluies orageuses
+17/02/2020,MOROMBE AU CAP SAINTE MARIE,15/20 kt atteignant 25 kt vers la pointe Sud devenant circulation dépressionnaire 05/10kt en fin période,"peu agitée à agitée, forte sur la moitié sud par houle d'est",temps sec ailleurs
+17/02/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt, 20/25kt sous orages",belle à peu agitée localement agitée,Non spécifié
+17/02/2020,MANANJARY AU CAP SAINTE MARIE,10/15kt atteignant 20/25kt sous orages et au sud de Taolagnaro,agitée à forte,"Pluies orageuses sur la partie nord dans la première partie de la période, devenant sec sur l'ensemble de zone dans la deuxième partie"
+17/02/2020,BESALAMPY A MOROMBE,10/15 kt localement 20/25kt sous orages,belle à peu agitée localement agitée,Non spécifié
+17/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A MANANJARY","05/15kt, 20kt sous orages",peu agitée à agitée,Pluies orageuses
+18/02/2020,MAHANORO AU CAP SAINTE MARIE,10/15kt atteignant 20/25kt entre Taolagnaro et Cap Sainte,Non spécifié,Non spécifié
+18/02/2020,CAP D'AMBRE A BESALAMPY,"05/10 kt à Ouest l'après-midi, 20/25kt sous orages",belle à peu agitée localement agitée,Non spécifié
+18/02/2020,BESALAMPY A MOROMBE,10/15 kt localement 20/25kt sous orages,belle à peu agitée localement agitée,Non spécifié
+18/02/2020,MOROMBE AU CAP SAINTE MARIE,05/10 kt à,Non spécifié,nuageux
+18/02/2020,CAP D'AMBRE A ANTALAHA,"10/15kt, 20kt sous orages",peu agitée à agitée,Pluies orageuses
+18/02/2020,ANTALAHA A MAHANORO,10/15 kt,peu agitée à agitée,Pluies intermittentes
+19/02/2020,"PRÉVISION POUR LES COTES DE MADAGASCAR
+CAP D'AMBRE A ANTALAHA","10/15 kt, atteignant 20 kt sous orages",peu agitée à agitée,Pluies orageuses
+19/02/2020,ANTALAHA A MAHANORO,05/10 kt devenant Nord-est 05/10 kt vers fin période,Non spécifié,Pluies faibles intermittentes
+19/02/2020,MAHANORO AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt entre Taolagnaro et Cap Sainte,Non spécifié,Non spécifié
+19/02/2020,CAP D'AMBRE A BESALAMPY,"10/15 kt, atteignant 20/25kt sous orages, devenant",Non spécifié,Non spécifié
+19/02/2020,BESALAMPY A MOROMBE,10/15 kt localement 20/25kt sous orages,belle à peu agitée localement agitée,Non spécifié
+19/02/2020,MOROMBE AU CAP SAINTE MARIE,10/15 kt atteignant 20/25 kt ailleurs,"peu agitée à agitée, localement forte entre Itampolo et Cap Sainte Marie",Non spécifié
+19/02/2020,CAP D'AMBRE A ANTALAHA,"DE SUD-EST 10/15 KT, ATTEIGNANT 20 KT SOUS ORAGES",PEU AGITÉE À AGITÉE. HAUTEUR DES VAGUES 1.2 À 2M,Non spécifié
+16/11/2020,CAP ST ANDRE A ANALALAVA,Variable 05/10.,"Belle à peu agitée, 0.4 à 0.8m.",Averses orageuses.
+16/11/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Est 20/25 localement 30.,"Agitée à forte, 2.3 à 2.8m. Houle modérée de Sud-est.",Ensoleillé.
+16/11/2020,CAP ST MARIE AU CAP ST VINCENT,"Ouest à Nord-ouest 05/10 localement 15, temporairement Est 10/15 au Sud d'Ampanihy.","Peu agitée à agitée, 1 à 2m.",Ensoleillé.
+16/11/2020,MAHANORO A TAOLAGNARO,Nord-est 05/10 atteignant 15/20 au Sud de Vangaindrano.,"Agitée, 1.8 à 2.3m.",Rares averses.
+16/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05.,"Peu agitée, 0.5 à 1m.",Averses isolées.
+16/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 15/20 atteignant 25 près du Cap d'Ambre. ÉTAT DE LA MER : Agitée, 1.7 à 2.5m. TEMPS SENSIBLE : Pluies faibles locales. CAP EST A MAHANORO VENT : Sud à Sud-est 05/10 localement 15.","Agitée par houle localement modérée de secteur Sud, 1.6 à 2.2m.",Partiellement nuageux.
+18/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 10/20. ÉTAT DE LA MER : Agitée, 1.5 à 2m. TEMPS SENSIBLE : Partiellement nuageux à nuageux avec des averses locales. CAP EST A MAHANORO VENT : Sud-est 05/10 localement 15 devenant variable 05 la nuit.","Peu agitée à agitée, 1 à 1.8m.",Partiellement nuageux.
+18/11/2020,MAHANORO A TAOLAGNARO,Nord à Nord-est 10/15 atteignant 20/25 au Sud de Vangaindrano.,"Agitée, 1.5m localement 2m.",Peu nuageux.
+18/11/2020,TAOLAGNARO AU CAP ST MARIE,Est à Est 10/15 localement 20.,"Agitée, 1.5 à 2m.",Ensoleillé.
+18/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud à Sud-ouest 05/10 localement 15.,"Peu agitée à agitée, 0.5 à 1m localement 1.4m.",Ensoleillé.
+18/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Ouest 05/10 localement 15.,"Peu agitée à agitée, 0.5 à 1m.","Averses sur la partie Nord, sec ailleurs."
+18/11/2020,CAP ST ANDRE A ANALALAVA,Ouest à Sud-ouest 05/10 localement 15.,"Belle à peu agitée, hauteur des vagues moins de 1m.",Averses localement orageuses.
+19/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud à Sud-ouest 10/15.,"Peu agitée à agitée, 1/1.5m.",Ensoleillé.
+19/11/2020,CAP D'AMBRE A CAP EST,"Sud à Sud-est 05/10 localement 15. ÉTAT DE LA MER : Peu agitée à agitée, 1/1.5m. TEMPS SENSIBLE : Partiellement nuageux. CAP EST A MAHANORO VENT : Secteur Est 05/10.","Peu agitée à agitée, 1/1.5m.",Ensoleillé.
+19/11/2020,CAP ST ANDRE A ANALALAVA,Ouest à Nord-ouest 05/10 localement 15.,"Belle à peu agitée, hauteur des vagues moins de 1m.",Partiellement nuageux.
+19/11/2020,MAHANORO A TAOLAGNARO,Nord à Nord-est 10/15 localement 20.,"Agitée, 1/1.5m localement 2m.",Ensoleillé.
+19/11/2020,TAOLAGNARO AU CAP ST MARIE,Sud à Sud_ouest 05/10 localement 15.,"Agitée, 1.5 à 2.3m.",Ensoleillé.
+19/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Ouest à Sud-ouest 05/10 localement 15.,"Peu agitée à agitée, 0.5 à 1m.",Partiellement nuageux avec quelques averses près de Besalampy.
+20/11/2020,CAP D'AMBRE A CAP EST,"Sud à Sud-est 05/10 localement 15 tournant progressivement Nord-est 05/10 vers fin période. ÉTAT DE LA MER : Peu agitée à agitée, 1/1.4m. TEMPS SENSIBLE : Partiellement nuageux. CAP EST A MAHANORO VENT : Est à Nord-est 05/10 localement 15.","Peu agitée, 1m.","Rares averses près Mahanoro, peu nuageux ailleurs."
+20/11/2020,MAHANORO A TAOLAGNARO,Nord à Nord-est 10/15 localement 20 devenant progressivement secteur Sud 10/20 sur la partie Sud s'étendant vers le Nord à partir de la nuit.,"Peu agitée à agitée, 1/2m atteignant 2.4m près Taolagnaro.",Averses.
+20/11/2020,TAOLAGNARO AU CAP ST MARIE,Ouest à Sud-ouest 10/15 en début de l'échéance tournant Sud-est à secteur Est 10/20 localement 25 le jour suivant.,"Agitée à forte, 1.7 à 2.6m.","Passage d'averses vers la nuit, peu nuageux pendant la journée."
+20/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud à Sud-est 10/20 localement 25 atteignant 30 en fin période.,"Peu agitée à agitée se renforçant forte le jour suivant, 1/2m atteignant 2.4 à 3m le jour suivant.",Ensoleillé.
+20/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Sud dominant 10/20.,"Peu agitée à agitée, 0.7 à 1.7m.",Partiellement nuageux.
+20/11/2020,CAP ST ANDRE A ANALALAVA,Ouest à Sud-ouest 10/15 localement 20.,"Belle à peu agitée, 0.3 à 0.8m.",Quelques averses.
+23/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05/10.,"Belle a peu agitee, 0.3 à 0.8m.","Rares averses pres cotes du Melaky, partiellement nuageux ailleurs."
+23/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 10/15 localement 20 atteignant localement 25 pres du Cap d'Ambre. ÉTAT DE LA MER : Peu agitee à agitée, 1.1/1.7m atteignant 2.1m vers la pointe Nord. TEMPS SENSIBLE : Partiellement nuageux. CAP EST A MAHANORO VENT : Est à Sud-est 05/10 tournant progressivement Nord-est au Sud de Toamasina.","Peu agitée, 0.7/1.1m.",Peu nuageux.
+23/11/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 10/15 localement 20 atteignant 25 près Taolagnaro.,"Peu agitée à agitée, 1/2m atteignant 2.4m près Taolagnaro.",Peu nuageux.
+23/11/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Est 15/25 atteignant localement 30.,"Agitée à forte, 2 à 2.8m.",Peu nuageux.
+23/11/2020,CAP ST MARIE AU CAP ST VINCENT,Ouest a Nord-ouest 05/10 localement 15.,"Peu agitee a agitee, 0.8 à 1.7m.",Ensoleillé.
+23/11/2020,CAP ST ANDRE A ANALALAVA,Brise cotiere 05/15.,"Belle a peu agitee, 0.3 à 0.8m.",Averses.
+24/11/2020,CAP ST ANDRE A ANALALAVA,Brise cotiere 05/10 localement 15.,"Belle a peu agitée, 0.3 à 0.6m.",Averses isolées.
+24/11/2020,CAP ST MARIE AU CAP ST VINCENT,Ouest à Nord-ouest 10/15 temporairement Sud à Sud-ouest 05/10.,"Peu agitée a agitée, 0.7 à 1.4m.",Ensoleillé.
+24/11/2020,TAOLAGNARO AU CAP ST MARIE,"Variable 05/10 devenant Secteur Sud 05/10 près Cap St Marie, Nord- Est 20/25 près Taolagnaro.","Agitée à forte, 2 à 2.7m.",Ensoleillé.
+24/11/2020,MAHANORO A TAOLAGNARO,Nord-est 10/15 atteignant 20/25 près Taolagnaro.,"Peu agitée à agitée, 1.1/2m atteignant 2.4m près Taolagnaro.",Partiellement nuageux.
+24/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05/10.,"Belle a peu agitée, 0.3 à 0.9m.","Rares averses près cotes du Melaky, partiellement nuageux ailleurs."
+24/11/2020,CAP D'AMBRE A CAP EST,"Sud à Sud-est 15/20 atteignant 25 vers Cap d'Ambre. ÉTAT DE LA MER : Peu agitée à Agitée, 1.1/1.6m atteignant 2.1m vers la pointe Nord. TEMPS SENSIBLE : Peu nuageux. CAP EST A MAHANORO VENT : secteur Est 05.","Peu agitée, agitée par houle de sud-est , 0.7/1.3m.",Rares Averses.
+25/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Ouest 05/10.,"Belle a peu agitée, 0.3 à 0.9m.",Rares averses.
+25/11/2020,CAP D'AMBRE A CAP EST,"Sud à Sud-est 10/15 localement 20 et atteignant 25 vers Cap d'Ambre. ÉTAT DE LA MER : Peu agitée à Agitée, 1.1/1.6m atteignant 2.1m vers la pointe Nord. TEMPS SENSIBLE : Averses isolées. CAP EST A MAHANORO VENT : Est à Sud-est 05/10.","Peu agitée à agitée, 0.7/1.3m.",Rares Averses.
+25/11/2020,MAHANORO A TAOLAGNARO,Nord-est 10/15 atteignant 20/25 près de Taolagnaro.,"Peu agitée à agitée, 1.1/2m atteignant 2.4m près Taolagnaro.",Partiellement nuageux.
+25/11/2020,TAOLAGNARO AU CAP ST MARIE,Nord- Est 15/25.,"Agitée à forte, 1.5 à 2.6m.",Ensoleillé.
+25/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 10/15.,"Peu agitée a agitée, 0.7 à 1.5m.",Ensoleillé.
+25/11/2020,CAP ST ANDRE A ANALALAVA,Brise côtière 05/10 localement 15.,"Belle a peu agitée, 0.3 à 0.7m.",Averses isolées.
+26/11/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Est 10/20 localement 25 devenant secteur Sud 05/15 en fin periode.,"Agitee a forte, 1.8 a 2.7m.",Ensoleille.
+26/11/2020,CAP ST MARIE AU CAP ST VINCENT,Secteur Sud 10/15 se renforcant 20 en fin periode.,"Agitée, 1.4 à 2m.",Ensoleillé.
+26/11/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 10/15 atteignant 20/25 au Sud de Vangaindrano et temporairement 30 pres de Taolagnaro vers la nuit.,"Agitee, 1.3/2m atteignant 2.5m pres Taolagnaro.",Peu nuageux.
+26/11/2020,CAP ST ANDRE A ANALALAVA,Brise côtière 05/10 localement 15.,"Belle a peu agitée, 0.3 à 0.8m.",Averses isolées.
+26/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Sud 05/15 atteignant 20 pres Morombe en fin periode.,"Peu agitée, 0.5 à 0.9m.",Rares averses.
+26/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 05/15 localement 20. ÉTAT DE LA MER : Agitee, 1.3/1.9m. TEMPS SENSIBLE : Pluies faibles. CAP EST A MAHANORO VENT : Est a Sud-est 05/10.","Peu agitee a agitee, 1/1.5m.",Averses isolees.
+27/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Sud 05/10 atteignant 15/20 près Morombe tournant Nord 05/10 fin periode.,"Peu agitée à agitée, 0.6 à 1.7m atteignant 2.4m près Morombe. Houle moderée du Sud.",Rares averses.
+27/11/2020,CAP D'AMBRE A CAP EST,"Sud à Sud-est 05/15 atteignant 20 vers Cap d'Ambre. ÉTAT DE LA MER : Agitée, 1.3/1.8m. TEMPS SENSIBLE : Pluies faibles. CAP EST A MAHANORO VENT : Secteur Est 05/10 le matin tournant Nord-est 05/10 localement 15 vers l’après midi.","Peu agitee à agitee, 0.9/1.5m.","Pluies faibles au nord de Toamasina, partiellement nuageux ailleurs."
+27/11/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 10/15 atteignant 20/25 près de Taolagnaro vers la nuit.,"Agitee, 1.3/2m atteignant 2.5m pres Taolagnaro.",Peu nuageux.
+27/11/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Sud 05/10 tournant progressivement Sud-est à Est 05/15 localement 20/25 vers fin periode.,"Agitee, forte vers fin periode, 1.6 a 2.8m.",Ensoleille.
+27/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud à Sud-est 15/20 localement 25/30.,"Agitée à forte, 1.7 à 2.7m. Houle moderée du Sud.",Ensoleillé.
+27/11/2020,CAP ST ANDRE A ANALALAVA,Brise côtière 05/10 localement 15.,"Belle a peu agitée, 0.3 à 0.8m.",Averses isolées.
+28/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 15/25 localement 30 s'affaiblissant secteur Sud 10/15 localement 20 vers fin periode.,"Agitée à forte, 2.1 à 2.8m. Houle moderee de secteur Sud.",Ensoleillé.
+28/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Sud 10/15 localement 20 près de Morombe devenant Nord-ouest a Ouest 05/15 le jour suivant.,"Peu agitée à agitée, 0.7 à 1.7m atteignant 2.3m près de Morombe.",Rares averses.
+28/11/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 05/15 atteignant 20/25 au Sud de Vangaindrano.,"Agitee devenant forte pres Taolagnaro, 1.3/2m atteignant 2.8m.",Peu nuageux.
+28/11/2020,CAP ST ANDRE A ANALALAVA,Secteur Ouest dominant 05/10.,"Belle a peu agitée, 0.3 à 0.6m.",Averses isolées.
+28/11/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Est 15/20 localement 25.,"Agitee a forte, 2 a 2.8m. Houle moderee de secteur Sud.",Peu nuageux.
+28/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 05/15 atteignant 20 au Nord de Vohemar. ÉTAT DE LA MER : Agitée, 1.3/1.8m. TEMPS SENSIBLE : Pluies faibles locales. CAP EST A MAHANORO VENT : Est a Nord-Est 05/10 tournant Sud a Sud-est le jour suivant.","Peu agitee a agitee, 0.9/1.4m.",Partiellement nuageux.
+29/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud à Sud-est 10/15 tournant progressivement Sud-ouest vers fin de période.,"Agitée, 1.5 à 2.5m.",Globalement ensoleillé.
+29/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 05/15 atteignant localement 20 vers cap d'Ambre. ÉTAT DE LA MER : Agitée, 1.3/1.8m. TEMPS SENSIBLE : Partiellement nuageux. CAP EST A MAHANORO VENT : Nord à Nord-Est 05/10.","Peu agitée à agitée, 0.9/1.4m.",Partiellement nuageux.
+29/11/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 10/15 atteignant 20/25 près de Taolagnaro.,"Agitée, localement forte prés Taolagnaro, 1.3/2m atteignant 2.6m.",Peu nuageux.
+29/11/2020,TAOLAGNARO AU CAP ST MARIE,Est à Nord-est 10/15 devenant Sud-ouest vers fin de période.,"Agitée à forte, 2 /2.8m. Houle modérée de Sud-ouest.",Ensoleillé.
+29/11/2020,CAP ST ANDRE A ANALALAVA,Nord-ouest 05/10.,"Belle à peu agitée, 0.3 à 0.6m.",Averses isolées localement orageuses.
+29/11/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur 05/10 localement 15.,"Peu agitée à agitée, 0.7 à 1.7m.",Rares averses.
+30/11/2020,CAP ST MARIE AU CAP ST VINCENT,Sud à Sud-est 10/15 localement 20.,"Agitée, 1.4 à 2m.",Globalement ensoleillé.
+30/11/2020,TAOLAGNARO AU CAP ST MARIE,Sud à Sud-ouest 10/15.,"Agitée, 1.6 /2.4m. Houle modérée de secteur Sud.",Averses frontales.
+30/11/2020,MAHANORO A TAOLAGNARO,Nord à Nord-est 10/20 atteignant 25 au sud de Vangaindrano.,"Agitée, 1.3/2m atteignant 2.4m près Taolagnaro.",Rares averses orageuses en soirée.
+30/11/2020,CAP D'AMBRE A CAP EST,"Sud-est 05/10 localement 15. ÉTAT DE LA MER : Agitée, 1.2/1.6m. TEMPS SENSIBLE : Peu nuageux. CAP EST A MAHANORO VENT : Nord à Nord-Est 05/10.","Peu agitée à agitée, 0.9/1.4m.",Peu nuageux.
+30/11/2020,CAP ST VINCENT AU CAP ST ANDRE,"Sud à sud-ouest 05/10, brise 10 l’après-midi et la nuit.","Peu agitée, 0.8m",Rares averses la nuit.
+30/11/2020,CAP ST ANDRE A ANALALAVA,Secteur Ouest 05/10.,"Belle à peu agitée, 0.3 à 0.6m.",Averses isolées localement orageuses.
+01/12/2020,CAP D'AMBRE A CAP EST,"Secteur Est 05/10 localement 15. ÉTAT DE LA MER : Peu agitée à agitée, 1.1/1.5m. TEMPS SENSIBLE : Peu nuageux. CAP EST A MAHANORO VENT : Nord à Nord-Est 05/15.","Peu agitée à agitée, 0.9/1.4m.",Ensoleillé.
+01/12/2020,MAHANORO A TAOLAGNARO,Nord 10/20 atteignant 25 au sud de Vangaindrano.,"Agitée, 1.3/2m atteignant 2.4m près Taolagnaro.",Ensoleillé.
+01/12/2020,TAOLAGNARO AU CAP ST MARIE,Variable 05/10.,"Agitée, 1.6 /2.4m. Houle modérée de secteur Sud.",Partiellement nuageux.
+01/12/2020,CAP ST MARIE AU CAP ST VINCENT,Secteur Ouest 10/15.,"Agitée, 1.4 à 2m.",Globalement ensoleillé.
+01/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Ouest 05/10.,"Peu agitée, 0.8/1.2m",Averses isolées.
+01/12/2020,CAP ST ANDRE A ANALALAVA,Nord à Nord-ouest 05/10 localement 15.,"Belle à peu agitée, 0.3 à 0.6m.",Averses isolées orageuses.
+02/12/2020,CAP ST MARIE AU CAP ST VINCENT,Ouest 10/15 devenant variable 05/10 en soiré mais Sud-est 10/15 localement 20 la nuit vers la fin.,"Agitée, 1.5 à 2m atteignant 2.5m en fin période par houle modérée de Sud- ouest.",Globalement ensoleillé.
+02/12/2020,TAOLAGNARO AU CAP ST MARIE,Variable 05/10 localement 15 devenant Sud-est 10/15 en fin période.,"Agitée, 2m.",Partiellement nuageux.
+02/12/2020,MAHANORO A TAOLAGNARO,Nord 10/20 devenant variable 05/10 du Sud vers le Nord en deuxième partie de la période.,"Agitée, 1.5/2m atteignant 2.5m sur la moitié Sud.",Partiellement nuageux avec faibles averses locales la nuit.
+02/12/2020,CAP ST VINCENT AU CAP ST ANDRE,"Nord-ouest 05/10, variable 05 le jour suivant.","Peu agitée, 0.5 à 1m.",Averses isolées localement orageuses.
+02/12/2020,CAP ST ANDRE A ANALALAVA,Nord à Nord-ouest 05/10.,"Belle à peu agitée, 0.3 à 0.6m.",Averses orageuses.
+02/12/2020,CAP D'AMBRE A CAP EST,"Est-nord-est 05/10 devenant variable 05 à partir de cette nuit. ÉTAT DE LA MER : Peu agitée à agitée, 1/1.5m. TEMPS SENSIBLE : Peu nuageux. CAP EST A MAHANORO VENT : Nord 05/15 localement 20.","Agitée, 1.5m.",Ensoleillé.
+03/12/2020,CAP D'AMBRE A CAP EST,E,"PEU AGITEE, ENVIRON 1M","SENSIBLE : PLUIES FAIBLES LOCALES VERS LA POINTE NORD, PEU NUAGEUX AILLEURS. CAP"
+04/12/2020,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,"PEU AGITÉE, AUTOUR DE 1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+05/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 15/25 fraîchissant 30 sur la partie centrale cette après-midi jusqu'à ce soir.,"Agitée a forte, 2 a 3m localement 3.5m par houle modérée de Sud-ouest.",Peu nuageux.
+05/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15 localement 20.,"Peu agitée à agitée, 1 à 1.5m.",Partiellement nuageux.
+05/12/2020,CAP EST A MAHANORO,"Nord-est a Est 05/10 en première partie de la période, Sud-est à Sud 05/10 localement 15 en deuxième partie.","Peu agitée à agitée, 1 a 1.5m.",Peu nuageux.
+05/12/2020,MAHANORO A TAOLAGNARO,Sud-est à Sud 15/20 localement 25 près Mahanoro en fin période.,"Agitée, 1.5 à 2m atteignant 2.5m près de Taolagnaro. Houle modérée de Sud- ouest.",Averses frontales.
+05/12/2020,TAOLAGNARO AU CAP ST MARIE,Sud-est à Est 15/25.,"Agitée a forte par houle modérée de Sud-ouest, 2 a 3m.",Sec en général.
+05/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud 05/10 localement 15 devenant Nord à Nord-ouest 05/10 le jour suivant.,"Peu agitée au Nord de Morondava, agitée ailleurs, 0.7 à 1m sur la partie Nord, 1.5 a 2m au Sud.","Averses orageuses sur la partie Nord, sec ailleurs."
+05/12/2020,CAP ST ANDRE A ANALALAVA,Variable 05/10 atteignant 15 près côtes Mahajanga le matin.,"Belle a peu agitée localement agitée, 0.3 a 0.8m atteignant 1.5 à 2m sous orages.",Averses orageuses.
+06/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud 10/20 pres du cap st Andre. Secteur Ouest 05/10 ailleurs.,"Agitee, 1.5 a 2.5m. Houle du Sud.",Averses isolees orageuses.
+06/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 15/25.,"Agitée a forte, 2 a 3m localement 3.3m par houle modérée de Sud-ouest.",Peu nuageux.
+06/12/2020,TAOLAGNARO AU CAP ST MARIE,Sud-est à Est 10/15 localement 20/25.,"Agitée a forte par houle modérée de Sud-ouest, 1.5 a 3m.",Nuageux.
+06/12/2020,MAHANORO A TAOLAGNARO,Variable 05/1O.,"Agitée, 1.5 à 2m atteignant 2.5m près de Taolagnaro. Houle modérée de Sud- ouest.",Averses isolées.
+06/12/2020,CAP ST ANDRE A ANALALAVA,Secteur Ouest dominant 05/10.,"Belle a peu agitée, 0.3 a 0.8m.",Averses isolees.
+06/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15 localement 20.,"Peu agitée à agitée, 1 à 1.5m.",Partiellement nuageux.
+06/12/2020,CAP EST A MAHANORO,Sud à Sud-est 05/10.,"Peu agitée à agitée, 1 a 1.5m.",Peu nuageux.
+07/12/2020,TAOLAGNARO AU CAP ST MARIE,Sud-est 10/15 x devenant Est progressive 10/15 atteignant 20/25.,"Agitée a forte par houle modérée du Sud, 2.4 a 3m.",Rares averses.
+07/12/2020,CAP ST ANDRE A ANALALAVA,Sud-Ouest 10/15.,"Belle à peu agitée, 0.3 a 0.8m.",Averses isolees.
+07/12/2020,MAHANORO A TAOLAGNARO,Sud a Sud-est 10/15 atteignant 20 au sud de Mananjary.,"Agitée à forte, 1.7 à 2.6m atteignant 2.8m près de Taolagnaro. Houle modérée du Sud.",Averses frontales.
+07/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 20/25 localement 30.,"Agitée a forte, 2 à 3m par houle modérée de Sud-est.","Rares près Cap St marie, partiellement nuageux ailleurs."
+07/12/2020,CAP D'AMBRE A CAP EST,Sud-est 10/15.,"Peu agitée à agitée, 1 à 1.5m.",Partiellement nuageux.
+07/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Nord Ouest 05 temporairement Ouest 05 devenant secteur Sud 05/10.,"Peu agitée à agitée, forte près Morombe par houle du Sud.1 à 2.2m atteignant 2.6m près Morombe.",Averses isolees.
+07/12/2020,CAP EST A MAHANORO,Secteur Est 05/10 Devenant secteur Sud 05/10 localement 15 le jour suivant.,"Peu agitée à agitée , forte par houle modérée de Sud fin periode, 1.4 à 2.6m.",Averses isolées orageuses.
+08/12/2020,MAHANORO A TAOLAGNARO,Sud a Sud-est 10/20 atteignant localement 25 sur la moitié Sud mais s'affaiblissant 05/10 sur l'ensemble de la zone à partir de cette nuit.,"Agitée à forte, 2 à 2.8m atteignant 3m près de Taolagnaro. Houle modérée du Sud.",Averses localement orageuses .
+08/12/2020,TAOLAGNARO AU CAP ST MARIE,Est 15/25 localement 30 sur la partie centrale en fin période.,"Agitée a forte, 2.6 a 3.3m. Houle modérée du Sud.",Partiellement nuageux.
+08/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 20/25 temporairement 30.,"Forte, 2.6 à 3m. Houle modérée de Sud-est.",Sec.
+08/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud 05 devenant Est à Nord-est 05/10 localement 15 le matin vers la fin de la période.,"Peu agitée à agitée, 1.2 à 1.5m atteignant 2 à 2.4m près Morombe par houle modérée du Sud.",Sec en général.
+08/12/2020,CAP ST ANDRE A ANALALAVA,Sud-Ouest 05/10 devenant Est 05/10 localement 15 le matin et Nord-est 10/15 en fin période.,"Belle à peu agitée, agitée sous orages, 0.3 a 0.8m localement 1.5m .",Averses orageuses.
+08/12/2020,CAP D'AMBRE A CAP EST,Sud-est à Est 05/10 localement 15.,"Peu agitée à agitée, 1 à 1.5m.",Partiellement nuageux.
+08/12/2020,CAP EST A MAHANORO,Sud-est à Sud 10/15 localement 20.,"Agitée à forte, 1.5 à 2m atteignant 2.6m sur la partie Sud à partir de cet après- midi et s’étendant progressive vers le Nord la nuit. Houle localement modérée de secteur Sud.",Averses localement orageuses.
+09/12/2020,CAP ST ANDRE A ANALALAVA,Secteur Nord 05/15.,"Peu agitée, 0.8 a 1m.",Averses isolees orageuses.
+09/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Nord-ouest dominant 05/15.,"Peu agitée à agitée, 1.2 à 1.5m atteignant 2 à 2.4m près Morombe par houle modérée du Sud.",Averses isolees.
+09/12/2020,CAP ST MARIE AU CAP ST VINCENT,"Sud-est 15/25 temporairement 30 au sud de Toliara, variable 05/10 ailleurs devenant secteur Est 10/15 vers fin periode.","Agitee a forte, 2 à 3m. Houle modérée du Sud.",Temps globalement Sec.
+09/12/2020,MAHANORO A TAOLAGNARO,Est a Nord-est dominant 05/15 atteignant 20 pres Taolagnaro.,"Agitée à forte, 1.5 à 2.7m. Houle modérée du Sud.","Pluies sur la partie Nord, globalement sec ailleurs."
+09/12/2020,CAP EST A MAHANORO,Sud 05/10 temporairement 15.,"Agitée, 1.5 à 2.4m.",Pluies localement orageuses.
+09/12/2020,CAP D'AMBRE A CAP EST,Sud a Sud-est 05/10 localement 15.,"Peu agitée à agitée, 1 à 1.5m.",Pluies faibles.
+09/12/2020,TAOLAGNARO AU CAP ST MARIE,Est à Nord-est 15/25 localement 30.,"Forte, 2.6 a 3.3m. Houle modérée du Sud.",Partiellement nuageux.
+10/12/2020,CAP EST A MAHANORO,Secteur Sud 05/10 localement 15.,"Agitée, localement forte s'affaiblissant le jour suivant par houle moderee de Sud-est, 1.5 à 2.4m atteignant 2.6 pres Mahanoro.",Pluies moderee localement orageuses.
+10/12/2020,MAHANORO A TAOLAGNARO,Est a Nord-est 10/15 atteignant 20 pres Taolagnaro.,"Agitée à forte, 1.5 à 2.7m. Houle modérée du Sud.",Averses.
+10/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est 15/25 localement 30.,"Forte, 2.6 a 3.3m. Houle modérée du Sud.",Peu nuageux.
+10/12/2020,CAP ST MARIE AU CAP ST VINCENT,Variable 05.,"Agitee par houle de Sud, 1.3 à 2m.",Rares averses.
+10/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Nord 05/10.,"Peu agitée à agitée, 1.2 à 1.7m.",Averses isolees orageuses.
+10/12/2020,CAP ST ANDRE A ANALALAVA,Nord a Nord-est 05/10 atteignant 15 sous orages.,"Belle a peu agitée, 0.3 a 0.8m, agitee sous orages,1.5m.",Pluies orageuses.
+10/12/2020,CAP D'AMBRE A CAP EST,Sud a Sud-est 05/10 temporairement 15.,"Peu agitée à agitée, 1.1 à 1.5m.",Pluies faibles.
+11/12/2020,CAP ST MARIE AU CAP ST VINCENT,"Sud-est 15/25 au Sud de Betioky Atsimo s'affaiblissant Nord-est 05/15 vers fin de periode. Ailleurs, variable 05/10.","Agitee, 1.2 a 2m; localement forte, 2.7m pres de la pointe Sud.","Rares averses au Nord de Toliara, peu nuageux ailleurs."
+11/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Est à Sud-est dominant 05/10 atteignant 15/20 vers fin de periode.,"Peu agitee, hauteur des vagues 0.7/1.1m.",Averses isolees.
+11/12/2020,CAP D'AMBRE A CAP EST,Sud-est 10/15 localement 20 et temporairement 25.,"Agitee, 1.5 a 2.2m.",Averses isolees.
+11/12/2020,MAHANORO A TAOLAGNARO,Est a Nord-est 05/15 atteignant 20/25 pres de Taolagnaro.,"Agitee, 1.4/1.7m atteignant 2.4m pres de Taolagnaro.","Pluies rares sur la partie Nord, partiellement nuageux ailleurs."
+11/12/2020,CAP ST ANDRE A ANALALAVA,Secteur Est 05/15.,"Belle a peu agitee, 0.3 a 0.6m.",Averses isolees.
+11/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est 20/25 localement 30.,"Agitee a forte, 1.5/2.6m localement 3m.",globalement ensoleillé.
+11/12/2020,CAP EST A MAHANORO,Sud a Sud-est 05/15.,"Agitee, 1.3/1.6m.",Pluies.
+14/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15 localement 20/25.,"Agitee, 2 a 2.4m.",Faibles averses.
+14/12/2020,CAP EST A MAHANORO,Sud a Sud-est 10/15 localement 20.,"Agitee, 1.5 à 2m.",Pluies faibles.
+14/12/2020,MAHANORO A TAOLAGNARO,Est a Nord-est 05/10 atteignant 15/20 sur la partie Sud.,"Agitee, 1.5 à 2.2m.",Nuageux à partiellement nuageux avec faibles averses locales.
+14/12/2020,TAOLAGNARO AU CAP ST MARIE,Est-nord-est 20/25 temporairement 30.,"Agitee a forte, 2.4/3m.",Sec en général.
+14/12/2020,CAP ST MARIE AU CAP ST VINCENT,Variable 05/10 localement 15.,"Peu agitée à agitee, 1m localement 1.5m.",Peu nuageux.
+14/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05/10.,"Peu agitee, hauteur des vagues 0.5/1m.",Averses orageuses.
+14/12/2020,CAP ST ANDRE A ANALALAVA,Variable 05/10 localement 15 le matin.,"Belle a peu agitée, 0.3 a 1m localement 1.5 à 2m sous orages.",Averses orageuses.
+15/12/2020,CAP ST ANDRE A ANALALAVA,Est a Nord-est 05/10 le matin devenant Nord-est 05/10 l'apres midi.,"Belle a peu agitée, 0.3 a 1m localement 1.5 a 2m sous orages.",Averses orageuses.
+15/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Brises cotieres 05/10.,"Peu agitee, hauteur des vagues 0.3 a 1m.",Averses.
+15/12/2020,CAP ST MARIE AU CAP ST VINCENT,"Variable 05/10 le matin, Sud-Ouest a Sud 10/15 l'apres midi.","Peu agitée à agitee, 1 a 1.8m.",Peu nuageux.
+15/12/2020,CAP EST A MAHANORO,Sud a Sud-est 05/15 localement 20.,"Peu agitee a agitee, 1 à 1.8m.",Pluies faibles.
+15/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15 localement 20.,"Agitee, 1.5 a 2.2m.",Faibles averses.
+15/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est 15/25 temporairement 30 pres Taolagnaro.,"Agitee a forte, 2 a 2.7m.",Globalement sec.
+15/12/2020,MAHANORO A TAOLAGNARO,Est a Nord-est 05/15 atteignant 20 au Sud de Vangaindrano.,"Agitee, 1.5 à 2m atteignant 2.4m au sud de Vangaindrano.",Faibles averses locales.
+16/12/2020,CAP D'AMBRE A CAP EST,Sud-est dominant 05/15 localement 20 vers Cap d'Ambre.,"Agitee, 1.2 a 1.5m.",Averses isolees.
+16/12/2020,CAP EST A MAHANORO,Sud dominant 05/10 localement 15 au large des cotes.,"Peu agitee a agitee, 1 à 1.5m.",Globalement sec.
+16/12/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 05/10 atteignant 15/20 au Sud de Vangaindrano.,"Agitee, 1.3 à 1.6m atteignant 2.4m au sud de Taolagnaro.",Averses isolees.
+16/12/2020,TAOLAGNARO AU CAP ST MARIE,Variable 05/10 localement 15.,"Agitee, 1.5 a 2.5m.",Ensoleille.
+16/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-Ouest 10/15 devenant variable 05 la nuit.,"Agitee, 1.3 a 1.8m.",Ensoleille.
+16/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud-ouest dominant 05/15.,"Peu agitee, hauteur des vagues 0.3 a 1m.","Rares averses pres de Besalampy, sec ailleurs."
+16/12/2020,CAP ST ANDRE A ANALALAVA,Est a Nord-est 05/15 le matin devenant Nord-ouest 05/15 l'apres midi.,"Belle a peu agitée, 0.3 a 0.6m.",Rares averses .
+17/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15 localement 20.,"Agitee, 1.2 a 1.5m.",Averses eparses.
+17/12/2020,CAP EST A MAHANORO,Sud dominant 05/10.,"Peu agitee a agitee, 1 à 1.5m.",Faibles averses.
+17/12/2020,MAHANORO A TAOLAGNARO,Nord 05/15 atteignant 20/25 au Sud de Vangaindrano.,"Agitee, 1.5 à 2.2m.","Faibles averses sur la partie Nord, sec ailleurs."
+17/12/2020,TAOLAGNARO AU CAP ST MARIE,Variable 15/25 s’atténuant 05/15 en fin de la période.,"Agitee, 2 a 2.5m.",Ensoleille.
+17/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud 05/15.,"Agitee, 1 a 1.5m.",Ensoleille.
+17/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud-ouest à Ouest 05/10 devenant variable 05 la nuit.,"Peu agitee, 0.5 a 1.4m.","Averses orageuses pres de Besalampy, sec ailleurs."
+17/12/2020,CAP ST ANDRE A ANALALAVA,Ouest à Sud-ouest 05/10 atteignant 15 sous orages.,"Belle a peu agitée, 0.3 a 0.6m.",Averses orageuses.
+18/12/2020,CAP EST A MAHANORO,Est a Sud-est 05/10.,"Peu agitee a agitee, 1 à 1.5m.",Rares averses.
+18/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15 localement 20.,"Agitee, 1.2 a 1.4m.",Averses.
+18/12/2020,CAP ST ANDRE A ANALALAVA,Ouest à Sud-ouest 05/10 localement 15.,"Belle a peu agitée, 0.3 a 0.8m.",Averses localement orageuses.
+18/12/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 05/15 atteignant 20 au Sud de Vangaindrano.,"Agitee, 1.5 à 2m atteignant 2.4m pres Taolagnaro. Houle moderee du Sud- ouest.","Faibles averses au nord de Vangaindrano, sec ailleurs."
+18/12/2020,CAP ST MARIE AU CAP ST VINCENT,Secteur Sud 05/15.,"Agitee, 1 a 1.5m.",Partiellement nuageux.
+18/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est 15/25 tournant Sud a Sud-Ouest 05/10 pres Cap St marie.,"Agitee, 1.7 a 2.2m.",Partiellement nuageux.
+18/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud a Sud-ouest 05/10.,"Peu agitee a agitee, 0.8 a 1.8m. Houle moderee de Sud-ouest.","Averses orageuses au Nord de Maintirano, globalement sec ailleurs."
+19/12/2020,CAP D'AMBRE A CAP EST,Est a Sud-est 05/15.,"Agitee, 1.2 a 1.4m.",Averses isolees.
+19/12/2020,CAP EST A MAHANORO,Est dominant 05/10.,"Peu agitee a agitee, 1 à 1.5m.",Averses isolees.
+19/12/2020,MAHANORO A TAOLAGNARO,Nord a Nord-est 05/15 atteignant 20 vers Taolagnaro.,"Agitee, 1.5 à 2m atteignant 2.4m pres Taolagnaro. Houle moderee du Sud- ouest.",Rares averses isolees.
+19/12/2020,TAOLAGNARO AU CAP ST MARIE,Variable 05 pres des cotes. Nord-est 15/20 au large des cotes.,"Agitee a forte, 1.7 a 3.2m. Houle moderee de Sud-ouest.",Partiellement nuageux.
+19/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud a Sud-est 05/15.,"Agitee a forte, 2 a 3m. Houle moderee de Sud-ouest.",Ensoleille.
+19/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud a Sud-ouest 05/10 atteignant 15 au Sud.,"Agitee, 1.4 a 2.4m. Houle moderee de Sud-ouest.",Averses isolees orageuses.
+19/12/2020,CAP ST ANDRE A ANALALAVA,Secteur Ouest 05/10 localement 15.,"Peu agitee, 0.5 a 1m.",Averses isolees localement orageuses.
+20/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud a Sud-ouest 05/10 localement 15.,"Agitée, 1 a 2m.",Averses orageuses.
+20/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud a Sud-est 10/20 devenant variable 05/10 à partir de mi-nuit.,"Agitée a forte, 2.5m en première partie de la période s'affaiblissant 1.5 à 2m en deuxième partie. Houle modérée de Sud-ouest.",Partiellement nuageux.
+20/12/2020,CAP ST ANDRE A ANALALAVA,Secteur Nord 05/10 localement 15/20.,"Peu agitée localement agitée, 0.5 a 1m atteignant 2m sous orages.",Averses orageuses.
+20/12/2020,MAHANORO A TAOLAGNARO,Nord-est 05/15 localement 20 près Taolagnaro.,"Agitee, 1.5 à 2m atteignant 2.5m pres Taolagnaro. Houle moderee du Sud- ouest.",Rares averses.
+20/12/2020,CAP EST A MAHANORO,Est-nord-est 05/10 localement 15.,"Peu agitee a agitee, 1 à 1.4m.",Averses localement orageuses.
+20/12/2020,CAP D'AMBRE A CAP EST,Sud-est 05/15.,"Agitee, 1.2 a 1.4m.",Averses localement orageuses.
+20/12/2020,TAOLAGNARO AU CAP ST MARIE,Est-nord-est 15/25 temporairement 30.,"Agitee a forte, 3m mais s'affaiblissant progressive en deuxième partie de la période. Houle moderee de Sud-ouest.",Partiellement nuageux.
+21/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud a Sud-ouest 05/10.,"peu agitee a agitée, 0.6 a 1.6 m. Houle de secteur Sud.",Averses localement orageuses.
+21/12/2020,CAP ST MARIE AU CAP ST VINCENT,"Est a Sud-est 05/15 localement 20 au sud d'Ampanihy, Ouest a Nord-Ouest 05/10 ailleurs.","Peu agitee a agitée ,1 à 2.2m. Houle de secteur Sud.",Partiellement nuageux.
+21/12/2020,CAP ST ANDRE A ANALALAVA,Ouest 05/10 devenant Sud a sud-est 05/10 le matin.,"Belle a Peu agitée localement agitée, 0.5 a 1m atteignant 1.6m sous orages.",Averses orageuses.
+21/12/2020,MAHANORO A TAOLAGNARO,Est -nord-est 10/15 atteignant 20 près Taolagnaro.,"Agitee, 1.5 à 1.8m atteignant 2.3m pres Taolagnaro.",Rares averses.
+21/12/2020,CAP EST A MAHANORO,Est a Sud-est 05/10 localement 15.,"Peu agitee a agitee, 1 à 1.6m.",Averses.
+21/12/2020,CAP D'AMBRE A CAP EST,Sud a Sud-est 10/15 localement 20.,"Agitee, 1.3 a 1.8m.",Averses.
+21/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est a Est 15/25 temporairement 30.,Agitee a forte. 2 a 2.5m.,Partiellement nuageux.
+22/12/2020,CAP D'AMBRE A CAP EST,Sud a Sud-est 10/20 localement 25.,"Agitee, 1.5 a 2m.",Sec en général.
+22/12/2020,MAHANORO A TAOLAGNARO,Est 05/10 localement 15 tournant Nord-est 10/15 sur la moitié Sud atteignant 20/25 pres Taolagnaro.,"Peu agitee à agitee, 1 à 1.5m atteignant 2m sur l'extreme Sud.",Partiellement nuageux.
+22/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est a Est 15/25 temporairement 30.,Agitee. 1.5 a 2.3m.,Peu nuageux.
+22/12/2020,CAP ST MARIE AU CAP ST VINCENT,Variable 05/10.,"Peu agitee a agitée ,1 à 1.5m.",Partiellement nuageux.
+22/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05/10.,peu agitee 0.6 a 1m.,Partiellement nuageux.
+22/12/2020,CAP ST ANDRE A ANALALAVA,Variable 05/10 localement 15/20 sous orages.,"Belle a Peu agitée localement agitée, moins de 1m en général mais atteignant 2 à 2.5m sur la zone orageuses.",Averses orageuses.
+22/12/2020,CAP EST A MAHANORO,Sud à Sud-est 05/10 localement 15/20.,"Peu agitee a agitee, 1 à 1.5m.",faibles averses.
+23/12/2020,CAP ST MARIE AU CAP ST VINCENT,Secteur Ouest 05/15.,"Agitée ,1.3 à 2m.",Rares averses.
+23/12/2020,CAP ST ANDRE A ANALALAVA,Brise cotiere 05/10.,"Peu agitée, 0.8 a 1m.",Averses orageuses.
+23/12/2020,CAP D'AMBRE A CAP EST,Sud a Sud-est 15/20 localement 25.,"Agitee, 2 a 2.5m.",Pluies.
+23/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Ouest a Sud-Ouest 05/10.,peu agitee 0.6 a 1m.,Averses isolees.
+23/12/2020,MAHANORO A TAOLAGNARO,Nord-Est 10/15 atteignant 20/25 vers Taolagnaro.,"Agitee, 1.2 à 1.5m atteignant 2.3m sur l'extreme Sud.",Partiellement nuageux.
+23/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est 15/20 localement 25.,Agitee a forte. 1.5 a 2.6m.,Peu nuageux.
+23/12/2020,CAP EST A MAHANORO,Secteur Sud 05/15 localement 20.,"Agitee, 1.5 à 2m.","Pluies au Nord de St Marie, sec ailleurs."
+24/12/2020,CAP D'AMBRE A CAP EST,Sud a Sud-ouest 15/20 localement 25.,"Agitee a forte, 2 a 2.6m. Houle de Sud-est",Pluies.
+24/12/2020,CAP EST A MAHANORO,Sud à Sud-ouest 10/15 localement 20.,"Agitee, 2 à 2.5m.","Pluies au Nord de Tamatave, sec ailleurs."
+24/12/2020,MAHANORO A TAOLAGNARO,Nord-Est 05/15 atteignant 20 pres Taolagnaro.,"Agitee, 1.4 à 1.5m atteignant 2.5m manakaiky an'i Taolagnaro.",Globalement sec.
+24/12/2020,TAOLAGNARO AU CAP ST MARIE,Variable 05/10 localement 15.,Agitee. 1.3 a 2.3m.,Peu nuageux.
+24/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-Ouest 05/15 tournant Sud a Sud-est 05/10 localement 15 le soir.,"Peu agitee a Agitée ,1 à 1.5m.",Rares averses.
+24/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Ouest a Sud-Ouest 05/10.,Peu agitee 0.6 a 1m.,Averses.
+24/12/2020,CAP ST ANDRE A ANALALAVA,Brise cotiere 05/10.,"Belle a peu agitée, moins de 1m.",Averses orageuses.
+26/12/2020,CAP ST ANDRE A ANALALAVA,Sud-ouest 10/15 localement 20.,"Peu agitee, 0.8/1.2m localement 1.5m sous orages.",Averses isolees orageuses.
+26/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Sud a Sud-Ouest 05/15.,"Peu agitee a agitee, 1.3 à 2.3m.",Averses isolees.
+26/12/2020,CAP EST A MAHANORO,Sud-ouest 20/35 avec rafales la nuit.,"Agitée à forte, 2/3.4m. Houle modérée de Sud à Sud-est.",Pluies modérées.
+26/12/2020,TAOLAGNARO AU CAP ST MARIE,Est 15/25.,Agitee à forte. 2 a 3.5m. Houle modérée de Sud-ouest.,Globalement sec.
+26/12/2020,MAHANORO A TAOLAGNARO,Est à Nord-Est 05/15.,"Agitée, 2 à 2.5m. Localement forte pres Taolagnaro par houle de Sud-ouest.",Pluies faibles à modérées.
+26/12/2020,CAP D'AMBRE A CAP EST,Secteur Ouest 10/20 localement 25 sur la partie Sud.,"Agitee, localement forte pres d'Antalaha, 1.7 a 2.9m. Houle modérée de Sud- est.","Pluies faibles, modérées pres d'Antalaha."
+26/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 15/25 atteignant localement 30 sur la partie Sud.,"Agitee a forte,2m a 3m par houle moderee de Sud-ouest.",Globalement sec.
+27/12/2020,CAP ST ANDRE A ANALALAVA,Sud-ouest 05/10 tournant progressivement Nord-ouest 05/10.,"Peu agitee a agitee, 1/1.5m.",Averses isolees orageuses.
+27/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Secteur Sud 05/10 devenant circulation depressionnaire 15/20 vers fin periode.,"Agitee, 1.8 à 2.3m.",Averses orageuses.
+27/12/2020,MAHANORO A TAOLAGNARO,Nord-Est 10/15 atteignant 20 au Sud de Vangaindrano.,"Agitee, forte par houle de secteur Sud 2.5 a 3m.",Pluies faibles à moderees.
+27/12/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Est 20/25.,Agitee a forte. 2.5 a 2.8m. Houle moderee de secteur Sud.,Globalement sec.
+27/12/2020,CAP EST A MAHANORO,Est 15/20 s'affaiblissant 10/15 fin periode.,"Agitee, 1.8/2.3m.",Pluies localement moderees.
+27/12/2020,CAP ST MARIE AU CAP ST VINCENT,"Sud-est 05/10 au Nord de Toliara, Secteur Est a Sud-est 15/20 au sud de Toliary.","Agitee a forte, 2m a 2.7m par houle moderee de secteur Sud.",Peu nuageux.
+27/12/2020,CAP D'AMBRE A CAP EST,Secteur Ouest 10/15 au Nord de Vohemar. Ailleurs Sud-est 10/15.,"Peu agitee a agitee, 1 a 1.5m.",Pluies faibles intermittentes.
+28/12/2020,CAP D'AMBRE A CAP EST,Sud 05/10 localement 15,"Agitee, 1.5m localement 2m.",Pluies localement orageuses.
+28/12/2020,CAP EST A MAHANORO,"Est à Sud-est 05/10 localement 15. ETAT DE LA ME : Agitee, 1.5 à 2m. TEMPS SENSIBLE : Pluies faible. MAHANORO A TAOLAGNARO VENT : Nord-Est 10/15 atteignant 20 sur la partie Sud.","Agitee, 2.5m s'affaiblissant progressive la nuit vers la fin période.",Pluies faibles à modérées localement orageuses.
+28/12/2020,TAOLAGNARO AU CAP ST MARIE,Nord-est 15/25 temporairement 30 vers la fin de la période.,Agitee a forte. 2 a 2.5m localement 3m. Houle moderee d'Est.,Sec.
+28/12/2020,CAP ST MARIE AU CAP ST VINCENT,Sud-est 05/10 tournant Nord-est 10/15 à partir de ce soir atteignant 20 au Nord de Toliary.,"Agitee, 1.5 a 2m.",Peu nuageux.
+28/12/2020,CAP ST ANDRE A ANALALAVA,Variable 05/10.,"Peu agitee a agitee, 1 à 1.5m localement 2m sous orages.",Averses orageuses.
+30/12/2020,CAP D'AMBRE A CAP EST,Sud-Est 10/20.,"Agitee, 1.3 a 2m.",Pluies localement orageuses.
+30/12/2020,CAP EST A MAHANORO,"Sud a Sud-est 05/10 localement 15/20 au Nord de Sainte Marie. ETAT DE LA ME : Agitee, 1.3 à 2m. TEMPS SENSIBLE : Pluies localement orageuses. MAHANORO A TAOLAGNARO VENT : Est a Nord-Est 05/10 localement 15/20 au Sud de Vangaindrano et atteignant 25 pres Taolagnaro.","Agitee, 1.3 a 2m.","Pluies faibles au Nord de Mananjary, peu nuageux ailleurs."
+30/12/2020,TAOLAGNARO AU CAP ST MARIE,Secteur Est 15/25 localement 28/33.,"Agitee, localement forte. 2 a 2.5m localement 2.8m. Houle de secteur Est.",Generalement ensoleillé.
+30/12/2020,CAP ST MARIE AU CAP ST VINCENT,Variable 05/10 localement 15.,"Peu agitee a agitee, 1 a 2m.",Partiellement nuageux.
+30/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05/10.,"Peu agitee a agitee, 0.8 à 2m.",Averses isolees.
+30/12/2020,CAP ST ANDRE A ANALALAVA,Est a Sud-est dominant 10/15 localement 20.,"Peu agitee, 0.7 a 1.1m.",Averses orageuses.
+31/12/2020,CAP ST ANDRE A ANALALAVA,Est a Sud-est 10/15 localement 20 le matin mais variable 05/10 le temps restant.,"Peu agitee a agitee, 0.5 a 1m localement 1.5m sous orages.",Averses orageuses.
+31/12/2020,CAP D'AMBRE A CAP EST,Sud-Est 10/20 localement 25.,"Agitee, 1.8 a 2.4m.",Pluies.
+31/12/2020,CAP EST A MAHANORO,"Sud a Sud-est 10/15 localement 20 sur la partie Nord. ETAT DE LA ME : Agitee, 1.6 à 2.2m. TEMPS SENSIBLE : Pluies. MAHANORO A TAOLAGNARO VENT : Est a Nord-Est 10/15 fraîchissant 20/25 pres Taolagnaro.","Agitee, 2m localement 2.4m.",Pluies faibles sur la partie Nord peu nuageux ailleurs.
+31/12/2020,CAP ST VINCENT AU CAP ST ANDRE,Variable 05/10.,"Peu agitee a agitee, 0.5 à 1m localement 1.4m.",Averses isolees.
+31/12/2020,TAOLAGNARO AU CAP ST MARIE,Est-nord-est 15/25 atteignant localement 28/33 en soiré et la nuit.,Agitee à forte. 2 a 2.5m localement 3m.,Generalement ensoleillé.
+31/12/2020,CAP ST MARIE AU CAP ST VINCENT,Variable 05/10 localement 15.,"Peu agitee a agitee, 1 a 1.5m.",Partiellement nuageux.
+02/01/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25,"AGITEE, 1.8 A 2.5M",SENSIBLE : PLUIES ORAGEUSES. CAP
+04/01/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15,"AGITEE, 1.4 A 2.4M",SENSIBLE : PLUIES FAIBLES PRES ANTALAHA VERS FIN DE PERIODE. CAP
+11/01/2021,CAP D'AMBRE A CAP EST,"SECTEUR SUD DOMINANT 05/10, DEVENANT VARIABLE 05/10 EN FIN PERIODE","AGITEE, 1.4 A 1.7M",SENSIBLE : AVERSES EPARSES. CAP
+12/01/2021,CAP D'AMBRE A CAP EST,"SECTEUR SUD 05/10 LE MATIN , DEVENANT VARIABLE 05/10 L'APRES MIDI","AGITEE, 1.4 A 1.7M",SENSIBLE : AVERSES ISOLEES. CAP
+13/01/2021,CAP D'AMBRE A CAP EST,VARIABLE 05/10,PEU,SENSIBLE : RARES AVERSES. CAP
+14/01/2021,CAP D'AMBRE A CAP EST,VARIABLE 05/10,PEU,SENSIBLE : RARES AVERSES. CAP
+15/01/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : RARES AVERSES. CAP
+16/01/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : AVERSES ISOLEES. CAP
+17/01/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : PLUIES FAIBLES À MODÉRÉES. CAP
+18/01/2021,CAP D'AMBRE A CAP EST,OUEST 05/10 FRAICHISSANT 20/25 A PARTIR DE CETTE NUIT ET 30/35 A COMPTER DE DEMAIN SUR LA PARTIE SUD LOCALEMENT 40,A,SENSIBLE : PLUIES ABONDANTES ET GRAINS LOCAUX . CAP
+19/01/2021,CAP D'AMBRE A CAP EST,"NORD-OUEST 20/25 PRES DU CAP D'AMBRE. AILLEURS, CF BMS N°09",A,SENSIBLE : PLUIES ABONDANTES ET GRAINS LOCAUX . CAP
+20/01/2021,CAP D'AMBRE A CAP EST,N,A,SENSIBLE : PLUIES. CAP
+21/01/2021,CAP D'AMBRE A CAP EST,SECTEUR NORD 05/15,PEU,SENSIBLE : RARES AVERSES ISOLEES. CAP
+22/01/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,PEU,SENSIBLE : PLUIES ORAGEUSES. CAP
+23/01/2021,CAP D'AMBRE A CAP EST,VARIABLE 05/10,PEU,"SENSIBLE : AVERSES ISOLEES AU SUD DE SAMBAVA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+08/02/2021,CAP D'AMBRE A CAP EST,E,"PEU AGITEE, AUTOUR DE 1M",SENSIBLE : PLUIES FAIBLES. CAP
+09/02/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+11/02/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : PLUIES. CAP
+12/02/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,PEU,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+13/02/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.3 A 1.8M",SENSIBLE : PLUIES FAIBLES. CAP
+14/02/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.4 A 1.8M",SENSIBLE : RARES AVERSES. CAP
+15/02/2021,CAP D'AMBRE A CAP EST,VARIABLE 05/10,"AGITEE, 1.4 A 2M",SENSIBLE : AVERSES. CAP
+16/02/2021,CAP D'AMBRE A CAP EST,VARIABLE 05/10,PEU AGITÉ,SENSIBLE : TEMPS PARTIELLEMENT NUAGEUX. CAP
+17/02/2021,CAP D'AMBRE A CAP EST,VARIABLE 05/10,PEU AGITÉ,SENSIBLE : AVERSES ISOLEES. CAP
+18/02/2021,CAP D'AMBRE A CAP EST,E,PEU AGITÉ,SENSIBLE : AVERSES ISOLEES. CAP
+01/06/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, DEVENANT FORTE AU NORD DE VOHEMER PAR",SENSIBLE : PASSAGE DES PLUIES FAIBLES. CAP
+02/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 TEMPORAIREMENT 30 PRES DES COTES DIANA,A,SENSIBLE : PLUIES PASSAGERES SUR LA PARTIE SUD. CAP
+03/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGANT 30 AU NORD DE VOHEMAR,A,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+04/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/10 ATTEIGNANT 15/20 SUR LA MOITIE NORD,"AGITÉE, 2/2.5M",SENSIBLE :
+05/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 ATTEIGNANT 20 AU VOISINAGE DE CAP D'AMBRE,"AGITEE, 1.7/2.4M",SENSIBLE :
+07/06/2021,CAP D'AMBRE A CAP EST,S,"FORTE, 3 A 3.5M",SENSIBLE : PLUIES INTERMITTENTES. CAP
+08/06/2021,CAP D'AMBRE A CAP EST,S,"FORTE, 3 A 3.5M","SENSIBLE : PLUIES FAIBLES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+09/06/2021,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : GLOBALEMENT SEC. CAP
+10/06/2021,CAP D'AMBRE A CAP EST,S,A,"SENSIBLE : GLOBALEMENT SEC AU DEBUT DE L'ECHEANCE, DEVENANT FAIBLES AVERSES VERS MI- PERIODE. CAP"
+11/06/2021,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PLUIES INTERMITTENTES SAUF L'EXTREME NORD OÙ IL RESTERA ENSOLEILLÉ. CAP
+12/06/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+13/06/2021,CAP D'AMBRE A CAP EST,"SUD-EST 05/10 LOCALEMENT 15, TOURNANT EST 05/10 LE JOUR SUIVANT","AGITÉE, 1.5 A 2M","SENSIBLE : PLUIES FAIBLES INTERMITTENTES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+18/06/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.5 A 2M ATTEIGNANT 2.5 SUR LA PARTIE NORD","SENSIBLE : PLUIES FAIBLES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+19/06/2021,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PLUIES FAIBLES. CAP
+20/06/2021,CAP D'AMBRE A CAP EST,S,A,"SENSIBLE : PLUIES FAIBLES AU SUD DE SAMBAVA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+21/06/2021,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PLUIES FAIBLES SUR LA PARTIE SUD S'ETENDANT VERS LE NORD. CAP
+22/06/2021,CAP D'AMBRE A CAP EST,S,A,"SENSIBLE : PLUIES FAIBLES SUR LA PARTIE SUD, SEC AILLEURS. CAP"
+23/06/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, DEVENANT FORTE SUR LA PARTIE NORD MAIS S'AFFAIBLISSANT PROGRESSIVEMENT LE JOUR SUIVANT, 2 A 2.5 ATTEIGNANT 2.6 A 3M VERS LA PARTIE NORD PAR",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PASSAGE PLUIES FAIBLES EN FIN PERIODE. CAP
+24/06/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.3 A 2.5M","SENSIBLE : PLUIES FAIBLES PRES D'ANTALAHA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+25/06/2021,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PLUIES INTERMITTENTES. CAP
+28/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT LOCALEMENT 28/30 PRES DU CAP D'AMBRE,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES PLUIES PASSAGERES. CAP
+29/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT LOCALEMENT 28/30 AU NORD DE VOHEMAR,A,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+30/06/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 ATTEIGNANT 30 AU VOISINAGE DE CAP D'AMBRE,"AGITEE, DEVENANT FORTE AU NORD DE VOHEMER, 1.7 A 2.4M ATTEIGNANT 2.6 A 2.9M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES SUR LA PARTIE SUD LE JOUR SUIVANT. CAP
+05/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 AU NORD DE VOHEMAR,A,SENSIBLE : PARTIELLEMENT NUAGEUX MAIS DEVENANT PLUIES FAIBLES VERS MI-PERIODE. CAP
+06/07/2021,CAP D'AMBRE A CAP EST,DU SUD-EST 10/20 ATTEIGNANT 25 SUR LA POINTE NORD,AGITÉE. HAUTEUR DES VAGUES 1.5/2.4M. CAP,PEU NUAGEUX
+07/07/2021,CAP D'AMBRE A CAP EST,DU SUD-EST 10/20 ATTEIGNANT 25 SUR LA POINTE NORD,AGITÉE. HAUTEUR DES VAGUES 1.5/2.4M. CAP,PEU NUAGEUX
+08/07/2021,CAP D'AMBRE A CAP EST,DU SUD-EST 10/20 ATTEIGNANT 25 SUR LA POINTE NORD,AGITÉE. HAUTEUR DES VAGUES 1.5/2.4M. CAP,PEU NUAGEUX
+09/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"FORTE, 3 A 3.5M LOCALEMENT 4M",SENSIBLE : PLUIES FAIBLES. CAP
+12/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 ATTEIGNANT 25 VERS LA PARTIE NORD,"FORTE, 2.6 A 3M LOCALEMENT 3.5M AU NORD DE SAMBAVA PAR",SENSIBLE : NUAGEUX AVEC PLUIES FAIBLES. CAP
+13/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT LOCALEMENT 30 LE LONG DES CÔTES DIANA,"FORTE, ENVIRON 3M SUR LA PARTIE SUD ATTEIGNANT 3.5 A 3.8M AILLEURS",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLE SUR LA CÔTE DE SAVA. CAP
+14/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 ATTEIGNANT 30 AU NORD DE VOHEMAR,"FORTE, 2.6 A 3.2M ENTRE CAP D'AMBRE ET SAMBAVA, S'AMORTISSANT",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLE. CAP
+15/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 ATTEIGNANT LOCALEMENT 30 AU NORD DE VOHEMAR,A,SENSIBLE : PLUIES FAIBLE. CAP
+16/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT LOCALEMENT 30 DANS LA PARTIE NORD,A,SENSIBLE : PLUIES FAIBLE. CAP
+17/07/2021,CAP D'AMBRE A CAP EST,S,AGITÉ,SENSIBLE : PLUIES ÉPARSES. CAP
+19/07/2021,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PLUIES FAIBLES. CAP
+21/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 AU NORD DE VOHEMAR,A,SENSIBLE : PLUIES FAIBLES. CAP
+22/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 AU NORD DE VOHEMAR,A,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+23/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 28 SUR LA POINTE NORD,A,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+24/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 28,A,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+25/07/2021,CAP D'AMBRE A CAP EST,SUD-EST 20/30 LOCALEMENT 35 PRÈS CAP D'AMBRE,AGITÉ,SENSIBLE : PLUIES INTERMITTENTES. CAP
+01/08/2021,CAP D'AMBRE A CAP EST,S,"FORTE, 2.6 A 3.5M MAIS S'AFFAIBLISSANT AGITEE 1.8 A 2.5M EN FIN PERIODE","SENSIBLE : PLUIES FAIBLES INTERMITTENTES AU DEBUT DE L'ECHEANCE, DEVENANT PARTIELLEMENT NUAGEUX LE JOUR SUIVANT. CAP"
+02/08/2021,CAP D'AMBRE A CAP EST,S,"AGITEE,1.8 A 2.5M","SENSIBLE : PLUIES FAIBLES AU SUD D'ANTALAHA, PEU NUAGEUX AILLEURS. CAP"
+03/08/2021,CAP D'AMBRE A CAP EST,S,"AGITEE,1.8 A 2.5M","SENSIBLE : PLUIES FAIBLES AU SUD D'ANTALAHA, PEU NUAGEUX AILLEURS. CAP"
+06/08/2021,CAP D'AMBRE A CAP EST,"SUD 10/15 DE CAP EST À ANTALAHA, AILLEURS SUD-EST 20/25","AGITEE, 2 A 2.5M",SENSIBLE :PLUIES FAIBLES. CAP
+07/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 DOMINANT LOCALEMENT 25 VERS CAP D'AMBRE,"AGITEE, 1.5 A 2.5M","SENSIBLE :PLUIES FAIBLES PRES ANTALAHA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+09/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25,PEU,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+10/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25,"AGITEE, 1.8 A 2.4M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES. CAP
+11/08/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.8 A 2.4M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES. CAP
+12/08/2021,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.5 A 2M LOCALEMENT 2.5M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES RISQUES DES AVERSES FAIBLES . CAP
+13/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 ATTEIGNANT LOCALEMENT 25 AU NORD DE SAMBAVA,"AGITEE, VOISINE DE 2M ATTEIGNANT LOCALEMENT 2.5M EN FIN PERIODE",SENSIBLE : PLUIES FAIBLES INTERMITENTES. CAP
+14/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT LOCALEMENT 30 AU NORD DE VOHEMAR VERS FIN PERIODE,"AGITEE, 1.5/2.5M",SENSIBLE : PLUIES FAIBLES INTERMITENTES SUR SUD ZONE. CAP
+17/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT LOCALEMENT 30 PRÈS CAP D'AMBRE,"FORTE, 3M LOCALEMENT 3.5M SUR LA PARTIE NORD",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC FAIBLES AVERSES ÉPARSES. CAP
+19/08/2021,CAP D'AMBRE A CAP EST,"SUD-EST 10/20, 25 DANS LE PARAGE DE CAP D'AMBRE","AGITEE, 2.3M",SENSIBLE :
+23/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25 AU NORD DE SAMBAVA,"AGITEE, 1.3 A 2.2M LOCALEMENT FORTE 2.6M SUR L'EXTREME NORD",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+24/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 PRES CAP D'AMBRE,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC AVERSES FAIBLES. CAP
+25/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 PRES CAP D'AMBRE,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC AVERSES FAIBLES. CAP
+30/08/2021,CAP D'AMBRE A CAP EST,EST 05/10 DEVENANT SUD-EST 05/15 LOCALEMENT 20 A PARTIR DE DEMAIN MATIN,A,SENSIBLE : PLUIES FAIBLES. CAP
+31/08/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 LOCALEMENT 20 ATTEIGNANT 25 VERS LA POINTE NORD,"AGITEE, 2 A 2.5M DEVENANT FORTE 2.8M VERS LA POINTE NORD EN FIN PERIODE PAR",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE DES PLUIES FAIBLES. CAP
+01/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 28 AU NORD DE VOHEMAR,"AGITEE, 1.5 A 2.5M",SENSIBLE : PARTIELLEMENT
+02/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 AU NORD DE VOHEMAR,A,SENSIBLE : PARTIELLEMENT
+03/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 ATTEIGNANT 30 AU NORD DE VOHEMAR,A,SENSIBLE : PLUIES FAIBLES LOCALES AU DEBUT DE L'ECHEANCE DEVENANT PARTIELLEMENT
+04/09/2021,CAP D'AMBRE A CAP EST,DU SUD-EST 15/25 ATTEIGNANT LOCALEMENT 28 PRÈS DU CAP D’AMBRE,"AGITÉE, LOCALEMENT FORTE SUR NORD ZONE PAR",PEU NUAGEUX
+05/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/25 ATTEIGNANT 30 SUR LA PARTIE NORD,AGITÉ,SENSIBLE : NUAGEUX AVEC DES PLUIES FAIBLES. CAP
+06/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT 30 AU VOISINAGE DU CAP D'AMBRE,A,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+16/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15 ATTEIGNANT LOCALEMENT 20/25 AU NORD DE VOHEMAR,"AGITEE, 1.5/2.2M","SENSIBLE : PLUIES FAIBLES LOCALES AU SUD DE SAMBAVA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+17/09/2021,CAP D'AMBRE A CAP EST,"SUD-EST 10/15, DEVENANT VARIABLE 10 EN FIN D'ECHEANCE","PEU AGITEE, 1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+18/09/2021,CAP D'AMBRE A CAP EST,"SUD-EST 10/15, DEVENANT VARIABLE 10 EN FIN D'ECHEANCE","PEU AGITEE, 1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+19/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25,"AGITEE, 1.5 A 2M","SENSIBLE : PLUIES FAIBLES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+20/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15 ATTEIGNANT 25/30 AU NORD D'ANTALAHA,A,"SENSIBLE : PLUIES INTERMITTENTES AU SUD DE SAMBAVA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+21/09/2021,CAP D'AMBRE A CAP EST,S,"AGITEE VOISINE DE 2M, DEVENANT FORTE 2.8M VERS LA PARTIE NORD",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE DES PLUIES FAIBLES LOCALES AU SUD DE SAMBAVA LE JOUR SUIVANT. CAP
+22/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 ATTEIGNANT 25 VERS CAP D'AMBRE,"AGITEE, 1.5/2.5M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+23/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25/30 AU NORD DE SAMBAVA,A,SENSIBLE : PLUIES FAIBLES. CAP
+24/09/2021,CAP D'AMBRE A CAP EST,S,AGITEE VOISINE DE 2M DEVENANT FORTE 2.6/2.9M AU VOISINAGE DE CAP D'AMBRE,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE DES PLUIES FAIBLES. CAP
+25/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT 30 SUR LA MOITIE NORD,AGITÉ,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES PLUIES FAIBLES LOCALISÉES. CAP
+26/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT 30 AU NORD DE VOHEMAR,A,SENSIBLE : PLUIES INTERMITTENTES. CAP
+29/09/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 ATTEIGNANT 25 SUR LA MOITIE NORD ET LOCALEMENT 30 VERS CAP D'AMBRE,A,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+01/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 SUR LA PARTIE NORD,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE DES PLUIES FAIBLES. CAP
+03/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 SUR LA PARTIE NORD,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE DES PLUIES FAIBLES. CAP
+11/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"AGITEE,1.8 A 2.4M",SENSIBLE : PLUIES FAIBLE INTERMITTENTE. CAP
+12/10/2021,CAP D'AMBRE A CAP EST,S,"AGITEE,1.6 A 2.5M",SENSIBLE : PLUIES FAIBLE INTERMITTENTE. CAP
+13/10/2021,CAP D'AMBRE A CAP EST,S,"AGITEE,1.3 A 1.6M",SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+14/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 LOCALEMENT 20 ET ATTEIGNANT 25 PRES DU CAP D'AMBRE,"AGITEE, 2M ATTEIGNANT 2.5M EN FIN DE PERIODE",SENSIBLE : DES NUAGES UN PEU PARTOUT AVEC PARFOIS DES PLUIES FAIBLES. CAP
+15/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 ATTEIGNANT LOCALEMENT 25/30 AU NORD DE VOHEMAR,"AGITEE VOISINE DE 2M, DEVENANT FORTE 2.7M VERS LA PARTIE NORD ZONE",SENSIBLE : NUAGEUX AVEC RISQUE DES PLUIES FAIBLES. CAP
+16/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20,"AGITEE, 1.5 A 2.5M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+29/10/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 LOCALEMENT 20 DEVENANT EST 05/10 EN FIN DE PÉRIODE,"AGITÉE, 1.5 LOCALEMENT 2 A 2.4M PRÈS CAP EST",SENSIBLE : FAIBLES AVERSES . CAP
+02/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : GÉNÉRALEMENT ENSOLEILLÉ. CAP
+03/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : GÉNÉRALEMENT ENSOLEILLÉ. CAP
+04/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : GÉNÉRALEMENT ENSOLEILLE. CAP
+05/11/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : GLOBALEMENT ENSOLEILLE DEVENANT NUAGEUX EN FIN PERIODE. CAP
+07/11/2021,CAP D'AMBRE A CAP EST,SUD-EST 15/20 TEMPORAIREMENT 25 VERS LA PARTIE NORD,"AGITÉE, 1.6 A 2M",SENSIBLE : NUAGEUX AVEC DES PLUIES FAIBLES INTERMITTENTES. CAP
+11/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : PARTIELLEMENT
+15/11/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 ATTEIGNANT LOCALEMENT 20 PRES CAP D'AMBRE,"AGITEE, 1.6 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+16/11/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 ATTEIGNANT LOCALEMENT 20 PRES CAP D'AMBRE,"AGITEE, 1.6 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+17/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : PARTIELLEMENT
+19/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : PARTIELLEMENT
+20/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : PARTIELLEMENT
+21/11/2021,CAP D'AMBRE A CAP EST,SUD-EST DOMINANT 05/10 ATTEIGNANT 15 PRES DU CAP D'AMBRE,"AGITEE, HAUTEUR DES VAGUES 1.5M",SENSIBLE : PARTIELLEMENT
+22/11/2021,CAP D'AMBRE A CAP EST,E,PEU,SENSIBLE : FAIBLES AVERSES. CAP
+23/11/2021,CAP D'AMBRE A CAP EST,"SUD-EST 05/10 LOCALEMENT 15 PRES DU CAP D'AMBRE, TOURNANT PROGRESSIVEMENT NORD-EST 10/15 EN FIN PERIODE",PEU,SENSIBLE : PARTIELLEMENT
+24/11/2021,CAP D'AMBRE A CAP EST,"SUD-EST 05/10 LOCALEMENT 15 PRES DU CAP D'AMBRE, TOURNANT PROGRESSIVEMENT NORD-EST 10/15 EN FIN PERIODE",PEU,SENSIBLE : PARTIELLEMENT
+25/11/2021,CAP D'AMBRE A CAP EST,S,"PEU AGITEE, HAUTEUR DES VAGUES ENVIRON DE 1.1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+27/11/2021,CAP D'AMBRE A CAP EST,S,"PEU AGITEE, HAUTEUR DES VAGUES AUTOUR DE 1.1M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE D'AVERSES NOCTURNE. CAP
+28/11/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,"PEU AGITEE, HAUTEUR DES VAGUES MOINS DE 1.6M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+01/12/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC QUELQUES PLUIES FAIBLES LOCALES LA NUIT. CAP
+06/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 VERS LA POINTE NORD,"AGITEE, HAUTEUR DES VAGUES 1.5 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+07/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15 LOCALEMENT 20,"AGITEE, 1.6 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE D'AVERSES. CAP
+08/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15 ATTEIGNANT 20 AU VOISINAGE DE CAP D'AMBRE,"AGITEE, 1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE D'AVERSES. CAP
+09/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15 LOCALEMENT 20 PRES CAP D'AMBRE,PEU,SENSIBLE : FAIBLES AVERSES. CAP
+11/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15 LOCALEMENT 20 PRES DU CAP D'AMBRE,PEU,SENSIBLE : PARTIELLEMENT
+13/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 10/15 LOCALEMENT 20 PRES DU CAP D'AMBRE,PEU,SENSIBLE : PARTIELLEMENT
+14/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/15 LOCALEMENT 20 VERS LA PARTIE NORD,"AGITEE, VOISINE DE 1.5M",SENSIBLE :
+16/12/2021,CAP D'AMBRE A CAP EST,"SUD-EST 05/10 LOCALEMENT 15 AU NORD DE VOHEMAR, NORD 05/10 SUR LE RESTE. DEVENANT NORD 05/10 SUR LA TOTALITE DE LA ZONE EN DEUXIEME PARTIE DE LA PERIODE",FORTE SOUS ORAGES,SENSIBLE : AVERSES LOCALEMENT ORAGEUSES. CAP
+17/12/2021,CAP D'AMBRE A CAP EST,E,"PEU AGITEE, HAUTEUR DES VAGUES MOINS DE 1.1M",SENSIBLE : ENSOLEILLE. CAP
+28/12/2021,CAP D'AMBRE A CAP EST,EST 05/10,B,SENSIBLE : ENSOLEILLE. CAP
+29/12/2021,CAP D'AMBRE A CAP EST,SECTEUR SUD 05/10,B,SENSIBLE : PARTIELLEMENT
+30/12/2021,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : AVERSES ISOLEES. CAP
+31/12/2021,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,FORTE ET RAFALES SOUS ORAGES,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+03/01/2022,CAP D'AMBRE A CAP EST,S,"PEU AGITEE, MOINS DE 1M",SENSIBLE : RARES AVERSES ISOLEES. CAP
+04/01/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,FORTE SOUS ORAGES,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+05/01/2022,CAP D'AMBRE A CAP EST,SECTEUR EST 05/10,FORTE SOUS ORAGES,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+06/01/2022,CAP D'AMBRE A CAP EST,VARIABLE 05/10,FORTE SOUS ORAGES,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+07/01/2022,CAP D'AMBRE A CAP EST,SECTEUR NORD 05/10,FORTE SOUS ORAGES,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+09/01/2022,CAP D'AMBRE A CAP EST,O,FORTE SOUS ORAGES,SENSIBLE : AVERSES LOCALEMENT ORAGEUSES. CAP
+10/01/2022,CAP D'AMBRE A CAP EST,O,FORTE SOUS ORAGES,SENSIBLE : AVERSES LOCALEMENT ORAGEUSES. CAP
+11/01/2022,CAP D'AMBRE A CAP EST,VARIABLE 05/10,"PEU AGITEE, HAUTEUR DES VAGUES MOINS DE 1.1M",SENSIBLE : AVERSES PASSAGÈRES. CAP
+12/01/2022,CAP D'AMBRE A CAP EST,"OUEST 05/10 LOCALEMENT 15 DANS LA PARTIE NORD, SECTEUR NORD DANS LA PARTIE SUD","PEU AGITEE, HAUTEUR DES VAGUES MOINS DE 1M",SENSIBLE : AVERSES PASSAGÈRES LOCALEMENT ORAGEUSES. CAP
+13/01/2022,CAP D'AMBRE A CAP EST,N,"PEU AGITEE, HAUTEUR DES VAGUES VOISINE DE 1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+14/01/2022,CAP D'AMBRE A CAP EST,O,"PEU AGITEE, HAUTEUR DES VAGUES MOINS DE 1.1M",SENSIBLE : RARES AVERSES. CAP
+17/01/2022,CAP D'AMBRE A CAP EST,N,"PEU AGITEE, HAUTEUR DES VAGUES MOINS DE 1.1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+20/01/2022,CAP D'AMBRE A CAP EST,"NORD-OUEST 15/20 AU NORD DE VOHEMAR, SECTEUR EST 05/15 AILLEURS","AGITEE, 1.5/2M",SENSIBLE : FAIBLES AVERSES. CAP
+21/01/2022,CAP D'AMBRE A CAP EST,OUEST-NORD-,A,SENSIBLE : AVERSES ORAGEUSES. CAP
+24/01/2022,CAP D'AMBRE A CAP EST,SECTEUR SUD 15/20 LOCALEMENT 25,"AGITEE, 1.5 A 2M ATTEIGNANT 2.5M EN FIN DE PERIODE",SENSIBLE : PLUIES FAIBLES. CAP
+26/01/2022,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.5 A 2.5M",SENSIBLE : FAIBLES AVERSES. CAP
+27/01/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, 2M LOCALEMENT 2.4M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+28/01/2022,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.3 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE FAIBLES AVERSES PRES CAP EST EN FIN PERIODE. CAP
+29/01/2022,CAP D'AMBRE A CAP EST,SUD 10/15 LOCALEMENT 20,"AGITEE, 1.3 A 1.7M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES AVERSES LOCALES AU LARGE DES COTES. CAP
+30/01/2022,CAP D'AMBRE A CAP EST,SUD 10/15 LOCALEMENT 20,"AGITÉE, 1.5 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES AVERSES LOCALES SUR LA PARTIE NORD. CAP
+31/01/2022,CAP D'AMBRE A CAP EST,SUD 10/20,"AGITEE, 1.5 A 2.3M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES AVERSES LOCALES VERS MI-PERIODE. CAP
+02/02/2022,CAP D'AMBRE A CAP EST,SECTEUR OUEST 10/20 ATTEIGNANT 25 FRAICHISSANT 30/35 EN FIN PERIODE,A,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+04/02/2022,CAP D'AMBRE A CAP EST,NORD-OUEST 25/30,"FORTE, 2 A 3.5M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES LOCALES. CAP
+07/02/2022,CAP D'AMBRE A CAP EST,N,"AGITEE, 1.5 A 2.2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+08/02/2022,CAP D'AMBRE A CAP EST,"OUEST 15 LOCALEMENT 20 SUR LA MOITE NORD, VARIABLE 05","AGITEE, 1.2 A 1.6M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+09/02/2022,CAP D'AMBRE A CAP EST,"SECTEUR OUEST 10/15 LOCALEMENT 20 SUR LA PARTIE NORD, VARIABLE 05 AILLEURS","AGITEE, 1.2 A 1.6M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE D'AVERSES. CAP
+10/02/2022,CAP D'AMBRE A CAP EST,"OUEST 10/20 AU VOISINAGE DE LA POINTE NORD S'AFFAIBLISSANT 05/10 EN FIN PERIODE. AILLEURS, SECTEUR EST 05/10",PEU,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DE RARES AVERSES LOCALES. CAP
+11/02/2022,CAP D'AMBRE A CAP EST,"SECTEUR OUEST 10/15 PRES CAP D'AMBRE, SUD 05/10 EN FIN PERIODE. AILLEURS, SECTEUR EST 05/10","AGITEE, 1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+14/02/2022,CAP D'AMBRE A CAP EST,"SUD 10/20 LOCALEMENT 25 PRES CAP EST , TOURNANT",PEU,SENSIBLE : AVERSES ORAGEUSES. CAP
+15/02/2022,CAP D'AMBRE A CAP EST,"SUD 10/20 LOCALEMENT 25 SUR LA PARTIE SUD, OUEST 05/15 VERS LE NORD DEVENANT","AGITEE, FORTE SUR LA PARTIE SUD, 1.3 A 2M ATTEIGNANT 2.5 A 3M SUR LA PARTIE SUD",SENSIBLE : AVERSES ISOLEES. CAP
+16/02/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20,"AGITEE, 1.5M ATTEIGNANT 2M EN FIN PERIODE",SENSIBLE : GLOBALEMENT SEC. CAP
+18/02/2022,CAP D'AMBRE A CAP EST,O,AGITÉ,SENSIBLE : NUAGEUX. CAP
+21/02/2022,CAP D'AMBRE A CAP EST,O,A,SENSIBLE : NUAGEUX AVEC PASSAGE D'AVERSES. CAP
+22/02/2022,CAP D'AMBRE A CAP EST,O,A,SENSIBLE : NUAGEUX AVEC AVERSES AU NORD DE VOHEMAR. CAP
+23/02/2022,CAP D'AMBRE A CAP EST,"NORD-OUEST 15/20 LOCALEMENT 25, DEVENANT VARIABLE 05/10 SUR LA PARTIE SUD",A,"SENSIBLE : QUELQUES AVERSES AU NORD DE VOHEMAR, PARTIELLEMENT NUAGEUX AILLEUR. CAP"
+24/02/2022,CAP D'AMBRE A CAP EST,SECTEUR OUEST 05/15 LOCALEMENT 20 VERS CAP D'AMBRE,PEU,SENSIBLE : PARTIELLEMENT NUAGEUX. ` CAP
+25/02/2022,CAP D'AMBRE A CAP EST,"SECTEUR OUEST 10/15 AU NORD DE VOHEMAR, VARIABLE 05/10 AILLEURS","PEU AGITEE, VOISINE DE 1M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PASSAGE D'AVERSES NOCTURNE. CAP
+26/02/2022,CAP D'AMBRE A CAP EST,"OUEST 05/15 AU NORD DE VOHEMAR, VARIABLE 05/10 AILLEURS","PEU AGITEE, VOISINE DE 1M",SENSIBLE : FAIBLES AVERSES CAP
+27/02/2022,CAP D'AMBRE A CAP EST,"OUEST 05/15 SUR LA PARTIE NORD, VARIABLE 05/10 AILLEURS",PEU AGITÉ,SENSIBLE : AVERSES LOCALEMENT ORAGEUSES. CAP
+28/02/2022,CAP D'AMBRE A CAP EST,"VARIABLE 05/10, S'ETABLISSANT SECTEUR OUEST 05/15 AU NORD DE VOHEMAR","PEU AGITEE, VOISINE DE 1M",SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+01/03/2022,CAP D'AMBRE A CAP EST,"NORD-OUEST 15/20 AU NORD DE VOHEMAR, VARIABLE 05/10 SUR LE RESTE DE LA ZONE",PEU,SENSIBLE : AVERSES ISOLEES LOCALEMENT
+02/03/2022,CAP D'AMBRE A CAP EST,"SECTEUR OUEST 10/20 AU NORD DE VOHEMAR, VARIABLE 05/10 AILLEURS",PEU,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PASSAGE D'AVERSES NOCTURNES. CAP
+04/03/2022,CAP D'AMBRE A CAP EST,SECTEUR OUEST 05/15 LOCALEMENT 20 VERS CAP D'AMBRE,PEU,SENSIBLE : AVERSES ISOLEES. CAP
+05/03/2022,CAP D'AMBRE A CAP EST,SUD-OUEST 10/20 LOCALEMENT 25 PRES D'ANTALAHA. AILLEURS,"AGITEE, 1.3/1.6M","SENSIBLE : AVERSES ISOLEES VERS ANTALAHA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+07/03/2022,CAP D'AMBRE A CAP EST,NORD-OUEST 10/20 LOCALEMENT 25 VERS CAP EST,"AGITEE, LOCALEMENT FORTE SUR LA PARTIE SUD, 1.5 A 2.5M ATTEIGNANT 2.7M PRES CAP EST",SENSIBLE : AVERSES ORAGEUSES. CAP
+08/03/2022,CAP D'AMBRE A CAP EST,NORD-OUEST 10/20 LOCALEMENT 25,"AGITEE, LOCALEMENT FORTE SUR LA PARTIE SUD, 1.5 A 2.5M ATTEIGNANT 2.7M PRES CAP EST",SENSIBLE : AVERSES ORAGEUSES. CAP
+09/03/2022,CAP D'AMBRE A CAP EST,NORD-OUEST 10/15 LOCALEMENT 20,"AGITEE, 1.2 A 1.7M",SENSIBLE : AVERSES ISOLEES ORAGEUSES. CAP
+10/03/2022,CAP D'AMBRE A CAP EST,ET,FORTE SOUS ORAGES,SENSIBLE : AVERSES ORAGEUSES. CAP
+11/03/2022,CAP D'AMBRE A CAP EST,ET,FORTE SOUS ORAGES,SENSIBLE : AVERSES ORAGEUSES. CAP
+13/03/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 DEVENANT CIRCULATION DÉPRESSIONNAIRE 25/30 A L'EXTREME NORD EN FIN DE PÉRIODE,"AGITÉE, HAUTEUR DES VAGUES ENVIRON 1.5M",SENSIBLE : AVERSES ORAGEUSES. CAP
+15/03/2022,CAP D'AMBRE A CAP EST,SECTEUR SUD 05/15,PEU,SENSIBLE : AVERSES ORAGEUSES. CAP
+17/03/2022,CAP D'AMBRE A CAP EST,N,PEU AGITEE,SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+21/03/2022,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PASSAGE D'AVERSES EPARSES. CAP
+23/03/2022,CAP D'AMBRE A CAP EST,S,"AGITEE, AUTOUR DE 1.5M",SENSIBLE : AVERSES ISOLEES LOCALEMENT ORAGEUSES. CAP
+24/03/2022,CAP D'AMBRE A CAP EST,S,PEU,SENSIBLE : RARES AVERSES ISOLEES. CAP
+25/03/2022,CAP D'AMBRE A CAP EST,S,PEU AGITÉ,SENSIBLE : PLUIES PUIS LE CIEL SE DÉGAGERA PROGRESSIVEMENT VERS L’APRÈS-MIDI. CAP
+28/03/2022,CAP D'AMBRE A CAP EST,SUD-,"AGITEE, 1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+01/04/2022,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.3 A 2M ATTEIGNANT 2.5M PRES CAP EST",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE DES PLUIES FAIBLES SUR LA PARTIE SUD. CAP
+02/04/2022,CAP D'AMBRE A CAP EST,SUD DOMINANT 10/20,"AGITEE, 1.3 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES LOCALES SUR SUD ZONE. CAP
+03/04/2022,CAP D'AMBRE A CAP EST,SUD 10/15,"AGITÉE, 1.5 A 2M",SENSIBLE : RARES AVERSES. CAP
+04/04/2022,CAP D'AMBRE A CAP EST,S,"AGITEE, 1.4 A 1.8M","SENSIBLE : FAIBLES AVERSES AU DEBUT DE L'ECHEANCE, PARTIELLEMENT NUAGEUX LE JOUR SUIVANT. CAP"
+05/04/2022,CAP D'AMBRE A CAP EST,SUD-EST DOMINANT 05/15,PEU,SENSIBLE : PARTIELLEMENT
+06/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15,"AGITEE, 1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PARFOIS DES AVERSES PASSAGÈRES. CAP
+08/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 15 LOCALEMENT 20,"AGITEE, 1.5M LOCALEMENT 2M",SENSIBLE : PLUIES FAIBLES. CAP
+09/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 15 LOCALEMENT 20,"AGITEE, 1.5M LOCALEMENT 2M",SENSIBLE : PLUIES FAIBLES. CAP
+10/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 15 LOCALEMENT 20,"AGITEE, 1.5M LOCALEMENT 2M",SENSIBLE : PLUIES FAIBLES. CAP
+11/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 AU NORD DE VOHEMAR,"AGITEE, HAUTEUR DES VAGUES VOISINE DE 2M",SENSIBLE : PLUIES INTERMITTENTES. CAP
+12/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 PRES CAP D'AMBRE,"AGITEE, 2 A 2.5M",SENSIBLE : PLUIES FAIBLES ET INTERMITTENTE. CAP
+15/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 PRES CAP D'AMBRE,A,"SENSIBLE : PLUIES FAIBLES AU DEBUT DE L'ECHEANCE, PARTIELLEMENT NUAGEUX VERS MI-PERIODE. CAP"
+19/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 LOCALEMENT 20,PEU,SENSIBLE : PLUIES FAIBLES PAR MOMENT. CAP
+20/04/2022,CAP D'AMBRE A CAP EST,SUD-SUD-EST 10/20,"AGITÉE, 1.5/2M",SENSIBLE : AVERSES ORAGEUSES. CAP
+21/04/2022,CAP D'AMBRE A CAP EST,NORD-,"AGITÉE, 1.5M",SENSIBLE : PLUIES ORAGEUSES MAIS DEVENANT UN PEU SEC VERS LA FIN DE PÉRIODE. CAP
+22/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/15,"AGITÉE, 1.3 A 2M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE DES PLUIES FAIBLES NOCTURNES. CAP
+23/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 SE RENFORÇANT 20/25 ATTEIGNANT 30 AU NORD DE VOHEMAR LE JOUR SUIVANT,A,SENSIBLE : PLUIES INTERMITTENTES. CAP
+24/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 ATTEIGNANT 20 AU NORD DE VOHEMAR,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE FAIBLES AVERSES. CAP
+26/04/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 DEVENANT SECTEUR SUD AU SUD DE SAMBAVA,"AGITEE, MAIS LOCALEMENT FORTE PRES CAP D'AMBRE, 1.8/2.4M ATTEIGNANT 2.6M PRES CAP D'AMBRE PAR",SENSIBLE : PEU NUAGEUX. CAP
+27/04/2022,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE D'AVERSES. CAP
+30/04/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, 1.5/2M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE D'AVERSES. CAP
+02/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 ATTEIGNANT 20 AU NORD DE SAMBAVA,"AGITEE, 1.5/2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+03/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT 30 SUR LA PARTIE NORD,"AGITEE, 1.5/2M ATTEIGNANT 2.5M EN DEUXIEME PARTIE DE LA PERIODE",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES PAR MOMENT PRES CAP EST. CAP
+04/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT 30 SUR LA PARTIE NORD,"AGITEE, 1.5/2M ATTEIGNANT 2.5M EN DEUXIEME PARTIE DE LA PERIODE",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES PAR MOMENT PRES CAP EST. CAP
+06/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 ATTEIGNANT 30 SUR LA PARTIE NORD,"AGITEE, 1.5/2M ATTEIGNANT 2.5M EN DEUXIEME PARTIE DE LA PERIODE",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES PAR MOMENT PRES CAP EST. CAP
+07/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 ATTEIGNANT 20 PRES CAP D'AMBRE,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC QUELQUES AVERSES PASSAGERES. CAP
+08/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 ATTEIGNANT 20 PRES CAP D'AMBRE,A,SENSIBLE : PARTIELLEMENT NUAGEUX AVEC QUELQUES AVERSES PASSAGERES. CAP
+10/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10 TOURNANT,"AGITEE, 1.5/2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+12/05/2022,CAP D'AMBRE A CAP EST,SUD-SUD-EST 15/25,AGITÉ,SENSIBLE : AVERSES PASSAGÈRES. CAP
+16/05/2022,CAP D'AMBRE A CAP EST,SUD-SUD-EST 10/20 LOCALEMENT 25 PRÈS CAP D'AMBRE,AGITÉ,SENSIBLE : PLUIES FAIBLES. CAP
+17/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 PRÈS CAP D'AMBRE LE MATIN,AGITÉ,SENSIBLE : PLUIES FAIBLES. CAP
+20/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 PRES CAP D'AMBRE,A,SENSIBLE : PLUIES INTERMITTENTES. CAP
+21/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"AGITÉE, 1.5/2.5M",SENSIBLE : PEU NUAGEUX AVEC PLUIES FAIBLES INTERMITTENTES VERS LA NUIT. CAP
+22/05/2022,CAP EST A TAOLAGNARO,NORD 10/15 ATTEIGNANT LOCALEMENT 20/25,PEU AGITÉ,SENSIBLE : FAIBLES AVERSES LE MATIN
+22/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT LOCALEMENT 25 PRÈS DU CAP D'AMBRE LE MATIN,AGITÉ,SENSIBLE : PEU
+24/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT LOCALEMENT 25 PRÈS DU CAP D'AMBRE,"AGITÉE, 1.2/2.4M",SENSIBLE : PEU
+25/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20,PEU AGITÉ,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+29/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20,PEU AGITÉ,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+30/05/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20,PEU AGITÉ,SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+31/05/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, PROCHE DE 2M ATTEIGNANT 2.5M AU VOISINAGE DE CAP D'AMBRE",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC RISQUE DES PLUIES FAIBLES EN FIN PÉRIODE. CAP
+01/06/2022,CAP D'AMBRE A CAP EST,SUD-EST DOMINANT 10/20,"AGITÉE, 1.2/2.1M",SENSIBLE : PLUIES FAIBLES. CAP
+02/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25 AU NORD D'ANTALAHA,AGITÉ,SENSIBLE : FAIBLES AVERSES. CAP
+04/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25,AGITÉ,SENSIBLE : PLUIES. CAP
+07/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 AU NORD DE SAMBAVA,"AGITÉE, 1.5/2.5M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+08/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"AGITÉE, 2/2.5M LOCALEMENT 3M SUR LA PARTIE NORD",SENSIBLE : PLUIES INTERMITTENTES. CAP
+10/06/2022,CAP D'AMBRE A CAP EST,S,A,"SENSIBLE : QUELQUES PLUIES FAIBLES PASSAGERES AU SUD DE SAMBAVA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+11/06/2022,CAP D'AMBRE A CAP EST,S,A,SENSIBLE : PLUIES FAIBLES PRES D'ANTALAHA VERS FIN PERIODE. CAP
+13/06/2022,CAP D'AMBRE A CAP EST,S,AGITÉ,SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+15/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 DOMINANT,"AGITEE, 1.5/2.5M. PETITE",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES PLUIES FAIBLES LOCALES PRES DE CAP EST. CAP
+16/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 DOMINANT,"AGITÉE, 1.5/2.5M. PETITE",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC DES PLUIES FAIBLES LOCALES PRÈS DE CAP EST. CAP
+17/06/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, HAUTEUR DES VAGUES ENVIRON 2M",SENSIBLE : AVERSES ÉPARSES. CAP
+18/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"AGITEE, 1.5 A 2M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+21/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25/30 AU NORD DE SAMBAVA,"FORTE, HAUTEUR DES VAGUES ENVIRON 3M",SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+22/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 EN S’ÉLOIGNANT LES COTES,AGITÉ,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+24/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"FORTE, 2.6/3.4M",SENSIBLE : PLUIES FAIBLES PAR PLACE. CAP
+25/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 20/30 LOCALEMENT 33 VERS CAP D'AMBRE,F,SENSIBLE : PLUIES FAIBLES. CAP
+29/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 20/30 LOCALEMENT 33 VERS CAP D'AMBRE,F,SENSIBLE : PLUIES INTERMITTENTES. CAP
+30/06/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25,"FORTE, 3/4M",SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+03/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 20/25 LOCALEMENT 30 SUR LA PARTIE NORD AVEC RAFALE PAR MOMENT,"FORTE, 3/4M",SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+08/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 20/25 LOCALEMENT 30 AU NORD DE VOHEMAR,"FORTE, 3/4M",SENSIBLE : PLUIES INTERMITTENTES. CAP
+11/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 PRÈS LA POINTE NORD,"FORTE, 3/4M",SENSIBLE : PLUIES INTERMITTENTES. CAP
+12/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 PRÈS CAP D'AMBRE,"FORTE, 3/4M",SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+15/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25,"AGITÉE, 1.5/2.5M",SENSIBLE : PLUIES INTERMITTENTES. CAP
+16/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25,A,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+19/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 AVEC RAFALES,F,SENSIBLE : PLUIES INTERMITTENTES. CAP
+20/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 AVEC RAFALE PRÈS COTES DIANA,F,SENSIBLE : PLUIES FAIBLES. CAP
+21/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 AVEC RAFALE PRÈS COTES DIANA,F,SENSIBLE : PLUIES FAIBLES. CAP
+22/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/25 LOCALEMENT 30 AVEC RAFALES,F,SENSIBLE : PLUIES INTERMITTENTES. CAP
+24/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20,A,"SENSIBLE : PLUIES FAIBLES LOCALES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+26/07/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, VOISINE DE 2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+28/07/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, 1.6/2.5M","SENSIBLE : AVERSES ÉPARSES AU SUD DE SAMBAVA, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+29/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 PRÈS CAP D'AMBRE,"AGITÉE, 1.5/2.5M",SENSIBLE : PLUIES ÉPARSES. CAP
+30/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 PRÈS CAP D'AMBRE,"AGITÉE, 2/2.5M",SENSIBLE : FAIBLES AVERSES. CAP
+31/07/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 VERS CAP D'AMBRE,"AGITEE, 1.5/2.5M","SENSIBLE : PLUIES LOCALES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+01/08/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 AU NORD DE VOHEMAR,"AGITÉE, HAUTEUR DES VAGUES ENVIRON DE 2.5M",SENSIBLE : FAIBLES AVERSES DEVENANT PLUIES LOCALEMENT MODÉRÉE EN DEUXIÈME PARTIE DE LA PÉRIODE. CAP
+02/08/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 LOCALEMENT 25 AU NORD DE VOHEMAR,"AGITÉE, HAUTEUR DES VAGUES ENVIRON DE 2.5M",SENSIBLE : FAIBLES AVERSES DEVENANT PLUIES LOCALEMENT MODÉRÉE EN DEUXIÈME PARTIE DE LA PÉRIODE. CAP
+03/08/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25 AU NORD DE VOHEMAR,"AGITÉE, 2/2.5M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+04/08/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25 AU NORD DE VOHEMAR,"AGITÉE, 2/2.5M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+23/09/2022,CAP D'AMBRE A CAP EST,"SUD-EST 15/25, ATTEIGNANT LOCALEMENT 30 PRÈS CAP D'AMBRE",AGITÉ,SENSIBLE : PLUIES LOCALEMENT MODÉRÉES. CAP
+26/09/2022,CAP D'AMBRE A CAP EST,SUD-SUD-EST 15/25,AGITÉ,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+27/09/2022,CAP D'AMBRE A CAP EST,SUD-SUD-EST 15/20 ATTEIGNANT 25 PRÈS CAP D'AMBRE,AGITÉ,SENSIBLE : PLUIES FAIBLES. CAP
+28/09/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25 AU NORD DE VOHEMAR,"AGITÉE, 2/2.5M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+29/09/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT LOCALEMENT 25,"AGITÉE, LOCALEMENT FORTE PRÈS DU CAP D'AMBRE. HAUTEUR DES VAGUES 2/2.8M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+30/09/2022,CAP D'AMBRE A CAP EST,SUD-EST 15/20 ATTEIGNANT 25 PRÈS CAP D'AMBRE,"AGITÉE, LOCALEMENT FORTE PRÈS DU CAP D'AMBRE. HAUTEUR DES VAGUES 1.8/2.7M",SENSIBLE : PLUIES FAIBLES LOCALES. CAP
+04/10/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25,"AGITÉE, 1.8/2.4M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE DES PLUIES FAIBLES LOCALES AU SUD DE SAMBAVA. CAP
+05/10/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25,"AGITÉE À LOCALEMENT FORTE, 1.9/2.7M",SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+06/10/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20 LOCALEMENT 25 SUR LA PARTIE NORD,AGITÉ,SENSIBLE : PLUIES FAIBLES INTERMITTENTES. CAP
+09/10/2022,CAP D'AMBRE A CAP EST,"SUD-SUD-EST 15/20, MAIS 25 AU NORD DE VOHEMAR","AGITEE, 1.6/2.5M",SENSIBLE : PARTIELLEMENT NUAGEUX PUIS PLUIES FAIBLES EN DEUXIEME PARTIE DE PERIODE. CAP
+10/10/2022,CAP D'AMBRE A CAP EST,S,"AGITÉE, 1.8/2.5M","SENSIBLE : PLUIES FAIBLES LOCALES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+27/10/2022,CAP D'AMBRE A CAP EST,EST-SUD-EST 10 LOCALEMENT 15 SUR LA PARTIE NORD,"AGITÉE, 1.6/2M LOCALEMENT 2.4M AU NORD DE SAMBAVA",SENSIBLE : QUELQUES AVERSES PASSAGÈRES. CAP
+28/10/2022,CAP D'AMBRE A CAP EST,EST-SUD-EST 10 LOCALEMENT 15 SUR LA PARTIE NORD,"AGITÉE, 1.6/2M LOCALEMENT 2.4M AU NORD DE SAMBAVA",SENSIBLE : QUELQUES AVERSES PASSAGÈRES. CAP
+19/11/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10 ATTEIGNANT 15/20 AU NORD DE VOHEMAR,"PEU AGITÉE À AGITÉE, HAUTEUR DES VAGUES 1/1.6M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+20/11/2022,CAP D'AMBRE A CAP EST,"SUD-EST 05/10 ATTEIGNANT 15/20 PRÈS CAP D'AMBRE, TOURNANT NORD-EST 05/15 AU VOISINAGE DE CAP-EST","PEU AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+22/11/2022,CAP D'AMBRE A CAP EST,"SUD-EST 05/10 ATTEIGNANT 15/20 PRÈS CAP D'AMBRE, TOURNANT NORD-EST 05/15 AU VOISINAGE DE CAP-EST","PEU AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+24/11/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/15 ATTEIGNANT 20/25 AU NORD DE VOHEMAR,"AGITÉE, HAUTEUR DES VAGUES 1.4/2M ATTEIGNANT 2.5M PRÈS CAP D'AMBRE",SENSIBLE : NUAGEUX À PARTIELLEMENT NUAGEUX AVEC PLUIES FAIBLES LOCALES À PARTIR DE LA NUIT. CAP
+28/11/2022,CAP D'AMBRE A CAP EST,"SUD À SUD-EST 10 PRÈS CAP EST. AILLEURS, SUD-EST 10/15 ATTEIGNANT 20 PRÈS CAP D'AMBRE","AGITÉE, HAUTEUR DES VAGUES 1.3/1.6M ATTEIGNANT 2M VERS CAP D'AMBRE",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+29/11/2022,CAP D'AMBRE A CAP EST,SUD À SUD-EST 05/10 ATTEIGNANT LOCALEMENT 15 AU NORD DE SAMBAVA,"AGITÉE, HAUTEUR DES VAGUES 1.3/1.8M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+01/12/2022,CAP D'AMBRE A CAP EST,SUD À SUD-EST 05/10 ATTEIGNANT 15 AU NORD DE VOHEMAR,"PEU AGITÉE À AGITÉE, HAUTEUR DES VAGUES 0.9/1.3M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+05/12/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15,PEU,SENSIBLE : AVERSES PAR MOMENT. CAP
+10/12/2022,CAP D'AMBRE A CAP EST,SUD À SUD-EST 10/20,"AGITÉE, HAUTEUR DES VAGUES 1.3/1.7M",SENSIBLE : AVERSES LOCALES. CAP
+14/12/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/20,"AGITÉE, HAUTEUR DES VAGUES 1.3/1.8M",SENSIBLE : PLUIES FAIBLES LOCALES AU DÉBUT DE L’ÉCHÉANCE PUIS PARTIELLEMENT NUAGEUX. CAP
+15/12/2022,CAP D'AMBRE A CAP EST,SUD À SUD-EST 10/20,"AGITÉE, HAUTEUR DES VAGUES 1.5M LOCALEMENT 2M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+16/12/2022,CAP D'AMBRE A CAP EST,SUD-EST 10/15 LOCALEMENT 20,"AGITÉE, HAUTEUR DES VAGUES 1.5M","SENSIBLE : AVERSES LOCALES SUR LA PARTIE SUD, PARTIELLEMENT NUAGEUX AILLEURS. CAP"
+17/12/2022,CAP D'AMBRE A CAP EST,"SUD À SUD-EST 10/15, LOCALEMENT 20 PRÈS CAP D'AMBRE","AGITÉE, HAUTEUR DES VAGUES 1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+18/12/2022,CAP D'AMBRE A CAP EST,"SUD-EST 05/10, LOCALEMENT 15","AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1.3M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+19/12/2022,CAP D'AMBRE A CAP EST,"EST À SUD-EST 05/10, LOCALEMENT 15","AGITÉE, HAUTEUR DES VAGUES 1.3/1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC QUELQUES AVERSES LOCALES EN FIN PÉRIODE. CAP
+20/12/2022,CAP D'AMBRE A CAP EST,"NORD-EST 05/10, TEMPORAIREMENT VARIABLE","PEU AGITÉE À AGITÉE, HAUTEUR DES VAGUES MOINS DE 1.5M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+21/12/2022,CAP D'AMBRE A CAP EST,"VARIABLE 05/10 AU DÉBUT DE L’ÉCHÉANCE, S’ÉTABLISSANT NORD À NORD-OUEST 05/15 À PARTIR DE L’APRÈS-MIDI","AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1.3M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE D'AVERSES LOCALES LE JOUR SUIVANT. CAP
+22/12/2022,CAP D'AMBRE A CAP EST,"VARIABLE 05/10 AU DÉBUT DE L’ÉCHÉANCE, S’ÉTABLISSANT NORD À NORD-OUEST 05/15 À PARTIR DE L’APRÈS-MIDI","AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1.3M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE D'AVERSES LOCALES LE JOUR SUIVANT. CAP
+23/12/2022,CAP D'AMBRE A CAP EST,"VARIABLE 05/10 AU DÉBUT DE L’ÉCHÉANCE, S’ÉTABLISSANT NORD À NORD-OUEST 05/15 À PARTIR DE L’APRÈS-MIDI","AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1.3M",SENSIBLE : PARTIELLEMENT NUAGEUX AVEC UN RISQUE D'AVERSES LOCALES LE JOUR SUIVANT. CAP
+24/12/2022,CAP D'AMBRE A CAP EST,SUD 05/10 ATTEIGNANT 15 PRÈS CAP EST,"AGITÉE, HAUTEUR DES VAGUES 1.3/1.6M",SENSIBLE : AVERSES LOCALEMENT ORAGEUSES. CAP
+26/12/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15. ÉTAT DE LA,"AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1.6M",SENSIBLE : AVERSES LOCALEMENT ORAGEUSES. CAP
+30/12/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10 LOCALEMENT 15 AU NORD DE VOHEMAR,"AGITÉE, HAUTEUR DES VAGUES AUTOUR DE 1.6M",SENSIBLE : PARTIELLEMENT NUAGEUX. CAP
+31/12/2022,CAP D'AMBRE A CAP EST,SUD-EST 05/10,"PEU AGITÉE À AGITÉE, HAUTEUR DES VAGUES 1/1.5M",SENSIBLE : PEU NUAGEUX. CAP
