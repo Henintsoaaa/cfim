@@ -1,0 +1,403 @@
+{
+  "zones_cotieres": {
+    "CAP D'AMBRE A TOAMASINA": {
+      "cote": "EST",
+      "point_debut": "CAP D'AMBRE",
+      "point_fin": "TOAMASINA",
+      "lat_min": -18.5,
+      "lat_max": -11.5,
+      "lon_min": 49.0,
+      "lon_max": 50.5,
+      "description": "Côte nord-est, de la pointe nord jusqu'à Toamasina"
+    },
+    "CAP D'AMBRE A MAHANORO": {
+      "cote": "EST",
+      "point_debut": "CAP D'AMBRE",
+      "point_fin": "MAHANORO",
+      "lat_min": -20.0,
+      "lat_max": -11.5,
+      "lon_min": 48.5,
+      "lon_max": 50.5,
+      "description": "Toute la côte est nord"
+    },
+    "CAP D'AMBRE A ANTALAHA": {
+      "cote": "EST",
+      "point_debut": "CAP D'AMBRE",
+      "point_fin": "ANTALAHA",
+      "lat_min": -15.0,
+      "lat_max": -11.5,
+      "lon_min": 49.0,
+      "lon_max": 50.5,
+      "description": "Extrême nord-est"
+    },
+    "TOAMASINA AU CAP SAINTE MARIE": {
+      "cote": "EST-SUD",
+      "point_debut": "TOAMASINA",
+      "point_fin": "CAP SAINTE MARIE",
+      "lat_min": -25.6,
+      "lat_max": -18.0,
+      "lon_min": 45.0,
+      "lon_max": 49.5,
+      "description": "Côte est-sud, de Toamasina à la pointe sud"
+    },
+    "TOAMASINA A TAOLAGNARO": {
+      "cote": "EST-SUD",
+      "point_debut": "TOAMASINA",
+      "point_fin": "TAOLAGNARO",
+      "lat_min": -25.1,
+      "lat_max": -18.0,
+      "lon_min": 47.0,
+      "lon_max": 49.5,
+      "description": "Côte est, de Toamasina à Fort-Dauphin"
+    },
+    "MAHANORO AU CAP SAINTE MARIE": {
+      "cote": "EST-SUD",
+      "point_debut": "MAHANORO",
+      "point_fin": "CAP SAINTE MARIE",
+      "lat_min": -25.6,
+      "lat_max": -19.8,
+      "lon_min": 45.0,
+      "lon_max": 48.8,
+      "description": "Côte sud-est"
+    },
+    "CAP D'AMBRE A BESALAMPY": {
+      "cote": "OUEST-NORD",
+      "point_debut": "CAP D'AMBRE",
+      "point_fin": "BESALAMPY",
+      "lat_min": -17.0,
+      "lat_max": -11.5,
+      "lon_min": 44.0,
+      "lon_max": 49.5,
+      "description": "Côte nord-ouest"
+    },
+    "BESALAMPY A MOROMBE": {
+      "cote": "OUEST",
+      "point_debut": "BESALAMPY",
+      "point_fin": "MOROMBE",
+      "lat_min": -22.0,
+      "lat_max": -16.5,
+      "lon_min": 43.0,
+      "lon_max": 45.0,
+      "description": "Côte ouest centrale"
+    },
+    "MOROMBE AU CAP SAINTE MARIE": {
+      "cote": "OUEST-SUD",
+      "point_debut": "MOROMBE",
+      "point_fin": "CAP SAINTE MARIE",
+      "lat_min": -25.6,
+      "lat_max": -21.5,
+      "lon_min": 43.0,
+      "lon_max": 45.5,
+      "description": "Côte sud-ouest"
+    },
+    "MOROMBE A TAOLAGNARO": {
+      "cote": "SUD",
+      "point_debut": "MOROMBE",
+      "point_fin": "TAOLAGNARO",
+      "lat_min": -25.5,
+      "lat_max": -21.5,
+      "lon_min": 43.0,
+      "lon_max": 47.5,
+      "description": "Côte sud complète"
+    },
+    "CAP D'AMBRE A CAP EST": {
+      "cote": "NORD-EST",
+      "point_debut": "CAP D'AMBRE",
+      "point_fin": "CAP EST",
+      "lat_min": -15.5,
+      "lat_max": -11.5,
+      "lon_min": 49.0,
+      "lon_max": 50.5,
+      "description": "Extrême nord-est incluant Masoala"
+    },
+    "CAP EST A TAOLAGNARO": {
+      "cote": "EST",
+      "point_debut": "CAP EST",
+      "point_fin": "TAOLAGNARO",
+      "lat_min": -25.1,
+      "lat_max": -15.0,
+      "lon_min": 47.0,
+      "lon_max": 50.5,
+      "description": "Toute la côte est"
+    }
+  },
+  "mapping": {
+    "CAP D'AMBRE A TOAMASINA": {
+      "regions": [
+        "DIANA",
+        "SAVA",
+        "ANALANJIROFO",
+        "ATSINANANA"
+      ],
+      "districts_cles": [
+        "Antsiranana I",
+        "Antsiranana II",
+        "Sambava",
+        "Antalaha",
+        "Maroantsetra",
+        "Mananara Nord",
+        "Toamasina I",
+        "Toamasina II"
+      ],
+      "description": "Côte nord-est de Madagascar"
+    },
+    "CAP D'AMBRE A MAHANORO": {
+      "regions": [
+        "DIANA",
+        "SAVA",
+        "ANALANJIROFO",
+        "ATSINANANA"
+      ],
+      "districts_cles": [
+        "Antsiranana I",
+        "Antsiranana II",
+        "Sambava",
+        "Antalaha",
+        "Maroantsetra",
+        "Toamasina I",
+        "Toamasina II",
+        "Brickaville"
+      ],
+      "description": "Côte nord-est étendue jusqu'à Mahanoro"
+    },
+    "CAP D'AMBRE A ANTALAHA": {
+      "regions": [
+        "DIANA",
+        "SAVA"
+      ],
+      "districts_cles": [
+        "Antsiranana I",
+        "Antsiranana II",
+        "Sambava",
+        "Antalaha",
+        "Vohemar"
+      ],
+      "description": "Extrême nord-est"
+    },
+    "CAP D'AMBRE A CAP EST": {
+      "regions": [
+        "DIANA",
+        "SAVA"
+      ],
+      "districts_cles": [
+        "Antsiranana I",
+        "Antsiranana II",
+        "Sambava",
+        "Antalaha"
+      ],
+      "description": "Pointe nord jusqu'au Cap Est (Masoala)"
+    },
+    "TOAMASINA AU CAP SAINTE MARIE": {
+      "regions": [
+        "ATSINANANA",
+        "VATOVAVY FITOVINANY",
+        "ATSIMO ATSINANANA",
+        "ANOSY",
+        "ANDROY"
+      ],
+      "districts_cles": [
+        "Toamasina I",
+        "Toamasina II",
+        "Brickaville",
+        "Mahanoro",
+        "Mananjary",
+        "Manakara",
+        "Farafangana",
+        "Vangaindrano",
+        "Taolagnaro",
+        "Amboasary"
+      ],
+      "description": "Toute la côte est-sud"
+    },
+    "TOAMASINA A TAOLAGNARO": {
+      "regions": [
+        "ATSINANANA",
+        "VATOVAVY FITOVINANY",
+        "ATSIMO ATSINANANA",
+        "ANOSY"
+      ],
+      "districts_cles": [
+        "Toamasina I",
+        "Toamasina II",
+        "Mahanoro",
+        "Mananjary",
+        "Manakara",
+        "Farafangana",
+        "Vangaindrano",
+        "Taolagnaro"
+      ],
+      "description": "Côte est de Toamasina à Fort-Dauphin"
+    },
+    "MAHANORO AU CAP SAINTE MARIE": {
+      "regions": [
+        "ATSINANANA",
+        "VATOVAVY FITOVINANY",
+        "ATSIMO ATSINANANA",
+        "ANOSY",
+        "ANDROY"
+      ],
+      "districts_cles": [
+        "Mahanoro",
+        "Mananjary",
+        "Manakara",
+        "Farafangana",
+        "Vangaindrano",
+        "Taolagnaro",
+        "Amboasary"
+      ],
+      "description": "Côte sud-est de Mahanoro au Cap Sainte Marie"
+    },
+    "CAP EST A TAOLAGNARO": {
+      "regions": [
+        "ANALANJIROFO",
+        "ATSINANANA",
+        "VATOVAVY FITOVINANY",
+        "ATSIMO ATSINANANA",
+        "ANOSY"
+      ],
+      "districts_cles": [
+        "Maroantsetra",
+        "Mananara Nord",
+        "Toamasina I",
+        "Toamasina II",
+        "Mahanoro",
+        "Mananjary",
+        "Manakara",
+        "Farafangana",
+        "Taolagnaro"
+      ],
+      "description": "Toute la côte est"
+    },
+    "CAP D'AMBRE A BESALAMPY": {
+      "regions": [
+        "DIANA",
+        "SOFIA",
+        "BOENY",
+        "MELAKY"
+      ],
+      "districts_cles": [
+        "Antsiranana I",
+        "Antsiranana II",
+        "Ambanja",
+        "Nosy Be",
+        "Analalava",
+        "Mahajanga I",
+        "Mahajanga II",
+        "Mitsinjo",
+        "Besalampy"
+      ],
+      "description": "Côte nord-ouest"
+    },
+    "BESALAMPY A MOROMBE": {
+      "regions": [
+        "MELAKY",
+        "MENABE",
+        "ATSIMO ANDREFANA"
+      ],
+      "districts_cles": [
+        "Besalampy",
+        "Maintirano",
+        "Morondava",
+        "Belo sur Tsiribihina",
+        "Morombe"
+      ],
+      "description": "Côte ouest centrale"
+    },
+    "MOROMBE AU CAP SAINTE MARIE": {
+      "regions": [
+        "ATSIMO ANDREFANA",
+        "ANDROY"
+      ],
+      "districts_cles": [
+        "Morombe",
+        "Tulear I",
+        "Tulear II",
+        "Ankazoabo",
+        "Ampanihy",
+        "Beloha",
+        "Tsihombe"
+      ],
+      "description": "Côte sud-ouest"
+    },
+    "MOROMBE A TAOLAGNARO": {
+      "regions": [
+        "ATSIMO ANDREFANA",
+        "ANDROY",
+        "ANOSY"
+      ],
+      "districts_cles": [
+        "Morombe",
+        "Tulear I",
+        "Tulear II",
+        "Ampanihy",
+        "Beloha",
+        "Tsihombe",
+        "Amboasary",
+        "Taolagnaro"
+      ],
+      "description": "Côte sud complète de Morombe à Fort-Dauphin"
+    }
+  },
+  "points_repere": {
+    "CAP D'AMBRE": {
+      "lat": -11.95,
+      "lon": 49.27,
+      "description": "Pointe nord de Madagascar"
+    },
+    "ANTALAHA": {
+      "lat": -14.9,
+      "lon": 50.28,
+      "description": "Côte nord-est"
+    },
+    "TOAMASINA": {
+      "lat": -18.15,
+      "lon": 49.42,
+      "description": "Principal port est"
+    },
+    "MAHANORO": {
+      "lat": -19.9,
+      "lon": 48.8,
+      "description": "Côte est centrale"
+    },
+    "MANANJARY": {
+      "lat": -21.23,
+      "lon": 48.35,
+      "description": "Côte sud-est"
+    },
+    "CAP SAINTE MARIE": {
+      "lat": -25.58,
+      "lon": 45.17,
+      "description": "Pointe sud de Madagascar"
+    },
+    "TAOLAGNARO": {
+      "lat": -25.03,
+      "lon": 47.0,
+      "description": "Fort-Dauphin, sud-est"
+    },
+    "CAP EST": {
+      "lat": -15.27,
+      "lon": 50.48,
+      "description": "Pointe est (Masoala)"
+    },
+    "BESALAMPY": {
+      "lat": -16.75,
+      "lon": 44.48,
+      "description": "Côte ouest-nord"
+    },
+    "MAJUNGA": {
+      "lat": -15.72,
+      "lon": 46.32,
+      "description": "Mahajanga, côte nord-ouest"
+    },
+    "MOROMBE": {
+      "lat": -21.75,
+      "lon": 43.37,
+      "description": "Côte sud-ouest"
+    },
+    "TULEAR": {
+      "lat": -23.35,
+      "lon": 43.67,
+      "description": "Toliara, côte sud-ouest"
+    }
+  }
+}
