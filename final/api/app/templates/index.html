@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prédiction Risque Maritime</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', path='/css/style.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1><i class="fas fa-water"></i> Prédiction Risque Maritime</h1>
+      <p class="subtitle">
+        Système d'alerte précoce basé sur les conditions météorologiques
+      </p>
+
+      <form method="post" action="/predict-ui">
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="vent"
+              ><i class="fas fa-wind"></i> Vent vitesse (km/h)</label
+            >
+            <input
+              type="number"
+              step="0.1"
+              name="vent_vitesse"
+              id="vent"
+              value="12.5"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="hauteur_mer"
+              ><i class="fas fa-water"></i> Hauteur mer (m)</label
+            >
+            <input
+              type="number"
+              step="0.1"
+              name="hauteur_mer"
+              id="hauteur_mer"
+              value="3.2"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="etat_mer"
+              ><i class="fas fa-chart-bar"></i> État de la mer</label
+            >
+            <input
+              type="number"
+              step="0.1"
+              name="etat_mer"
+              id="etat_mer"
+              value="1.8"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="visibilite"
+              ><i class="fas fa-eye"></i> Visibilité</label
+            >
+            <input
+              type="number"
+              step="0.1"
+              name="visibilite"
+              id="visibilite"
+              value="0.0"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="jour"><i class="fas fa-calendar-day"></i> Jour</label>
+            <input
+              type="number"
+              min="1"
+              max="31"
+              name="jour"
+              id="jour"
+              value="7"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="mois"><i class="fas fa-calendar-alt"></i> Mois</label>
+            <input
+              type="number"
+              min="1"
+              max="12"
+              name="mois"
+              id="mois"
+              value="2"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="annee"><i class="fas fa-calendar"></i> Année</label>
+            <input
+              type="number"
+              min="2020"
+              max="2030"
+              name="annee"
+              id="annee"
+              value="2025"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="latitude"
+              ><i class="fas fa-compass"></i> Latitude</label
+            >
+            <input
+              type="number"
+              step="0.1"
+              name="latitude"
+              id="latitude"
+              value="-18.9"
+              required
+            />
+          </div>
+
+          <div class="form-group full-width">
+            <label for="longitude"
+              ><i class="fas fa-compass"></i> Longitude</label
+            >
+            <input
+              type="number"
+              step="0.1"
+              name="longitude"
+              id="longitude"
+              value="47.5"
+              required
+            />
+          </div>
+        </div>
+
+        <button type="submit">
+          <i class="fas fa-search"></i> Analyser le Risque
+        </button>
+      </form>
+
+      {% if prediction is defined %}
+      <div
+        class="result {% if prediction == 1 %}danger{% else %}safe{% endif %}"
+      >
+        <div class="icon">
+          {% if prediction == 1 %}<i class="fas fa-exclamation-triangle"></i>{%
+          else %}<i class="fas fa-check-circle"></i>{% endif %}
+        </div>
+        <h3>
+          {% if prediction == 1 %}RISQUE DÉTECTÉ{% else %}CONDITIONS NORMALES{%
+          endif %}
+        </h3>
+        <div class="probability">{{ (probability * 100)|round(1) }}%</div>
+        <p>
+          {% if prediction == 1 %} Probabilité d'incident maritime élevée.
+          Prudence recommandée. {% else %} Conditions favorables pour la
+          navigation. {% endif %}
+        </p>
+        <p style="font-size: 13px; margin-top: 15px; opacity: 0.9">
+          Classe prédite : {{ prediction }} | Confiance : {{ (probability *
+          100)|round(2) }}%
+        </p>
+      </div>
+      {% endif %}
+    </div>
+    <script src="{{ url_for('static', path='/js/main.js') }}"></script>
+  </body>
+</html>
