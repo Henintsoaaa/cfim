@@ -1,8 +1,11 @@
 # app/model.py
 import joblib
+import os
 
-MODEL_PATH = "best_model_xgb_weighted.joblib"
-FEATURES_PATH = "model_features_info.joblib"
+# Chemins absolus vers les modèles (dans le dossier parent de app/)
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "best_model_xgb_weighted.joblib")
+FEATURES_PATH = os.path.join(BASE_DIR, "model_features_info.joblib")
 
 model_data = joblib.load(MODEL_PATH)
 features_info = joblib.load(FEATURES_PATH)
