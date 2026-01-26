@@ -15,8 +15,15 @@ def make_prediction(
     longitude: float
 ):
     """
-    Fait une prédiction à partir des inputs du formulaire
-    AVEC RÈGLES MÉTIER pour conditions extrêmes
+    Fait une prédiction à partir des inputs du formulaire.
+    
+    Approche hybride:
+    1. Le modèle ML prédit sur les données plafonnées (dans sa distribution)
+    2. Pour les conditions HORS distribution (extrêmes), on ajuste la probabilité
+       proportionnellement à l'écart par rapport aux limites du dataset
+    
+    Cela permet au modèle de fonctionner correctement tout en gérant
+    les conditions extrêmes qu'il n'a jamais vues pendant l'entraînement.
     """
     from app.feature_engineering import create_features_from_input
     
@@ -31,47 +38,41 @@ def make_prediction(
     latitude = latitude if latitude is not None else -18.0
     longitude = longitude if longitude is not None else 47.0
     
-    # RÈGLES MÉTIER: Détecter automatiquement les conditions extrêmes
-    # Ces seuils sont basés sur les standards maritimes
-    conditions_extremes = (
-        vent_vitesse > 20 or  # Vent fort
-        hauteur_mer > 6 or    # Mer très grosse
-        etat_mer >= 7 or      # État mer dangereux
-        visibilite < 3        # Visibilité très réduite
-    )
-    
-    # Conditions CRITIQUES (risque immédiat)
-    conditions_critiques = (
-        vent_vitesse > 25 or
-        hauteur_mer > 8 or
-        etat_mer >= 8 or
-        visibilite < 2
-    )
-    
-    # Si conditions critiques, forcer la détection
-    if conditions_critiques:
-        return 1, 0.95  # 95% de risque
-    
-    # Créer toutes les features nécessaires (retourne déjà un DataFrame)
+    # Créer toutes les features nécessaires (retourne un DataFrame)
     features_df = create_features_from_input(
         vent_vitesse, hauteur_mer, etat_mer, visibilite,
         jour, mois, annee, latitude, longitude
     )
     
-    # Sélectionner l'ordre correct des colonnes
+    # Extraire le score "hors distribution" AVANT de sélectionner les colonnes du modèle
+    score_hors_distrib = 0.0
+    if '_score_hors_distribution' in features_df.columns:
+        score_hors_distrib = features_df['_score_hors_distribution'].values[0]
+    
+    # Sélectionner l'ordre correct des colonnes pour le modèle
     X = features_df[feature_cols]
     
     # Appliquer le scaler
     X_scaled = scaler.transform(X)
     
-    # Prédire la probabilité
-    proba = model.predict_proba(X_scaled)[0][1]  # Probabilité de la classe positive (risque)
+    # Prédire la probabilité avec le modèle ML
+    proba_model = model.predict_proba(X_scaled)[0][1]
     
-    # Si conditions extrêmes, augmenter la probabilité
-    if conditions_extremes:
-        proba = max(proba, 0.70)  # Minimum 70% pour conditions extrêmes
+    # AJUSTEMENT HYBRIDE pour conditions hors distribution
+    # Le score_hors_distrib augmente quand les valeurs dépassent les limites du dataset
+    # On l'utilise pour booster la probabilité de manière proportionnelle
+    if score_hors_distrib > 0:
+        # Formule: proba_finale = proba_model + (1 - proba_model) * boost
+        # Où boost augmente progressivement avec les conditions extrêmes
+        boost = min(score_hors_distrib, 1.5) * 0.6  # Boost plus fort
+        proba = proba_model + (1 - proba_model) * boost
+    else:
+        proba = proba_model
     
-    # Appliquer le threshold optimisé
+    # S'assurer que la proba reste dans [0, 1]
+    proba = max(0.0, min(1.0, proba))
+    
+    # Appliquer le threshold optimisé (calculé pendant l'entraînement)
     prediction = 1 if proba >= threshold else 0
 
     return prediction, proba

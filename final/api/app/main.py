@@ -15,7 +15,7 @@ templates = Jinja2Templates(directory="app/templates")
 
 app.mount("/static", StaticFiles(directory="app/static"), name="static")
 
-# ========== ENDPOINTS ICI ==========
+# ENDPOINTS ICI
 
 @app.post("/predict", response_model=PredictionOutput)
 def predict_api(data: PredictionInput):

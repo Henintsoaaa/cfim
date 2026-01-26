@@ -85,21 +85,49 @@ def create_features_from_input(
     
     # PLAFONNEMENT CRITIQUE: Limiter aux valeurs max du dataset d'entraînement
     # Dataset max: vent=25 km/h, mer=9m
-    # Ceci évite les outliers qui causent des prédictions aberrantes
-    vent_vitesse_capped = min(vent_vitesse, 25.0)
-    hauteur_mer_capped = min(hauteur_mer, 9.0)
+    # NOTE: On garde les vraies valeurs pour le calcul du score de danger
+    #       mais on plafonne pour les features du modèle ML
+    vent_vitesse_pour_model = min(vent_vitesse, 25.0)
+    hauteur_mer_pour_model = min(hauteur_mer, 9.0)
     etat_mer_capped = min(etat_mer, 9.0)
     
+    # Calculer le score "hors distribution" pour conditions dangereuses
+    # Basé sur les standards maritimes internationaux:
+    # - Vent > 20 km/h = mer peu agitée (brise fraîche)
+    # - Vent > 25 km/h = mer agitée (coup de vent)
+    # - Mer > 2.5m = mer agitée
+    # - Mer > 4m = mer forte à très forte
+    # - Visibilité < 5 = conditions dégradées
+    # - Visibilité < 3 = conditions dangereuses
+    
+    score_hors_distribution = 0.0
+    
+    # Vent - seuils abaissés
+    if vent_vitesse > 20:
+        score_hors_distribution += (vent_vitesse - 20) / 15  # +0.067 par km/h au-dessus de 20
+    
+    # Hauteur mer - seuils abaissés
+    if hauteur_mer > 2.5:
+        score_hors_distribution += (hauteur_mer - 2.5) / 4  # +0.25 par mètre au-dessus de 2.5
+    
+    # État mer
+    if etat_mer > 5:
+        score_hors_distribution += (etat_mer - 5) / 4  # +0.25 par point au-dessus de 5
+    
+    # Visibilité - seuil relevé
+    if visibilite < 5:
+        score_hors_distribution += (5 - visibilite) / 5  # +0.2 par point en dessous de 5
+    
     # FEATURES DE BASE (identiques au dataset d'entraînement)
-    vent_vitesse_min = vent_vitesse_capped * 0.8
-    vent_vitesse_max = min(vent_vitesse_capped * 1.2, 25.0)  # Plafonner aussi le max
-    vent_rafales = min(vent_vitesse_max * 1.15, 25.0)  # Plafonner rafales
+    vent_vitesse_min = vent_vitesse_pour_model * 0.8
+    vent_vitesse_max = min(vent_vitesse_pour_model * 1.2, 25.0)
+    vent_rafales = min(vent_vitesse_max * 1.15, 25.0)
     vent_direction_deg = 0.0
     
     mer_score_min = max(0, etat_mer_capped - 1)
     mer_score_max = etat_mer_capped
-    mer_hauteur_min = hauteur_mer_capped * 0.7
-    mer_hauteur_max = min(hauteur_mer_capped, 9.0)  # Plafonner mer
+    mer_hauteur_min = hauteur_mer_pour_model * 0.7
+    mer_hauteur_max = min(hauteur_mer_pour_model, 9.0)
     
     # Conditions météo (convertir visibilite 0-10 vers scores binaires)
     temps_precipitation = 1 if visibilite < 5 else 0
@@ -183,7 +211,9 @@ def create_features_from_input(
         'score_risque_lag1': score_risque_lag1,
         'score_risque_trend': score_risque_trend,
         'vent_moyen_lag1': vent_moyen_lag1,
-        'vent_moyen_trend': vent_moyen_trend
+        'vent_moyen_trend': vent_moyen_trend,
+        # Score spécial pour conditions hors distribution
+        '_score_hors_distribution': score_hors_distribution
     }
     
     # Créer DataFrame avec les features de base
