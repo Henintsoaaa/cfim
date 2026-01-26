@@ -3,179 +3,379 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Prédiction Risque Maritime</title>
+    <title>Prédiction Risque Maritime - CFIM</title>
     <link
       rel="stylesheet"
-      href="{{ url_for('static', path='/css/style.css') }}"
+      href="{{ url_for('static', path='/css/style.css') }}?v=2"
     />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     />
+    <!-- PDF.js library for parsing PDF files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
   </head>
   <body>
     <div class="container">
-      <h1><i class="fas fa-water"></i> Prédiction Risque Maritime</h1>
-      <p class="subtitle">
-        Système d'alerte précoce basé sur les conditions météorologiques
-      </p>
-
-      <form method="post" action="/predict-ui">
-        <div class="form-grid">
-          <div class="form-group">
-            <label for="vent"
-              ><i class="fas fa-wind"></i> Vent vitesse (km/h)</label
-            >
-            <input
-              type="number"
-              step="0.1"
-              name="vent_vitesse"
-              id="vent"
-              value="12.5"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="hauteur_mer"
-              ><i class="fas fa-water"></i> Hauteur mer (m)</label
-            >
-            <input
-              type="number"
-              step="0.1"
-              name="hauteur_mer"
-              id="hauteur_mer"
-              value="3.2"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="etat_mer"
-              ><i class="fas fa-chart-bar"></i> État de la mer</label
-            >
-            <input
-              type="number"
-              step="0.1"
-              name="etat_mer"
-              id="etat_mer"
-              value="1.8"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="visibilite"
-              ><i class="fas fa-eye"></i> Visibilité</label
-            >
-            <input
-              type="number"
-              step="0.1"
-              name="visibilite"
-              id="visibilite"
-              value="0.0"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="jour"><i class="fas fa-calendar-day"></i> Jour</label>
-            <input
-              type="number"
-              min="1"
-              max="31"
-              name="jour"
-              id="jour"
-              value="7"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="mois"><i class="fas fa-calendar-alt"></i> Mois</label>
-            <input
-              type="number"
-              min="1"
-              max="12"
-              name="mois"
-              id="mois"
-              value="2"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="annee"><i class="fas fa-calendar"></i> Année</label>
-            <input
-              type="number"
-              min="2020"
-              max="2030"
-              name="annee"
-              id="annee"
-              value="2025"
-              required
-            />
-          </div>
-
-          <div class="form-group">
-            <label for="latitude"
-              ><i class="fas fa-compass"></i> Latitude</label
-            >
-            <input
-              type="number"
-              step="0.1"
-              name="latitude"
-              id="latitude"
-              value="-18.9"
-              required
-            />
-          </div>
-
-          <div class="form-group full-width">
-            <label for="longitude"
-              ><i class="fas fa-compass"></i> Longitude</label
-            >
-            <input
-              type="number"
-              step="0.1"
-              name="longitude"
-              id="longitude"
-              value="47.5"
-              required
-            />
-          </div>
+      <header class="header">
+        <div class="header-icon">
+          <i class="fas fa-ship"></i>
         </div>
+        <h1>Prédiction Risque Maritime</h1>
+        <p class="subtitle">
+          Système d'alerte précoce basé sur l'IA - Météo Madagascar
+        </p>
+      </header>
 
-        <button type="submit">
-          <i class="fas fa-search"></i> Analyser le Risque
+      <!-- Tabs pour switcher entre modes -->
+      <div class="tabs">
+        <button class="tab-btn" data-tab="bulletin">
+          <i class="fas fa-file-contract"></i> Bulletin Météo
         </button>
-      </form>
+        <button class="tab-btn active" data-tab="manual">
+          <i class="fas fa-sliders"></i> Saisie Simplifiée
+        </button>
+      </div>
 
-      {% if prediction is defined %}
-      <div
-        class="result {% if prediction == 1 %}danger{% else %}safe{% endif %}"
-      >
-        <div class="icon">
-          {% if prediction == 1 %}<i class="fas fa-exclamation-triangle"></i>{%
-          else %}<i class="fas fa-check-circle"></i>{% endif %}
+      <!-- Tab 1: Bulletin Météo -->
+      <div id="tab-bulletin" class="tab-content">
+        <form method="post" action="/predict-bulletin" class="form">
+          <div class="section">
+            <h2 class="section-title">
+              <i class="fas fa-clipboard-list"></i> Collez votre bulletin météo
+            </h2>
+            <p class="section-desc">
+              Collez le texte complet du bulletin BMS (Bulletin Marine Spécial)
+              ou bulletin météo maritime.
+            </p>
+            <div class="form-group full-width">
+              <textarea
+                name="bulletin_text"
+                id="bulletin_text"
+                rows="12"
+                placeholder="WTIO20 FMMD 010600
+BULLETIN MARINE SPECIAL
+BMS N°07/04 DE FMMDYMYP A 06 TU
+EMIS PAR METEO MADAGASCAR LE 01/01/2020 A 06 TU
+1. AVIS D'OURAGAN
+2. PHENOMENE: CYCLONE TROPICAL 4 (CALVINIA) 976 HPA
+POSITION A 06 TU : DANS UN RAYON DE 10 MN AUTOUR DU POINT 26.9 S / 60.6 E
+..."
+                required
+              >
+{{ bulletin_text if bulletin_text else '' }}</textarea
+              >
+            </div>
+          </div>
+
+          <button type="submit" class="btn-primary">
+            <i class="fas fa-magnifying-glass-chart"></i> Analyser le Bulletin
+          </button>
+        </form>
+
+        <!-- Exemple de bulletin et upload -->
+        <div class="example-section">
+          <button class="example-btn" id="load-example" type="button">
+            <i class="fas fa-lightbulb"></i> Charger un exemple de bulletin
+          </button>
+
+          <label
+            for="file-upload"
+            class="example-btn"
+            style="cursor: pointer; display: inline-flex; margin-left: 10px"
+          >
+            <i class="fas fa-upload"></i> Charger depuis un fichier
+            <input
+              type="file"
+              id="file-upload"
+              accept=".txt,.pdf"
+              style="display: none"
+            />
+          </label>
+
+          <!-- Affichage du nom de fichier -->
+          <div
+            id="file-name-display"
+            style="
+              display: none;
+              margin-top: 10px;
+              padding: 10px;
+              background: #f0f9ff;
+              border-left: 4px solid #0066ff;
+              border-radius: 8px;
+            "
+          >
+            <i
+              class="fas fa-file"
+              style="color: #0066ff; margin-right: 8px"
+            ></i>
+            <span
+              id="file-name-text"
+              style="font-weight: 500; color: #333"
+            ></span>
+            <button
+              id="clear-file"
+              type="button"
+              style="
+                margin-left: 10px;
+                background: none;
+                border: none;
+                color: #ff3b30;
+                cursor: pointer;
+                font-size: 16px;
+              "
+              title="Supprimer le fichier"
+            >
+              <i class="fas fa-times-circle"></i>
+            </button>
+          </div>
         </div>
-        <h3>
-          {% if prediction == 1 %}RISQUE DÉTECTÉ{% else %}CONDITIONS NORMALES{%
-          endif %}
-        </h3>
-        <div class="probability">{{ (probability * 100)|round(1) }}%</div>
-        <p>
-          {% if prediction == 1 %} Probabilité d'incident maritime élevée.
-          Prudence recommandée. {% else %} Conditions favorables pour la
-          navigation. {% endif %}
-        </p>
-        <p style="font-size: 13px; margin-top: 15px; opacity: 0.9">
-          Classe prédite : {{ prediction }} | Confiance : {{ (probability *
-          100)|round(2) }}%
-        </p>
+      </div>
+
+      <!-- Tab 2: Saisie Simplifiée -->
+      <div id="tab-manual" class="tab-content active">
+        <form method="post" action="/predict-simple" class="form">
+          <div class="section">
+            <h2 class="section-title">
+              <i class="fas fa-calendar-alt"></i> Date de l'observation
+            </h2>
+            <div class="form-group full-width">
+              <input
+                type="text"
+                name="date_obs"
+                id="date_obs"
+                placeholder="23/01/2026 ou 2026-01-23"
+                value="23/01/2026"
+                required
+              />
+              <small class="help-text">Format : JJ/MM/AAAA ou AAAA-MM-JJ</small>
+            </div>
+          </div>
+
+          <div class="section">
+            <h2 class="section-title">
+              <i class="fas fa-map-marker-alt"></i> Localisation
+            </h2>
+            <div class="form-group full-width">
+              <select name="lieu" id="lieu" required>
+                <optgroup label="Côte Est">
+                  <option value="Cap d'Ambre">Cap d'Ambre</option>
+                  <option value="Antsiranana">
+                    Antsiranana (Diego-Suarez)
+                  </option>
+                  <option value="Sambava">Sambava</option>
+                  <option value="Antalaha">Antalaha</option>
+                  <option value="Cap Est">Cap Est</option>
+                  <option value="Sainte Marie">Île Sainte Marie</option>
+                  <option value="Toamasina" selected>
+                    Toamasina (Tamatave)
+                  </option>
+                  <option value="Mahanoro">Mahanoro</option>
+                  <option value="Manakara">Manakara</option>
+                  <option value="Farafangana">Farafangana</option>
+                  <option value="Taolagnaro">Taolagnaro (Fort-Dauphin)</option>
+                </optgroup>
+                <optgroup label="Côte Ouest">
+                  <option value="Mahajanga">Mahajanga (Majunga)</option>
+                  <option value="Besalampy">Besalampy</option>
+                  <option value="Maintirano">Maintirano</option>
+                  <option value="Morondava">Morondava</option>
+                  <option value="Morombe">Morombe</option>
+                  <option value="Toliara">Toliara (Tuléar)</option>
+                </optgroup>
+                <optgroup label="Côte Sud">
+                  <option value="Cap Sainte Marie">Cap Sainte Marie</option>
+                </optgroup>
+              </select>
+            </div>
+          </div>
+
+          <div class="section">
+            <h2 class="section-title">
+              <i class="fas fa-cloud-sun"></i> Conditions Météorologiques
+            </h2>
+            <div class="form-grid">
+              <div class="form-group">
+                <label for="vent_desc">
+                  <i class="fas fa-wind"></i> Force du vent
+                </label>
+                <select name="vent_desc" id="vent_desc" required>
+                  <option value="Calme">Calme (< 5 km/h)</option>
+                  <option value="Légère brise">Légère brise (10 km/h)</option>
+                  <option value="Petite brise">Petite brise (15 km/h)</option>
+                  <option value="Jolie brise" selected>
+                    Jolie brise (20 km/h)
+                  </option>
+                  <option value="Bonne brise">Bonne brise (25 km/h)</option>
+                  <option value="Vent frais">Vent frais (30 km/h)</option>
+                  <option value="Grand frais">Grand frais (35 km/h)</option>
+                  <option value="Coup de vent">Coup de vent (45 km/h)</option>
+                  <option value="Fort coup de vent">
+                    Fort coup de vent (55 km/h)
+                  </option>
+                  <option value="Tempête">Tempête (65 km/h)</option>
+                  <option value="Forte tempête">Forte tempête (75 km/h)</option>
+                  <option value="Ouragan">Ouragan (> 85 km/h)</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="etat_mer_desc">
+                  <i class="fas fa-water"></i> État de la mer
+                </label>
+                <select name="etat_mer_desc" id="etat_mer_desc" required>
+                  <option value="Calme">Calme (0)</option>
+                  <option value="Ridée">Ridée (1)</option>
+                  <option value="Belle">Belle (2)</option>
+                  <option value="Peu agitée" selected>Peu agitée (3)</option>
+                  <option value="Agitée">Agitée (4)</option>
+                  <option value="Forte">Forte (5)</option>
+                  <option value="Très forte">Très forte (6)</option>
+                  <option value="Grosse">Grosse (7)</option>
+                  <option value="Très grosse">Très grosse (8)</option>
+                  <option value="Énorme">Énorme (9)</option>
+                </select>
+              </div>
+
+              <div class="form-group full-width">
+                <label for="temps_desc">
+                  <i class="fas fa-cloud-sun-rain"></i> Conditions météo
+                </label>
+                <select name="temps_desc" id="temps_desc" required>
+                  <option value="Clair">Clair / Beau temps</option>
+                  <option value="Peu nuageux">Peu nuageux</option>
+                  <option value="Nuageux" selected>Nuageux</option>
+                  <option value="Couvert">Couvert</option>
+                  <option value="Averses">Averses / Pluie légère</option>
+                  <option value="Pluie">Pluie</option>
+                  <option value="Pluie forte">Pluie forte</option>
+                  <option value="Orage">Orage / Grains</option>
+                  <option value="Brume">Brume</option>
+                  <option value="Brouillard">Brouillard</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <button type="submit" class="btn-primary">
+            <i class="fas fa-shield-halved"></i> Analyser le Risque
+          </button>
+        </form>
+      </div>
+
+      <!-- Résultats -->
+      {% if prediction is defined %}
+      <div class="result-container">
+        <div
+          class="result {% if prediction == 1 %}danger{% else %}safe{% endif %}"
+        >
+          <div class="result-header">
+            <div class="icon">
+              {% if prediction == 1 %}
+              <i class="fas fa-triangle-exclamation"></i>
+              {% else %}
+              <i class="fas fa-circle-check"></i>
+              {% endif %}
+            </div>
+            <div class="result-header-text">
+              <h3 class="result-title">
+                {% if prediction == 1 %} Risque Détecté {% else %} Conditions
+                Normales {% endif %}
+              </h3>
+              {% if parsed_data and parsed_data.type_phenomene %}
+              <span class="result-tag">{{ parsed_data.type_phenomene }}</span>
+              {% endif %}
+            </div>
+          </div>
+
+          <div class="probability-badge">
+            <span class="probability-value"
+              >{{ (probability * 100)|round(1) }}</span
+            >
+            <span class="probability-label">%</span>
+          </div>
+
+          <p class="result-message">
+            {% if prediction == 1 %} Probabilité d'incident maritime élevée.
+            Prudence recommandée pour la navigation. {% else %} Conditions
+            météorologiques favorables pour la navigation maritime. {% endif %}
+          </p>
+
+          <!-- Données extraites -->
+          {% if model_input %}
+          <div class="extracted-data">
+            <h4><i class="fas fa-database"></i> Données analysées</h4>
+            <div class="data-grid">
+              <div class="data-item">
+                <span class="data-icon"><i class="fas fa-wind"></i></span>
+                <span class="data-label">Vent</span>
+                <span class="data-value"
+                  >{{ model_input.vent_vitesse }} km/h</span
+                >
+              </div>
+              <div class="data-item">
+                <span class="data-icon"><i class="fas fa-water"></i></span>
+                <span class="data-label">Vagues</span>
+                <span class="data-value">{{ model_input.hauteur_mer }} m</span>
+              </div>
+              <div class="data-item">
+                <span class="data-icon"
+                  ><i class="fas fa-wave-square"></i
+                ></span>
+                <span class="data-label">État mer</span>
+                <span class="data-value">{{ model_input.etat_mer }}/9</span>
+              </div>
+              <div class="data-item">
+                <span class="data-icon"><i class="fas fa-eye"></i></span>
+                <span class="data-label">Visibilité</span>
+                <span class="data-value">{{ model_input.visibilite }}/10</span>
+              </div>
+              <div class="data-item">
+                <span class="data-icon"><i class="fas fa-calendar"></i></span>
+                <span class="data-label">Date</span>
+                <span class="data-value"
+                  >{{ model_input.jour }}/{{ model_input.mois }}/{{
+                  model_input.annee }}</span
+                >
+              </div>
+              <div class="data-item">
+                <span class="data-icon"><i class="fas fa-map-pin"></i></span>
+                <span class="data-label">Position</span>
+                <span class="data-value"
+                  >{{ model_input.latitude }}°, {{ model_input.longitude
+                  }}°</span
+                >
+              </div>
+            </div>
+          </div>
+          {% endif %}
+
+          <div class="result-details">
+            <div class="detail-item">
+              <span class="detail-label">Prédiction</span>
+              <span class="detail-value"
+                >{{ 'Risque' if prediction == 1 else 'Normal' }}</span
+              >
+            </div>
+            <div class="detail-item">
+              <span class="detail-label">Confiance</span>
+              <span class="detail-value"
+                >{{ (probability * 100)|round(2) }}%</span
+              >
+            </div>
+          </div>
+        </div>
       </div>
       {% endif %}
+
+      <!-- Footer -->
+      <footer class="footer">
+        <p>
+          <i class="fas fa-shield-alt"></i> Système de prédiction des risques
+          maritimes - CFIM Madagascar
+        </p>
+      </footer>
     </div>
-    <script src="{{ url_for('static', path='/js/main.js') }}"></script>
+    <script src="{{ url_for('static', path='/js/main.js') }}?v=3"></script>
   </body>
 </html>
